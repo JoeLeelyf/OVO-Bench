@@ -1,12 +1,29 @@
+"""
+This module provides utilities for loading datasets and performing inference on RealTime and Backward tasks.
+Functions:
+    create_prompt(question, options, GT):
+        Creates a prompt for the model based on the given question, options, and ground truth.
+    load_datasets(eval_dataset_path):
+        Loads the evaluation dataset from the specified path and returns lists of questions, options, video paths, real-time flags, and ground truth answers.
+    Evaluate():
+        Evaluates the model's response against the ground truth.
+    main():
+        Main function to load the dataset, initialize the model, perform inference, and evaluate the results.
+Classes:
+    Model_Init:
+        A class to initialize and run inference using the model.
+        Methods:
+            __init__():
+                Initializes the model.
+            inference(prompt, video_path, RealTime):
+                Performs inference using the model with the given prompt, video path, and real-time flag.
+"""
 import json
 import math
 from tqdm import tqdm
 
 def create_prompt(question, options, GT):
     pass
-
-# def Model_Init():
-#     pass
 
 class Model_Init:
 
