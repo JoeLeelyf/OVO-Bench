@@ -1,21 +1,35 @@
-# OVBench
-OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
+# OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
+
 
 
 ## Introduction
-### Key Evaluation Aspects
+### 🌟 Three distinct problem-solving modes
 -  **Backward Tracing**: Memory, particularly long-term memory, is a crucial aspect of human intelligence.
 -  **Real-Time Visual Perception**: Accurate real-time perception of visual content is crucial, as actions undertaken in the present shape future outcomes.
 -  **Forward Active Responding**: Transitioning from passive reception to active perception is essential for advanced video understanding systems.
 
 ### Dataset Statistics
-- 🎬 **1,000** videos
-- 📝 **3,100** QA pairs
-- 📈 time stamp
+-  **971** videos
+-  **3,097** QA pairs
+<p align="center">
+  <img src="images/data_num.jpg" alt="Distribution of averaged query timestamps and
+video duration (in seconds) in OVBench. " width="50%">
+</p>
 
-####  Task Taxonomy
+-  **263.42s** Average query timestamp.
+
+<p align="center">
+  <img src="images/data_duration.jpg" alt="Distribution of questions and video in OVBench." width="50%">
+</p>
+
+
+
 ##  Dataset Examples
-## 🌟Evaluation Pipeline
+<p align="center">
+  <img src="images/benchmark_examples_vertical_00.png" alt="Distribution of questions and video in OVBench." width="50%">
+</p>
+
+## Evaluation Pipeline
 
 ### Requirements
 
@@ -23,11 +37,16 @@ OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
 - decord
 
 ### Data Preparation
+The question-answer pairs are available in (coming soon)
 
+The videos are available in (coming soon)
+
+## License
+OVBench is released under the 
 
 ## 🫥 Experimental Results
 
-## 📍 Citation
+## 📍 Citing OVBench
 ```bibtex
 @article{Qwen2VL,
   title={Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution},
