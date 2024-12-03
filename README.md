@@ -28,11 +28,3 @@ OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
 ## 🫥 Experimental Results
 
 ## 📍 Citation
-```bibtex
-@article{Qwen2VL,
-  title={Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution},
-  author={Wang, Peng and Bai, Shuai and Tan, Sinan and Wang, Shijie and Fan, Zhihao and Bai, Jinze and Chen, Keqin and Liu, Xuejing and Wang, Jialin and Ge, Wenbin and Fan, Yang and Dang, Kai and Du, Mengfei and Ren, Xuancheng and Men, Rui and Liu, Dayiheng and Zhou, Chang and Zhou, Jingren and Lin, Junyang},
-  journal={arXiv preprint arXiv:2409.12191},
-  year={2024}
-}
-```
