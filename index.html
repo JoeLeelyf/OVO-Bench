@@ -41,7 +41,8 @@
 						<div class="column has-text-centered">
 							<h1 class="title is-1 publication-title"><b style="color: #0088cc;">OV</b>Bench:</h1>
 							<h2 class="subtitle is-3 publication-subtitle">
-								How Far is Your Video-LLMs from Real-World <b style="color: #0088cc;">O</b>nline <b style="color: #0088cc;">V</b>ideo Understanding?
+								How Far is Your Video-LLMs from Real-World <b style="color: #0088cc;">O</b>nline <b
+									style="color: #0088cc;">V</b>ideo Understanding?
 							</h2>
 							<div class="is-size-5 publication-authors">
 								<!-- Paper authors -->
@@ -204,16 +205,34 @@
 				<div class="columns is-centered has-text-centered">
 					<div class="column is-four-fifths">
 						<div class="content has-text-justified">
-							<br>Online video understanding aims to equip real-world, 
-							always-on agents with the ability to receive and process 
-							video inputs continuously, which closely mimics the human visual perception process. We categorize online video 
-							understanding into three distinct problem-solving modes: 
-							<br>(1) <b>Backward Tracing</b>, (2) <b>Real-Time Visual Perception</b>, and (3) <b>Forward Active Responding</b>.
+							<br> Online video understanding aims to equip real-world,
+							always-on agents with the ability to receive and process
+							video inputs continuously. We closely mimic human's visual understanding process, 
+							which can be depicted as below:
+							<br><img src="static/images/online_thinking_taxnomy.png">
 							<br> Tasks of different modes are as follows:
 							<ol>
-								<li> <b>Backward Tracing</b>
-								<li> <b>Real-Time Visual Perception</b>
-								<li> <b>Forward Active Responding</b>
+								<li> <b>Backward Tracing</b> </li>
+								<ul>
+									<li> <b>[EPM] Episodic Memory</b>:  Backtrack and retrieve key moments from past video inputs.</li>
+									<li> <b>[ASI] Action Sequency Identification</b>: Identify the correct sequence of human actions in the video streams. </li>
+									<li> <b>[HLD] Hallucination Detection</b>: Ask questions irrelevant to existing video inputs. </li>
+								</ul>
+								<li> <b>Real-Time Visual Perception</b> </li>
+								<ul>
+									<li> <b>[STU] Spatial Understanding</b>: Reason over the spatial relationships between objects occuring in nearby frames. </li>
+									<li> <b>[OJR] Object Recognition</b>: Recognize the objects appearing in the current frames. </li>
+									<li> <b>[ATR] Attribute Recognition</b>: Identify the characteristics or properties of objects. </li>
+									<li> <b>[ACR] Action Recognition</b>: Recognize and interpret the actions being performed by individuals in current frames. </li>
+									<li> <b>[OCR] Optical Character Recognition</b>: Recognize and interpret characters that appear within the frame. </li>
+									<li> <b>[FTP] Future Prediction</b>: Forecast the most probable subsequent phase of the current scene. </li>
+								</ul>
+								<li> <b>Forward Active Responding</b> </li>
+								<ul>
+									<li> <b>[REC] Repetition Event Count</b>: Respond when a repetitive event occurs again. </li>
+									<li> <b>[SSR] Sequential Steps Recognition</b>: Respond when a certain procedure or sequence of actions has transitioned to another stage. </li>
+									<li> <b>[CRR] Clues Reveal Responding</b>: Delay responding until sufficient information or clues are provided. </li>
+								</ul>
 							</ol>
 						</div>
 					</div>
@@ -227,7 +246,7 @@
 			<div class="container is-max-desktop">
 				<div class="columns is-centered has-text-centered">
 					<div class="column is-full">
-						<h2 class="title is-3">Comparision of OVBench and Other VideoQA benchmarks</h2>
+						<h2 class="title is-3">OVBench Statistics Analysis</h2>
 					</div>
 				</div>
 			</div>
@@ -235,8 +254,16 @@
 		<section class="section hero is-centered">
 			<div class="container is-max-desktop">
 				<div class="columns is-centered has-text-centered">
-					<div class="column is-four-fifths">
-						The current evaluation of video-LLMs
+					<div class="column is-full">
+						<img src="static/images/statistics_analysis.png">
+					</div>
+				</div>
+				<div class="columns is-centered has-text-centered">
+					<div class="content has-text-centered">
+						<b>OVBench: benchmark designed for online visual understanding.</b> 
+						(a) For each video, we densely query Video-LLMs along the video stream to simulate online conversation scene.
+						(b) Our benchmarks features a varied duration of query timestamps and video durations.
+						(c) We include a large propotion of ego-centric video in our data source.
 					</div>
 				</div>
 			</div>
@@ -277,21 +304,54 @@
 			<div class="container is-max-desktop">
 				<div class="columns is-centered has-text-centered">
 					<div class="column is-full">
-						<h2 class="title is-3">More Dataset Examples</h2>
+						<h2 class="title is-3">More Dataset Examples
+							<a href="static/examples/benchmark_examples_supplimentary.pdf" download>
+								<img src="static/images/pdf_download.png" alt="下载图标" class="icon">
+							</a>
+						</h2>
 					</div>
 				</div>
 			</div>
 		</section>
-		<section class="hero is-small is-full">
-		  <div class="hero-body">
-		    <div class="container">
-		
-		      <iframe  src="static/examples/benchmark_examples_supplementary.pdf" width="100%" height="550">
-		          </iframe>
-		        
-		      </div>
-		    </div>
-		  </section>
+		<!-- Image carousel -->
+		<section class="hero is-small">
+			<div class="hero-body">
+				<div class="container">
+					<div id="results-carousel" class="carousel results-carousel">
+						<div class="item">
+							<!-- Your image here -->
+							<img src="static/examples/example_1.png" alt="MY ALT TEXT" />
+						</div>
+						<div class="item">
+							<!-- Your image here -->
+							<img src="static/examples/example_2.png" alt="MY ALT TEXT" />
+						</div>
+						<div class="item">
+							<!-- Your image here -->
+							<img src="static/examples/example_3.png" alt="MY ALT TEXT" />
+						</div>
+						<div class="item">
+							<!-- Your image here -->
+							<img src="static/examples/example_4.png" alt="MY ALT TEXT" />
+						</div>
+						<div class="item">
+							<!-- Your image here -->
+							<img src="static/examples/example_5.png" alt="MY ALT TEXT" />
+						</div>
+						<div class="item">
+							<!-- Your image here -->
+							<img src="static/examples/example_6.png" alt="MY ALT TEXT" />
+						</div>
+						<div class="item">
+							<!-- Your image here -->
+							<img src="static/examples/example_7.png" alt="MY ALT TEXT" />
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End image carousel -->
 		<!-- More Dataset Examples -->
 
 		<!--BibTex citation -->
