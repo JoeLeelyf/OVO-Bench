@@ -18,6 +18,8 @@
 -  **Real-Time Visual Perception**: Accurate real-time perception of visual content is crucial, as actions undertaken in the present shape future outcomes.
 -  **Forward Active Responding**: Transitioning from passive reception to active perception is essential for advanced video understanding systems.
 
+### 💫Chain-of-Time Thinking Process
+OVBench evaluates Video-LLMs' ability to find temporal visual clues from ongoing input, allowing models to wait for sufficient evidence before responding. We term this approach the Video Chain-of-Time thinking process, analogous to Chain-of-Thought reasoning in LLMs.
 <p align="center">
   <img src="images/VideoCoT.png" alt="Distribution of questions and video in OVBench." width="100%">
 </p>
