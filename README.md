@@ -18,6 +18,11 @@
 -  **Real-Time Visual Perception**: Accurate real-time perception of visual content is crucial, as actions undertaken in the present shape future outcomes.
 -  **Forward Active Responding**: Transitioning from passive reception to active perception is essential for advanced video understanding systems.
 
+<p align="center">
+  <img src="images/VideoCoT.png" alt="Distribution of questions and video in OVBench." width="100%">
+</p>
+
+
 ### Dataset Statistics
 -  **971** videos
 -  **3,097** QA pairs
