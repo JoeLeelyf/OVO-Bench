@@ -15,8 +15,8 @@ parser.add_argument("--task", type=str, required=False, nargs="+", \
 parser.add_argument("--model", type=str, required=True, help="Model to evaluate")
 parser.add_argument("--save_results", type=bool, default=True, help="Save results to a file")
 
-parser.add_argument("--gpt_api", type=str, required=False, default="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")
-parser.add_argument("--gemini_project", type=str, required=False, default="project-241105")
+parser.add_argument("--gpt_api", type=str, required=False, default="")
+parser.add_argument("--gemini_project", type=str, required=False, default="")
 args = parser.parse_args()
 
 if args.model == "GPT":
