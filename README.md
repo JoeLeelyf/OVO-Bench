@@ -1,4 +1,6 @@
-# OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
+<h1 align="center">
+  <b style="color: #0088cc;">OV</b>Bench: How Far is Your Video-LLMs from Real-World <b style="color: #0088cc;">O</b>nline <b style="color: #0088cc;">V</b>ideo Understanding?
+</h1>
 
 <p align="center">
   <a href="https://huggingface.co/datasets/JoeLeelyf/OVBench" style="margin-right: 10px;"> 
