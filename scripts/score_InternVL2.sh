@@ -1,0 +1,1 @@
+python score.py --model InternVL2 --mode offline

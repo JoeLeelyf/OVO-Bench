@@ -1,0 +1,1 @@
+python score.py --model GPT --mode offline

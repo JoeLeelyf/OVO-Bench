@@ -1,21 +1,23 @@
 from openai import OpenAI
 import os
-import os
 from PIL import Image
 import time
-from utils.split_frames import split_frames, encode_image
-from OVBench import OVBenchOffline
+from utils.split_frames import split_frames
+from utils.OVBench import OVBenchOffline
+import base64
+import io
 
 base_url = "https://api.openai.com/v1"
 
-class GPT(OVBenchOffline):
+class EvalGPT(OVBenchOffline):
     def __init__(self, args, model="gpt-4o"):
         super().__init__(args)
-        self._init_model()
         self.args = args
         self.model_name = model
-
         self.api_key = args.gpt_api
+        print(self.api_key)
+        
+        self._init_model()
     
     def _init_model(self):
         self.proxy_on()
@@ -27,8 +29,13 @@ class GPT(OVBenchOffline):
         os.environ['HTTP_PROXY'] = 'http://closeai-proxy.pjlab.org.cn:23128/'
         os.environ['HTTPS_PROXY'] = 'http://closeai-proxy.pjlab.org.cn:23128/'
         print(os.environ['http_proxy'])
+    
+    def encode_image(self, image):
+        buffered = io.BytesIO()
+        image.save(buffered, format="PNG")
+        return base64.b64encode(buffered.getvalue()).decode('utf-8')
 
-    def build_prompt(self, question, urls):
+    def build_messages(self, question, urls):
         message = []
         for url in urls:
             message.append(
@@ -77,14 +84,16 @@ class GPT(OVBenchOffline):
                     print(e)
                     raise
     
-    def inference(self, video_file_name, prompt, end_time, start_time=0):
+    def inference(self, video_file_name, prompt, start_time=0, end_time=0):
         urls = []
         frames = split_frames(video_file_name, end_time=end_time, start_time=start_time)
+        print("complete split frames")
         for frame in frames:
             frame_image = Image.fromarray(frame)
-            base64_image = encode_image(frame_image)
+            base64_image = self.encode_image(frame_image)
             urls.append(f"data:image/png;base64,{base64_image}")
         
-        prompt = self.build_prompt(prompt, urls)
+        prompt = self.build_messages(prompt, urls)
         response = self.call_gpt_eval(prompt, self.model_name)
+        print(response)
         return response

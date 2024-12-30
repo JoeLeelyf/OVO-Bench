@@ -14,9 +14,9 @@
 
 ## Introduction
 ### 🌟 Three distinct problem-solving modes
--  **Backward Tracing**: Memory, particularly long-term memory, is a crucial aspect of human intelligence.
--  **Real-Time Visual Perception**: Accurate real-time perception of visual content is crucial, as actions undertaken in the present shape future outcomes.
--  **Forward Active Responding**: Transitioning from passive reception to active perception is essential for advanced video understanding systems.
+-  **Backward Tracing**: trace back to past events to answer the question.
+-  **Real-Time Visual Perception**: understand and respond to events as they unfold at the current timestamp.
+-  **Forward Active Responding**: delay the response until sufficient future information becomes available to answer the question accurately.
 
 ### 💫Chain-of-Time Thinking Process
 OVBench evaluates Video-LLMs' ability to find temporal visual clues from ongoing input, allowing models to wait for sufficient evidence before responding. We term this approach the Video Chain-of-Time thinking process, analogous to Chain-of-Thought reasoning in LLMs.
@@ -49,17 +49,57 @@ video duration (in seconds) in OVBench. " width="50%">
 ## Evaluation Pipeline
 
 ### Requirements
-
-- Python 3.x
-- decord
+Following modules are required for inference and scoring pipeline.
+```txt
+moviepy==1.0.3
+numpy
+pillow
+tqdm
+```
+Or run `pip insall -r requirements` to install all required modules.
 
 ### Data Preparation
-The question-answer pairs are available in (coming soon)
+Download `videos` and `annotations` from our [huggingface-repo](https://huggingface.co/datasets/JoeLeelyf/OVBench), unzip all files and place them under `./data` directory. 
 
-The videos are available in (coming soon)
+### Inference and Score
+We divide our evaluation pipeline into two parts: `inference` and `score`. For our released models, run our provided scripts under `./scripts` directory. For example, for InternVL2, run:
+```bash
+bash scripts/inference_InternVL2.sh
+```
+All inference results will be saved under `./results/[MODEL_NAME]`. Then run our scoring scripts:
+```bash
+bash scripts/score_InternVL2.sh
+```
+Scores will show in cli:
+```txt
+Offline Model: InternVL2
+Evaluate Backward Tracing...
+Task: EPM, Acc: 45.12
+Task: HLD, Acc: 35.03
+Task: ASI, Acc: 56.76
+Backward Avg.: 44.70
+
+Evaluate Real-time Visual Perception...
+Task: STU, Acc: 48.31
+Task: OJR, Acc: 52.72
+Task: ATR, Acc: 68.97
+Task: FPD, Acc: 68.32
+Task: ACR, Acc: 59.63
+Task: OCR, Acc: 73.83
+Realtime Avg.: 60.57
+
+Evaluate Forward Active Responding...
+Task: CRR, Acc: 51.25
+Task: REC, Acc: 28.92
+Task: SSR, Acc: 59.43
+Forward Avg.: 44.13
+
+Total Avg.: 48.69
+```
+To evaluate your own models, inherit `OVBenchOffline/Online` class in `./utils/OVBench.py` and implement your own inference pipeline. Refer to our provided models under `./models` for further details.
 
 ## License
-OVBench is released under the 
+OVBench is released under `CC BY-NC-SA 4.0` license. By downloading our dataset from our website or other sources, the user agrees to adhere to the terms of `CC BY-NC-SA 4.0` and licenses of the source datasets
 
 ## 🫥 Experimental Results
 
