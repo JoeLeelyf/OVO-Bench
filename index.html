@@ -47,20 +47,67 @@
 							<div class="is-size-5 publication-authors">
 								<!-- Paper authors -->
 								<span class="author-block">
-									<a href="FIRST AUTHOR PERSONAL LINK" target="_blank">First
-										Author</a><sup>*</sup>,</span>
+									<a href="FIRST AUTHOR PERSONAL LINK" target="_blank">Yifei Li</a><sup>*1,2&dagger;</sup>,</span>
 								<span class="author-block">
-									<a href="SECOND AUTHOR PERSONAL LINK" target="_blank">Second
-										Author</a><sup>*</sup>,</span>
+									<a href="SECOND AUTHOR PERSONAL LINK" target="_blank">Junbo Niu</a><sup>*1,3&dagger;</sup>,</span>
 								<span class="author-block">
-									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Third Author</a>
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Ziyang Miao</a><sup>3</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Chunjiang Ge</a><sup>2</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Yuanhang Zhou</a><sup>2</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Qihao He</a><sup>4</sup>
+								</span>
+							</div>
+							<div class="is-size-5 publication-authors">
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Xiaoyi Dong</a><sup>1,5</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Haodong Duan</a><sup>1</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Shuangrui Ding</a><sup>1,5&dagger;</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Rui Qian</a><sup>*1,5&dagger;</sup>
+								</span>
+							</div>
+							<div class="is-size-5 publication-authors">
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Pan Zhang</a><sup>1</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Yuhang Zang</a><sup>1</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Yuhang Cao</a><sup>1</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Conghui He</a><sup>6</sup>,</span>
+								</span>
+								<span class="author-block">
+									<a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Jiaqi Wang</a><sup>1</sup>
 								</span>
 							</div>
 
 							<div class="is-size-5 publication-authors">
-								<span class="author-block">Shanghai AI Laboratory</span>
-								<span class="eql-cntrb"><small><br><sup>*</sup>Indicates
-										Equal Contribution</small></span>
+								<span class="author-block"><sup>1</sup>Shanghai AI Laboratory,</span>
+								<span class="author-block"><sup>2</sup>Tsinghua University</span>
+							</div>
+							<div class="is-size-5 publication-authors">
+								<span class="author-block"><sup>3</sup>Beihang University,</span>
+								<span class="author-block"><sup>4</sup>Communication University of China</span>
+							</div>
+							<div class="is-size-5 publication-authors">
+								<span class="author-block"><sup>5</sup>The Chinese University of Hong Kong,</span>
+								<span class="author-block"><sup>6</sup>SenseTime Group</span>
+								<span class="eql-cntrb"><small><br><sup>*</sup>indicates
+										Equal Contribution; &dagger; indicates interns at IXCLab, Shanghai AI Laboratory</small></span>
 							</div>
 
 							<div class="column has-text-centered">
@@ -159,29 +206,10 @@
 						<h2 class="title is-3">Abstract</h2>
 						<div class="content has-text-justified">
 							<p>
-								Integrating past information and adapting to continuous video input are pivotal for
-								human-level video understanding.
-								Current benchmarks, however, focus on coarse-grained, video-level question-answering in
-								offline settings,
-								limiting real-time processing and adaptability for practical applications.
-								To this end, we introduce <b>OVBench</b> <b>O</b>nline-<b>V</b>ideo-<b>Bench</b>mark),
-								which assesses online video understanding through three modes:
-								(1) <b>Backward Tracing</b>, (2) <b>Real-Time Visual Perception</b>, and (3) <b>Forward
-									Active Responding</b>.
-								OVBench consists of 12 tasks, comprising about 2,800 meta-annotations with fine-grained,
-								event-level timestamps paired with 858 videos across 10 domains,
-								encompassing egocentric activities, virtual gaming worlds, and cinematic scenes.
-								To minimize bias, we employ automated generation pipelines and human annotation for
-								meticulous curation.
-								We design an effective problem generation and evaluation pipeline based on these
-								high-quality samples and densely query Video-LLMs across the video streaming timeline.
-								Extensive evaluations of nine Video-LLMs reveal that despite rapid advancements and
-								improving performance on traditional benchmarks, existing models struggle with online
-								video understanding.
-								Our comprehensive evaluation reveals that the best-performing models still have a
-								significant gap compared to human agents in online video understanding.
-								We anticipate that OVBench will guide the development of Video-LLMs towards practical
-								real-world applications and inspire future research in online video understanding.
+								Temporal Awareness—the ability to reason dynamically based on the timestamp when a question is raised—is the key distinction between offline and online video LLMs. Unlike offline models, which rely on complete, pre-recorded videos for static, post hoc analysis, online models process video streams incrementally and dynamically adapt their responses based on the timestamp at which the question is posed. Despite its significance, temporal awareness has not been adequately evaluated in existing benchmarks.
+								To fill this gap, we present <b>OVBench</b> (<b>O</b>nline-<b>V</b>ideo-<b>Bench</b>mark), a novel video benchmark that emphasizes the importance of timestamps for advanced online video understanding capability benchmarking. OVBench evaluates the ability of video LLMs to reason and respond to events occurring at specific timestamps under three distinct scenarios: (1) <b>Backward tracing</b>: trace back to past events to answer the question. (2) <b>Real-time understanding</b>: understand and respond to events as they unfold at the current timestamp. (3) <b>Forward active responding</b>: delay the response until sufficient future information becomes available to answer the question accurately.
+								OVBench comprises 12 tasks across 10 diverse domains, featuring 858 videos and approximately 2,800 fine-grained meta-annotations with precise timestamps. To ensure scalability and accuracy, we combine automated generation pipelines with human curation. With these high-quality samples, we further developed an evaluation pipeline to systematically query video LLMs along the video timeline.
+								Evaluations of nine Video-LLMs reveal that, despite advancements on traditional benchmarks, current models struggle with online video understanding, showing a significant gap compared to human agents. We hope OVBench will drive progress in video LLMs and inspire future research in online video reasoning. Our benchmark and code can be accessed at <a href="https://github.com/JoeLeelyf/OVBench">https://github.com/JoeLeelyf/OVBench</a>.
 							</p>
 						</div>
 					</div>
