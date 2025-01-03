@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b style="color: #0088cc;">OVO</b>-Bench: How Far is Your Video-LLMs from Real-World <b style="color: #0088cc;">O</b>nline <b style="color: #0088cc;">V</b>ide<b style="color: #0088cc;">O</b> Understanding?
+  <font color=#0088cc>O</font><font color=#060270>V</font><font color=#0088cc>O</font>-Bench: How Far is Your Video-LLMs from Real-World <font color=#0088cc>O</font>nline <font color=#060270>V</font>ide<b style="color: #0088cc;">O</b> Understanding?
 </h1>
 
 <p align="center">
