@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://huggingface.co/datasets/JoeLeelyf/OVBench" style="margin-right: 10px;"> 
+  <a href="https://huggingface.co/datasets/JoeLeelyf/OVO-Bench" style="margin-right: 10px;"> 
     <img src="https://img.shields.io/badge/arXiv-2412.****-b31b1b.svg?logo=arXiv">
   </a>
-  <a href="https://huggingface.co/datasets/JoeLeelyf/OVBench" style="margin-right: 10px;"> 
+  <a href="https://huggingface.co/datasets/JoeLeelyf/OVO-Bench" style="margin-right: 10px;"> 
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-ffd21e">
   </a>
-  <a href="https://huggingface.co/datasets/JoeLeelyf/OVBench"> 
+  <a href="https://huggingface.co/datasets/JoeLeelyf/OVO-Bench"> 
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-ffd21e">
   </a>
 </p>
@@ -21,7 +21,7 @@
 -  **Forward Active Responding**: delay the response until sufficient future information becomes available to answer the question accurately.
 
 ### 💫Chain-of-Time Thinking Process
-OVBench evaluates Video-LLMs' ability to find temporal visual clues from ongoing input, allowing models to wait for sufficient evidence before responding. We term this approach the Video Chain-of-Time thinking process, analogous to Chain-of-Thought reasoning in LLMs.
+OVO-Bench evaluates Video-LLMs' ability to find temporal visual clues from ongoing input, allowing models to wait for sufficient evidence before responding. We term this approach the Video Chain-of-Time thinking process, analogous to Chain-of-Thought reasoning in LLMs.
 <p align="center">
   <img src="images/VideoCoT.png" alt="Distribution of questions and video in OVO-Bench." width="100%">
 </p>
@@ -98,14 +98,14 @@ Forward Avg.: 44.13
 
 Total Avg.: 48.69
 ```
-To evaluate your own models, inherit `OVBenchOffline/Online` class in `./utils/OVBench.py` and implement your own inference pipeline. Refer to our provided models under `./models` for further details.
+To evaluate your own models, inherit `OVOBenchOffline/Online` class in `./utils/OVOBench.py` and implement your own inference pipeline. Refer to our provided models under `./models` for further details.
 
 ## License
 OVO-Bench is released under `CC BY-NC-SA 4.0` license. By downloading our dataset from our website or other sources, the user agrees to adhere to the terms of `CC BY-NC-SA 4.0` and licenses of the source datasets
 
 ## 🫥 Experimental Results
 
-## 📍 Citing OVBench
+## 📍 Citing OVO-Bench
 ```bibtex
 @article{Qwen2VL,
   title={Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution},
