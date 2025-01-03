@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b style="color: #0088cc;">OV</b>Bench: How Far is Your Video-LLMs from Real-World <b style="color: #0088cc;">O</b>nline <b style="color: #0088cc;">V</b>ideo Understanding?
+  <b style="color: #0088cc;">OVO</b>-Bench: How Far is Your Video-LLMs from Real-World <b style="color: #0088cc;">O</b>nline <b style="color: #0088cc;">V</b>ide<b style="color: #0088cc;">O</b> Understanding?
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ### 💫Chain-of-Time Thinking Process
 OVBench evaluates Video-LLMs' ability to find temporal visual clues from ongoing input, allowing models to wait for sufficient evidence before responding. We term this approach the Video Chain-of-Time thinking process, analogous to Chain-of-Thought reasoning in LLMs.
 <p align="center">
-  <img src="images/VideoCoT.png" alt="Distribution of questions and video in OVBench." width="100%">
+  <img src="images/VideoCoT.png" alt="Distribution of questions and video in OVO-Bench." width="100%">
 </p>
 
 
@@ -32,20 +32,20 @@ OVBench evaluates Video-LLMs' ability to find temporal visual clues from ongoing
 -  **3,097** QA pairs
 <p align="center">
   <img src="images/data_num.jpg" alt="Distribution of averaged query timestamps and
-video duration (in seconds) in OVBench. " width="50%">
+video duration (in seconds) in OVOBench. " width="50%">
 </p>
 
 -  **263.42s** Average query timestamp.
 
 <p align="center">
-  <img src="images/data_duration.jpg" alt="Distribution of questions and video in OVBench." width="50%">
+  <img src="images/data_duration.jpg" alt="Distribution of questions and video in OVO-Bench." width="50%">
 </p>
 
 
 
 ##  Dataset Examples
 <p align="center">
-  <img src="images/benchmark_examples_vertical_00.png" alt="Distribution of questions and video in OVBench." width="50%">
+  <img src="images/benchmark_examples_vertical_00.png" alt="Distribution of questions and video in OVO-Bench." width="50%">
 </p>
 
 ## Evaluation Pipeline
@@ -61,7 +61,7 @@ tqdm
 Or run `pip insall -r requirements` to install all required modules.
 
 ### Data Preparation
-Download `videos` and `annotations` from our [huggingface-repo](https://huggingface.co/datasets/JoeLeelyf/OVBench), unzip all files and place them under `./data` directory. 
+Download `videos` and `annotations` from our [huggingface-repo](https://huggingface.co/datasets/JoeLeelyf/OVO-Bench), unzip all files and place them under `./data` directory. 
 
 ### Inference and Score
 We divide our evaluation pipeline into two parts: `inference` and `score`. For our released models, run our provided scripts under `./scripts` directory. For example, for InternVL2, run:
@@ -101,7 +101,7 @@ Total Avg.: 48.69
 To evaluate your own models, inherit `OVBenchOffline/Online` class in `./utils/OVBench.py` and implement your own inference pipeline. Refer to our provided models under `./models` for further details.
 
 ## License
-OVBench is released under `CC BY-NC-SA 4.0` license. By downloading our dataset from our website or other sources, the user agrees to adhere to the terms of `CC BY-NC-SA 4.0` and licenses of the source datasets
+OVO-Bench is released under `CC BY-NC-SA 4.0` license. By downloading our dataset from our website or other sources, the user agrees to adhere to the terms of `CC BY-NC-SA 4.0` and licenses of the source datasets
 
 ## 🫥 Experimental Results
 

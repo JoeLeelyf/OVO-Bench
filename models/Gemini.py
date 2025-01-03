@@ -1,10 +1,10 @@
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part
 import os
-from utils.split_frames import process_video_to_base64
-from utils.OVBench import OVBenchOffline
+import base64
+from utils.OVOBench import OVOBenchOffline
 
-class EvalGemini(OVBenchOffline):
+class EvalGemini(OVOBenchOffline):
     def __init__(self, args):
         super().__init__(args)
         self.args = args
@@ -23,8 +23,21 @@ class EvalGemini(OVBenchOffline):
         os.environ['HTTPS_PROXY'] = 'http://closeai-proxy.pjlab.org.cn:23128/'
         print(os.environ['http_proxy'])
 
-    def inference(self, video_file_name, prompt, start_time=0, end_time=0):
-        video_file = process_video_to_base64(video_file_name, end_time, start_time)
+    def video_to_base64(self, video_path):
+        # 读取视频文件的二进制数据
+        with open(video_path, 'rb') as video_file:
+            video_data = video_file.read()
+        
+        # 将二进制数据编码为 Base64
+        base64_encoded = base64.b64encode(video_data)
+        
+        # 将 Base64 编码的数据转换为字符串
+        base64_string = base64_encoded.decode('utf-8')
+        
+        return base64_string
+
+    def inference(self, video_file_name, prompt):
+        video_file = self.video_to_base64(video_file_name)
 
         response = self.vision_model.generate_content(
             [

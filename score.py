@@ -6,7 +6,7 @@ import argparse
 import os
 import json
 import os
-from utils.OVBenchScore import OVBenchOfflineScore, OVBenchOnlineScore
+from utils.OVOBenchScore import OVOBenchOfflineScore, OVOBenchOnlineScore
 
 parser = argparse.ArgumentParser(description='Eval OVBench')
 parser.add_argument("--result_dir", type=str, default="results", help="Root directory of results")
@@ -30,7 +30,7 @@ for result_path in results_paths:
         results["forward"] += result["forward"]
 
 if args.model in ["GPT", "Gemini", "InternVL2", "QWen2VL_7B"]:
-    score_model = OVBenchOfflineScore(args, results)
+    score_model = OVOBenchOfflineScore(args, results)
 else:
     raise ValueError(f"Unsupported model: {args.model}. Please implement the model.")
 

@@ -1,62 +1,70 @@
 import torch
-from transformers import Qwen2VLForConditionalGeneration, AutoTokenizer, AutoProcessor
-from utils.split_frames import split_save_frames
-from utils.OVBench import OVBenchOffline
+from utils.OVOBench import OVOBenchOffline
+from transformers import AutoProcessor
+from vllm import LLM, SamplingParams
 from qwen_vl_utils import process_vision_info
 
-class EvalQWen2VL(OVBenchOffline):
+class EvalQWen2VL(OVOBenchOffline):
     def __init__(self, args) -> None:
         super().__init__(args)
 
         self.args = args
         self._model_init_()
-    
-    def _model_init_(self):
-        path = self.args.model_path
-        self.model = Qwen2VLForConditionalGeneration.from_pretrained(
-            path, 
-            torch_dtype=torch.bfloat16,
-            attn_implementation="flash_attention_2",
-            device_map="auto"
-        )
-        self.processor = AutoProcessor.from_pretrained(path)
 
-    def inference(self, video_file_name, prompt, start_time=0, end_time=0):
-        frames_path = split_save_frames(video_file_name, start_time=start_time, end_time=end_time, max_frames=64)
-        frames_path = ["file:///" + frame_path for frame_path in frames_path]
+    def _model_init(self):
+        model_path = self.args.model_path
+        self.llm = LLM(
+            model = model_path,
+            dtype=torch.bfloat16,
+            gpu_memory_utilization=0.7,
+        )
+        
+        self.sampling_params = SamplingParams(
+            temperature=0.1,
+            top_p=0.001,
+            repetition_penalty=1.05,
+            max_tokens=256,
+            stop_token_ids=[],
+        )
+
+        self.processor = AutoProcessor.from_pretrained(model_path)
+
+    def inference(self, video_file_name, prompt):
         messages = [
             {
                 "role": "user",
                 "content": [
                     {
                         "type": "video",
-                        "video": frames_path,
+                        "video": video_file_name,
+                        "nframes": 64,
                     },
-                    {"type": "text", "text": prompt}
+                    {
+                        "type": "text",
+                        "text": prompt
+                    }
                 ]
             }
         ]
-        
-        text = self.processor.apply_chat_template(
-            messages, tokenize=False, add_generation_prompt=True
+
+        prompt = self.processor.apply_chat_template(
+            messages,
+            tokenize=False,
+            add_generation_prompt=True,
         )
+
         image_inputs, video_inputs = process_vision_info(messages)
-        inputs = self.processor(
-            text=[text],
-            images=image_inputs,
-            videos=video_inputs,
-            padding=True,
-            return_tensors="pt",
-        )
-        inputs = inputs.to("cuda")
 
-        # Inference
-        generated_ids = self.model.generate(**inputs, max_new_tokens=128)
-        generated_ids_trimmed = [
-            out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
-        ]
-        output_text = self.processor.batch_decode(
-            generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
-        )
+        mm_data = {}
+        if image_inputs is not None:
+            mm_data["image"] = image_inputs
+        if video_inputs is not None:
+            mm_data["video"] = video_inputs
+        llm_inputs = {
+            "prompt": prompt,
+            "multi_modal_data": mm_data,
+        }
 
-        return output_text
+        outputs = self.llm.generate([llm_inputs], sampling_params=self.sampling_params)
+        response = outputs[0].outputs[0].text
+        return response

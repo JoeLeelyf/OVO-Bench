@@ -2,17 +2,40 @@ import abc
 from tqdm import tqdm
 import json
 import os
+import tempfile
+from moviepy.editor import VideoFileClip
 
-class OVBenchOnline():
+class OVOBenchOnline():
     def __init__(self) -> None:
         pass
 
     def inference():
         pass
 
-class OVBenchOffline():
+class OVOBenchOffline():
     def __init__(self, args):
         self.args = args
+    
+    def chunk_video(self, video_path, end_time, start_time=0):
+        video = VideoFileClip(video_path)
+        duration = video.duration
+        try:
+            end_time = min(end_time, duration)
+            # Get video clip
+            clip = video.subclip(start_time, end_time)
+            
+            # Create temp file
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix=".mp4")
+            temp_file_path = temp_file.name
+            
+            # save temp file to video path
+            clip.write_videofile(temp_file_path, codec="libx264", fps=clip.fps)
+
+        finally:
+            # 关闭视频对象
+            video.close()
+
+        return temp_file_path
 
     def eval(self, anno, task_list, mode = "offline"):
         # Inference
@@ -29,10 +52,14 @@ class OVBenchOffline():
                 assert not options == None
                 prompt = self.build_prompt(task = task, question = question, options = options, _anno_ = None, index = None)
                 try:
-                    response = self.inference(video, prompt, start_time=0, end_time=realtime)
+                    chunk_video_path = self.chunk_video(video_path=video, end_time=realtime)
+                    response = self.inference(chunk_video_path, prompt)
                 except Exception as e:
                     print(f"Error during inference: {e}")
                     response = None
+                finally:
+                    if chunk_video_path:
+                        os.remove(chunk_video_path)
 
                 result = {
                     "id": id,
@@ -57,10 +84,14 @@ class OVBenchOffline():
                 assert not options == None
                 prompt = self.build_prompt(task = task, question = question, options = options, _anno_ = None, index = None)
                 try:
-                    response = self.inference(video, prompt, start_time=0, end_time=realtime)
+                    chunk_video_path = self.chunk_video(video_path=video, end_time=realtime)
+                    response = self.inference(chunk_video_path, prompt)
                 except Exception as e:
                     print(f"Error during inference: {e}")
                     response = None
+                finally:
+                    if chunk_video_path:
+                        os.remove(chunk_video_path)
 
                 result = {
                     "id": id,
@@ -83,10 +114,15 @@ class OVBenchOffline():
                     prompt = self.build_prompt(task = task, question = None, options = None, _anno_ = _anno_, index = i)
                     realtime = test_info[i]["realtime"]
                     try:
-                        response = self.inference(video, prompt, start_time=0, end_time=realtime)
+                        chunk_video_path = self.chunk_video(video_path=video, end_time=realtime)
+                        response = self.inference(chunk_video_path, prompt)
                     except Exception as e:
                         print(f"Error during inference: {e}")
                         response = None
+                    finally:
+                        if chunk_video_path:
+                            os.remove(chunk_video_path)
+                    
                     _anno_["test_info"][i]["response"] = response
                 forward_results.append(_anno_)
         

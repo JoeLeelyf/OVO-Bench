@@ -5,15 +5,14 @@ import torchvision.transforms as T
 from PIL import Image
 from torchvision.transforms.functional import InterpolationMode
 from transformers import AutoModel, AutoTokenizer
-from utils.OVBench import OVBenchOffline
-
-from moviepy.editor import VideoFileClip
+from utils.OVOBench import OVOBenchOffline
+from decord import VideoReader, cpu
 import math
 
 IMAGENET_MEAN = (0.485, 0.456, 0.406)
 IMAGENET_STD = (0.229, 0.224, 0.225)
 
-class EvalInternVL2(OVBenchOffline):
+class EvalInternVL2(OVOBenchOffline):
     def __init__(self, args):
         super().__init__(args)
 
@@ -135,41 +134,29 @@ class EvalInternVL2(OVBenchOffline):
         ])
         return frame_indices
 
-    def load_video(self, video_path, bound=None, input_size=448, max_num=1, num_segments=32, start_time=0, end_time=None):
-        # Load video using moviepy
-        video = VideoFileClip(video_path)
+    def load_video(self, video_path, bound=None, input_size=448, max_num=1, num_segments=64):
+        vr = VideoReader(video_path, ctx=cpu(0), num_threads=1)
+        max_frame = len(vr) - 1
+        fps = float(vr.get_avg_fps())
 
-        # Determine the video duration
-        video_duration = video.duration
-        if end_time is None or end_time > video_duration:
-            end_time = video_duration
-
-        # Evenly sample frame indices within the given time range
-        sampled_times = np.linspace(start_time, end_time, num_segments, endpoint=True)
         pixel_values_list, num_patches_list = [], []
         transform = self.build_transform(input_size=input_size)
-
-        # Extract and process frames
-        for t in sampled_times:
-            frame = video.get_frame(t)  # Get frame at time `t`
-            img = Image.fromarray(frame).convert('RGB')
+        frame_indices = self.get_index(bound, fps, max_frame, first_idx=0, num_segments=num_segments)
+        for frame_index in frame_indices:
+            img = Image.fromarray(vr[frame_index].asnumpy()).convert('RGB')
             img = self.dynamic_preprocess(img, image_size=input_size, use_thumbnail=True, max_num=max_num)
             pixel_values = [transform(tile) for tile in img]
             pixel_values = torch.stack(pixel_values)
             num_patches_list.append(pixel_values.shape[0])
             pixel_values_list.append(pixel_values)
-
-        video.close()  # Close the video file to release resources
-
-        # Concatenate pixel values across frames
         pixel_values = torch.cat(pixel_values_list)
         return pixel_values, num_patches_list
     
-    def inference(self, video_file_name, prompt, end_time, start_time=0):
+    def inference(self, video_file_name, prompt):
         generation_config = dict(max_new_tokens=1024, do_sample=False)
 
         video_path = video_file_name
-        pixel_values, num_patches_list = self.load_video(video_path, num_segments=64, max_num=1, end_time=end_time, start_time=start_time)
+        pixel_values, num_patches_list = self.load_video(video_path, num_segments=64, max_num=1)
         pixel_values = pixel_values.to(torch.bfloat16).cuda()
         video_prefix = ''.join([f'Frame{i+1}: <image>\n' for i in range(len(num_patches_list))])
         question = video_prefix + prompt
