@@ -9,12 +9,12 @@
 		<meta property="og:title" content="OVO-Bench" />
 		<meta property="og:description"
 			content="OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?" />
-		<meta property="og:url" content="https://joeleelyf.github.io/OVBench/" />
+		<meta property="og:url" content="https://joeleelyf.github.io/OVO-Bench/" />
 		<!-- Keywords for your paper to be indexed by-->
 		<meta name="keywords" content="online;video;benchmark">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>OVBench</title>
+		<title>OVO-Bench</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 		<link rel="icon" type="image/x-icon" href="static/images/logo.png">
@@ -39,10 +39,10 @@
 				<div class="container is-max-desktop">
 					<div class="columns is-centered">
 						<div class="column has-text-centered">
-							<h1 class="title is-1 publication-title"><b style="color: #0088cc;">OVO</b>-Bench:</h1>
+							<h1 class="title is-1 publication-title"><b style="color: #0088cc;">O</b><b style="color: #060270;">V</b><b style="color: #0088cc;">O</b>-Bench:</h1>
 							<h2 class="subtitle is-3 publication-subtitle">
 								How Far is Your Video-LLMs from Real-World <b style="color: #0088cc;">O</b>nline <b
-									style="color: #0088cc;">V</b>ide<b style="color: #0088cc;">O</b> Understanding?
+									style="color: #060270;">V</b>ide<b style="color: #0088cc;">O</b> Understanding?
 							</h2>
 							<div class="is-size-5 publication-authors">
 								<!-- Paper authors -->
@@ -190,7 +190,7 @@
 
 						<font size="4">
 							<br> <b style="color:#E40304">[To-Be-Done]</b> The release of <b>Training Set</b>
-							<br> <b style="color:#7DDA58">[2024.12.05]</b> The <b>Paper</b>, <b>Eval Code</b>, and
+							<br> <b style="color:#7DDA58">[2025.01.06]</b> The <b>Paper</b>, <b>Eval Code</b>, and
 							<b>Dataset</b> are released!
 						</font>
 					</div>
@@ -207,9 +207,9 @@
 						<div class="content has-text-justified">
 							<p>
 								Temporal Awareness—the ability to reason dynamically based on the timestamp when a question is raised—is the key distinction between offline and online video LLMs. Unlike offline models, which rely on complete, pre-recorded videos for static, post hoc analysis, online models process video streams incrementally and dynamically adapt their responses based on the timestamp at which the question is posed. Despite its significance, temporal awareness has not been adequately evaluated in existing benchmarks.
-								To fill this gap, we present <b>OVBench</b> (<b>O</b>nline-<b>V</b>ideo-<b>Bench</b>mark), a novel video benchmark that emphasizes the importance of timestamps for advanced online video understanding capability benchmarking. OVBench evaluates the ability of video LLMs to reason and respond to events occurring at specific timestamps under three distinct scenarios: (1) <b>Backward tracing</b>: trace back to past events to answer the question. (2) <b>Real-time understanding</b>: understand and respond to events as they unfold at the current timestamp. (3) <b>Forward active responding</b>: delay the response until sufficient future information becomes available to answer the question accurately.
-								OVBench comprises 12 tasks across 10 diverse domains, featuring 858 videos and approximately 2,800 fine-grained meta-annotations with precise timestamps. To ensure scalability and accuracy, we combine automated generation pipelines with human curation. With these high-quality samples, we further developed an evaluation pipeline to systematically query video LLMs along the video timeline.
-								Evaluations of nine Video-LLMs reveal that, despite advancements on traditional benchmarks, current models struggle with online video understanding, showing a significant gap compared to human agents. We hope OVBench will drive progress in video LLMs and inspire future research in online video reasoning. Our benchmark and code can be accessed at <a href="https://github.com/JoeLeelyf/OVBench">https://github.com/JoeLeelyf/OVBench</a>.
+								To fill this gap, we present <b>OVO-Bench</b> (<b>O</b>nline-<b>V</b>ide<b>O</b>-<b>Bench</b>mark), a novel video benchmark that emphasizes the importance of timestamps for advanced online video understanding capability benchmarking. OVO-Bench evaluates the ability of video LLMs to reason and respond to events occurring at specific timestamps under three distinct scenarios: (1) <b>Backward tracing</b>: trace back to past events to answer the question. (2) <b>Real-time understanding</b>: understand and respond to events as they unfold at the current timestamp. (3) <b>Forward active responding</b>: delay the response until sufficient future information becomes available to answer the question accurately.
+								OVO-Bench comprises 12 tasks across 10 diverse domains, featuring 858 videos and approximately 2,800 fine-grained meta-annotations with precise timestamps. To ensure scalability and accuracy, we combine automated generation pipelines with human curation. With these high-quality samples, we further developed an evaluation pipeline to systematically query video LLMs along the video timeline.
+								Evaluations of nine Video-LLMs reveal that, despite advancements on traditional benchmarks, current models struggle with online video understanding, showing a significant gap compared to human agents. We hope OVO-Bench will drive progress in video LLMs and inspire future research in online video reasoning. Our benchmark and code can be accessed at <a href="https://github.com/JoeLeelyf/OVO-Bench">https://github.com/JoeLeelyf/OVO-Bench</a>.
 							</p>
 						</div>
 					</div>
@@ -223,7 +223,7 @@
 			<div class="container is-max-desktop">
 				<div class="columns is-centered has-text-centered">
 					<div class="column is-full">
-						<h2 class="title is-3">Task Taxnomy of OVBench</h2>
+						<h2 class="title is-3">Task Taxnomy of OVO-Bench</h2>
 					</div>
 				</div>
 			</div>
@@ -274,7 +274,7 @@
 			<div class="container is-max-desktop">
 				<div class="columns is-centered has-text-centered">
 					<div class="column is-full">
-						<h2 class="title is-3">OVBench Statistics Analysis</h2>
+						<h2 class="title is-3">OVO-Bench Statistics Analysis</h2>
 					</div>
 				</div>
 			</div>
@@ -288,7 +288,7 @@
 				</div>
 				<div class="columns is-centered has-text-centered">
 					<div class="content has-text-centered">
-						<b>OVBench: benchmark designed for online visual understanding.</b> 
+						<b>OVO-Bench: benchmark designed for online visual understanding.</b> 
 						(a) For each video, we densely query Video-LLMs along the video stream to simulate online conversation scene.
 						(b) Our benchmarks features a varied duration of query timestamps and video durations.
 						(c) We include a large propotion of ego-centric video in our data source.
@@ -304,7 +304,7 @@
 			<div class="container is-max-desktop">
 				<div class="columns is-centered has-text-centered">
 					<div class="column is-full">
-						<h2 class="title is-3">OVBench Leaderboard</h2>
+						<h2 class="title is-3">OVO-Bench Leaderboard</h2>
 					</div>
 				</div>
 			</div>
