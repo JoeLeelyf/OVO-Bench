@@ -21,41 +21,14 @@ class EvalInternVL2(OVOBenchOffline):
     
     def _model_init(self):
         path = self.args.model_path
-        self.device_map = self.split_model("InternVL2-8B")
         self.model = AutoModel.from_pretrained(
             path,
             torch_dtype=torch.bfloat16,
             low_cpu_mem_usage=True,
             trust_remote_code=True,
-            device_map=self.device_map
+            use_flash_attn=True
         ).eval()
         self.tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False)
-    
-    def split_model(self, model_name):
-        device_map = {}
-        world_size = torch.cuda.device_count()
-        num_layers = {
-            'InternVL2-1B': 24, 'InternVL2-2B': 24, 'InternVL2-4B': 32, 'InternVL2-8B': 32,
-            'InternVL2-26B': 48, 'InternVL2-40B': 60, 'InternVL2-Llama3-76B': 80}[model_name]
-        # Since the first GPU will be used for ViT, treat it as half a GPU.
-        num_layers_per_gpu = math.ceil(num_layers / (world_size - 0.5))
-        num_layers_per_gpu = [num_layers_per_gpu] * world_size
-        num_layers_per_gpu[0] = math.ceil(num_layers_per_gpu[0] * 0.5)
-        layer_cnt = 0
-        for i, num_layer in enumerate(num_layers_per_gpu):
-            for j in range(num_layer):
-                device_map[f'language_model.model.layers.{layer_cnt}'] = i
-                layer_cnt += 1
-        device_map['vision_model'] = 0
-        device_map['mlp1'] = 0
-        device_map['language_model.model.tok_embeddings'] = 0
-        device_map['language_model.model.embed_tokens'] = 0
-        device_map['language_model.output'] = 0
-        device_map['language_model.model.norm'] = 0
-        device_map['language_model.lm_head'] = 0
-        device_map[f'language_model.model.layers.{num_layers - 1}'] = 0
-
-        return device_map
     
     def build_transform(self, input_size):
         MEAN, STD = IMAGENET_MEAN, IMAGENET_STD

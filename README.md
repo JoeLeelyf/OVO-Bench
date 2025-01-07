@@ -66,37 +66,37 @@ Download `videos` and `annotations` from our [huggingface-repo](https://huggingf
 ### Inference and Score
 We divide our evaluation pipeline into two parts: `inference` and `score`. For our released models, run our provided scripts under `./scripts` directory. For example, for InternVL2, run:
 ```bash
-bash scripts/inference_InternVL2.sh
+bash scripts/inference_Gemini.sh
 ```
 All inference results will be saved under `./results/[MODEL_NAME]`. Then run our scoring scripts:
 ```bash
-bash scripts/score_InternVL2.sh
+bash scripts/score_Gemini.sh
 ```
 Scores will show in cli:
 ```txt
-Offline Model: InternVL2
+Offline Model: Gemini
 Evaluate Backward Tracing...
-Task: EPM, Acc: 45.12
-Task: HLD, Acc: 35.03
-Task: ASI, Acc: 56.76
-Backward Avg.: 44.70
+Task: HLD, Acc: 52.69
+Task: ASI, Acc: 75.68
+Task: EPM, Acc: 58.59
+Backward Avg.: 62.32
 
 Evaluate Real-time Visual Perception...
-Task: STU, Acc: 48.31
-Task: OJR, Acc: 52.72
-Task: ATR, Acc: 68.97
+Task: STU, Acc: 54.49
+Task: OJR, Acc: 67.39
+Task: ATR, Acc: 80.17
 Task: FPD, Acc: 68.32
-Task: ACR, Acc: 59.63
-Task: OCR, Acc: 73.83
-Realtime Avg.: 60.57
+Task: ACR, Acc: 66.97
+Task: OCR, Acc: 87.25
+Realtime Avg.: 70.77
 
 Evaluate Forward Active Responding...
-Task: CRR, Acc: 51.25
-Task: REC, Acc: 28.92
-Task: SSR, Acc: 59.43
-Forward Avg.: 44.13
+Task: REC, Acc: 35.53
+Task: SSR, Acc: 74.24
+Task: CRR, Acc: 61.67
+Forward Avg.: 57.15
 
-Total Avg.: 48.69
+Total Avg.: 65.25
 ```
 To evaluate your own models, inherit `OVOBenchOffline/Online` class in `./utils/OVOBench.py` and implement your own inference pipeline. Refer to our provided models under `./models` for further details.
 

@@ -18,9 +18,9 @@ class OVOBenchOffline():
     
     def chunk_video(self, video_path, end_time, start_time=0):
         video = VideoFileClip(video_path)
-        duration = video.duration
         try:
-            end_time = min(end_time, duration)
+            import math
+            end_time = math.ceil(end_time)
             # Get video clip
             clip = video.subclip(start_time, end_time)
             
@@ -29,7 +29,7 @@ class OVOBenchOffline():
             temp_file_path = temp_file.name
             
             # save temp file to video path
-            clip.write_videofile(temp_file_path, codec="libx264", fps=clip.fps)
+            clip.write_videofile(temp_file_path)
 
         finally:
             # 关闭视频对象
