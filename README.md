@@ -28,8 +28,8 @@ OVO-Bench evaluates Video-LLMs' ability to find temporal visual clues from ongoi
 
 
 ### Dataset Statistics
--  **971** videos
--  **3,097** QA pairs
+-  **644** videos
+-  **3,100** Queries
 <p align="center">
   <img src="images/data_num.jpg" alt="Distribution of averaged query timestamps and
 video duration (in seconds) in OVOBench. " width="50%">
@@ -107,10 +107,6 @@ OVO-Bench is released under `CC BY-NC-SA 4.0` license. By downloading our datase
 
 ## 📍 Citing OVO-Bench
 ```bibtex
-@article{Qwen2VL,
-  title={Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution},
-  author={Wang, Peng and Bai, Shuai and Tan, Sinan and Wang, Shijie and Fan, Zhihao and Bai, Jinze and Chen, Keqin and Liu, Xuejing and Wang, Jialin and Ge, Wenbin and Fan, Yang and Dang, Kai and Du, Mengfei and Ren, Xuancheng and Men, Rui and Liu, Dayiheng and Zhou, Chang and Zhou, Jingren and Lin, Junyang},
-  journal={arXiv preprint arXiv:2409.12191},
-  year={2024}
+@article{
 }
 ```
