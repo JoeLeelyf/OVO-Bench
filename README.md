@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://huggingface.co/datasets/JoeLeelyf/OVO-Bench" style="margin-right: 10px;"> 
-    <img src="https://img.shields.io/badge/arXiv-2412.****-b31b1b.svg?logo=arXiv">
+  <a href="https://arxiv.org/abs/2501.05510" style="margin-right: 10px;"> 
+    <img src="https://img.shields.io/badge/arXiv-2501.05510-b31b1b.svg?logo=arXiv">
   </a>
   <a href="https://huggingface.co/datasets/JoeLeelyf/OVO-Bench" style="margin-right: 10px;"> 
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-ffd21e">
   </a>
-  <a href="https://huggingface.co/datasets/JoeLeelyf/OVO-Bench"> 
+  <a href="https://huggingface.co/papers/2501.05510"> 
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-ffd21e">
   </a>
 </p>
@@ -104,9 +104,20 @@ To evaluate your own models, inherit `OVOBenchOffline/Online` class in `./utils/
 OVO-Bench is released under `CC BY-NC-SA 4.0` license. By downloading our dataset from our website or other sources, the user agrees to adhere to the terms of `CC BY-NC-SA 4.0` and licenses of the source datasets
 
 ## 🫥 Experimental Results
+<p align="center">
+  <img src="images/experiments_results.png" alt="Distribution of questions and video in OVO-Bench." width="100%">
+</p>
+
 
 ## 📍 Citing OVO-Bench
 ```bibtex
-@article{
+@misc{li2025ovobenchfarvideollmsrealworld,
+      title={OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?}, 
+      author={Yifei Li and Junbo Niu and Ziyang Miao and Chunjiang Ge and Yuanhang Zhou and Qihao He and Xiaoyi Dong and Haodong Duan and Shuangrui Ding and Rui Qian and Pan Zhang and Yuhang Zang and Yuhang Cao and Conghui He and Jiaqi Wang},
+      year={2025},
+      eprint={2501.05510},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.05510}, 
 }
 ```
