@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  🔥🔥OVO-Bench is accepted by CVPR 2025!🔥🔥
+</p>
+
+<p align="center">
   <a href="https://arxiv.org/abs/2501.05510" style="margin-right: 10px;"> 
     <img src="https://img.shields.io/badge/arXiv-2501.05510-b31b1b.svg?logo=arXiv">
   </a>
@@ -14,6 +18,7 @@
   </a>
 </p>
 
+*We'll soon release our camera-ready edition and provided evaluation results of recently-released streaming models.
 ## Introduction
 ### 🌟 Three distinct problem-solving modes
 -  **Backward Tracing**: trace back to past events to answer the question.
