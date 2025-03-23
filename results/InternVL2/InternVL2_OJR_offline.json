@@ -1,0 +1,1478 @@
+{
+    "backward": [],
+    "realtime": [
+        {
+            "id": 809,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+            "task": "OJR",
+            "question": "What is under the monkey?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 810,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "OJR",
+            "question": "What is in the bottom and right side?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 811,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "OJR",
+            "question": "What is the planet around me?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 812,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "OJR",
+            "question": "What object am I holding?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 813,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "OJR",
+            "question": "What is the planet along my way?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 814,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+            "task": "OJR",
+            "question": "What is on the back of the old man?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 815,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+            "task": "OJR",
+            "question": "What did I broke?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 816,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=4.mp4",
+            "task": "OJR",
+            "question": "What did I broke?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 817,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+            "task": "OJR",
+            "question": "What am I looking at?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 818,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+            "task": "OJR",
+            "question": "What was the monster holding?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 819,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "OJR",
+            "question": "What is placed by the cliff?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 820,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "OJR",
+            "question": "What was the monster holding?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 821,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "OJR",
+            "question": "What is in front of me?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 822,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "OJR",
+            "question": "What object am i pushing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 823,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "OJR",
+            "question": "What makes the light around me??",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 824,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "OJR",
+            "question": "What's shining on my right side?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 825,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "OJR",
+            "question": "What are the animals around me?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 826,
+            "video": "data/src_videos/YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+            "task": "OJR",
+            "question": "What animals bite me in my back?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 827,
+            "video": "data/src_videos/YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+            "task": "OJR",
+            "question": "What was standing on a branch in front of me?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 828,
+            "video": "data/src_videos/YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+            "task": "OJR",
+            "question": "What is fighting each other below me?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 829,
+            "video": "data/src_videos/YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+            "task": "OJR",
+            "question": "What's inside the green chariot?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 830,
+            "video": "data/src_videos/YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+            "task": "OJR",
+            "question": "What is the scene in front of me on the right??",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 831,
+            "video": "data/src_videos/YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+            "task": "OJR",
+            "question": "What building I'm in now?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 832,
+            "video": "data/src_videos/YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+            "task": "OJR",
+            "question": "What's on the ground??",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 833,
+            "video": "data/src_videos/YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+            "task": "OJR",
+            "question": "What building is in front of me?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 834,
+            "video": "data/src_videos/YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+            "task": "OJR",
+            "question": "What am I standing on now?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 835,
+            "video": "data/src_videos/YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+            "task": "OJR",
+            "question": "What did I walk in?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 836,
+            "video": "data/src_videos/YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+            "task": "OJR",
+            "question": "What kind of animal is fighting me?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 837,
+            "video": "data/src_videos/YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+            "task": "OJR",
+            "question": "What's in front of me on the right?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 838,
+            "video": "data/src_videos/YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+            "task": "OJR",
+            "question": "What kind of monster is on my left?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 839,
+            "video": "data/src_videos/YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+            "task": "OJR",
+            "question": "What weapon do I have in my hand?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 840,
+            "video": "data/src_videos/YouTube_Games/m-7k8KfT9s8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=8.mp4",
+            "task": "OJR",
+            "question": "What kind of animal is on my left?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 841,
+            "video": "data/src_videos/YouTube_Games/m-7k8KfT9s8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=8.mp4",
+            "task": "OJR",
+            "question": "Who am I talking to?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 842,
+            "video": "data/src_videos/YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+            "task": "OJR",
+            "question": "What kind of animal is scratching the tree next to me?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 843,
+            "video": "data/src_videos/YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+            "task": "OJR",
+            "question": "What am I pushing?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 844,
+            "video": "data/src_videos/AutoEvalMetaData/291.mp4",
+            "task": "OJR",
+            "question": "What object is being used to constructe the paper aircraft wing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 845,
+            "video": "data/src_videos/AutoEvalMetaData/61.mp4",
+            "task": "OJR",
+            "question": "How many dogs are visible?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 846,
+            "video": "data/src_videos/AutoEvalMetaData/61.mp4",
+            "task": "OJR",
+            "question": "How many dogs are visible?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 847,
+            "video": "data/src_videos/AutoEvalMetaData/257.mp4",
+            "task": "OJR",
+            "question": "What is the girl holding in her hand while sitting at the sofa?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 848,
+            "video": "data/src_videos/AutoEvalMetaData/32.mp4",
+            "task": "OJR",
+            "question": "What animal is seen on the floor of the enclosure?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 849,
+            "video": "data/src_videos/AutoEvalMetaData/32.mp4",
+            "task": "OJR",
+            "question": "What is located at the top of the chicken enclosure?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 850,
+            "video": "data/src_videos/AutoEvalMetaData/7.mp4",
+            "task": "OJR",
+            "question": "What is the elderly woman using to assist her in moving?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 851,
+            "video": "data/src_videos/AutoEvalMetaData/7.mp4",
+            "task": "OJR",
+            "question": "What is the object being used by the elderly in the left?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 852,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "OJR",
+            "question": "What type of bird is being held by the person?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 853,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "OJR",
+            "question": "What animal is seen prominently in the vicinity, close to the person in the blue shirt?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 854,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "OJR",
+            "question": "What type of item is present near the bottom of the cage with the smaller birds?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 855,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "OJR",
+            "question": "How many dogs are visible in the current observation?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 856,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "OJR",
+            "question": "What type of animals are visible in the scene?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 857,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "OJR",
+            "question": "What is the person behind the dog holding in his hand?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 858,
+            "video": "data/src_videos/AutoEvalMetaData/242.mp4",
+            "task": "OJR",
+            "question": "What is this person holding in his hands?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 859,
+            "video": "data/src_videos/AutoEvalMetaData/242.mp4",
+            "task": "OJR",
+            "question": "What is coming out of the barrel at this moment?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 860,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "OJR",
+            "question": "How many people are sitting on the bench?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 861,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "OJR",
+            "question": "What signage is visible behind the ticket counter at the cinema?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 862,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "OJR",
+            "question": "How many people are visible in the immediate area?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 863,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "OJR",
+            "question": "What type of bird is seen accompanying the person in the green outfit?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 864,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "OJR",
+            "question": "How many players in yellow uniforms are near the blue player with the ball?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 865,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "OJR",
+            "question": "What object is being played by the player in blue?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 866,
+            "video": "data/src_videos/AutoEvalMetaData/247.mp4",
+            "task": "OJR",
+            "question": "How many tent are visible in the area surrounding the person?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 867,
+            "video": "data/src_videos/AutoEvalMetaData/247.mp4",
+            "task": "OJR",
+            "question": "What type of vegetation is visible near the rocky area?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 868,
+            "video": "data/src_videos/AutoEvalMetaData/247.mp4",
+            "task": "OJR",
+            "question": "What is the state of the person's hand shown?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 869,
+            "video": "data/src_videos/AutoEvalMetaData/236.mp4",
+            "task": "OJR",
+            "question": "What item is the boxer holding while being surrounded by others?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 870,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "OJR",
+            "question": "What is the child playing with at the table?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 871,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "OJR",
+            "question": "How many children are visible?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 872,
+            "video": "data/src_videos/AutoEvalMetaData/214.mp4",
+            "task": "OJR",
+            "question": "What is the object seen at the table?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 873,
+            "video": "data/src_videos/AutoEvalMetaData/214.mp4",
+            "task": "OJR",
+            "question": "What is the monkey holding?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 874,
+            "video": "data/src_videos/AutoEvalMetaData/214.mp4",
+            "task": "OJR",
+            "question": "What is the animal seen at the table?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 875,
+            "video": "data/src_videos/AutoEvalMetaData/214.mp4",
+            "task": "OJR",
+            "question": "How many cups are present on the table?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 876,
+            "video": "data/src_videos/AutoEvalMetaData/214.mp4",
+            "task": "OJR",
+            "question": "What is the monkey holding in its hands?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 877,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OJR",
+            "question": "What type of vehicles are mainly seen traveling down the road?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 878,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OJR",
+            "question": "How many go-karts are visible in the area?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 879,
+            "video": "data/src_videos/AutoEvalMetaData/68.mp4",
+            "task": "OJR",
+            "question": "What cars are visible on the left side of the road?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 880,
+            "video": "data/src_videos/AutoEvalMetaData/68.mp4",
+            "task": "OJR",
+            "question": "What type of vehicle is being observed?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 881,
+            "video": "data/src_videos/AutoEvalMetaData/68.mp4",
+            "task": "OJR",
+            "question": "How many motorcycles are visible in the area?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 882,
+            "video": "data/src_videos/AutoEvalMetaData/280.mp4",
+            "task": "OJR",
+            "question": "What type of bird is visible in the area where a person is sitting?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 883,
+            "video": "data/src_videos/AutoEvalMetaData/280.mp4",
+            "task": "OJR",
+            "question": "What type of vehicle is parked in the background?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 884,
+            "video": "data/src_videos/AutoEvalMetaData/105.mp4",
+            "task": "OJR",
+            "question": "What type of ear devices is the person wearing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 885,
+            "video": "data/src_videos/AutoEvalMetaData/105.mp4",
+            "task": "OJR",
+            "question": "What object is the person approaching?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 886,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "OJR",
+            "question": "What object is being cut in the hands that are wearing orange gloves?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 887,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "OJR",
+            "question": "What type of figure is prominently displayed, and what action is it performing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 888,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their hands while wearing orange gloves?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 889,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "OJR",
+            "question": "How many white containers are visible in the scene?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 890,
+            "video": "data/src_videos/AutoEvalMetaData/229.mp4",
+            "task": "OJR",
+            "question": "What type of meat is being cut on the board?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 891,
+            "video": "data/src_videos/AutoEvalMetaData/229.mp4",
+            "task": "OJR",
+            "question": "What herb is being chopped in the bowl?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 892,
+            "video": "data/src_videos/AutoEvalMetaData/229.mp4",
+            "task": "OJR",
+            "question": "How many cloves of garlic are displayed on the table?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 893,
+            "video": "data/src_videos/AutoEvalMetaData/229.mp4",
+            "task": "OJR",
+            "question": "What vegetables are being cut on the chopping board?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 894,
+            "video": "data/src_videos/AutoEvalMetaData/111.mp4",
+            "task": "OJR",
+            "question": "How many animals are sitting in the cart?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 895,
+            "video": "data/src_videos/AutoEvalMetaData/111.mp4",
+            "task": "OJR",
+            "question": "What type of fruit is visible in the penguin's hands?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 896,
+            "video": "data/src_videos/AutoEvalMetaData/111.mp4",
+            "task": "OJR",
+            "question": "What type of animal is leaping in the sky?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 897,
+            "video": "data/src_videos/AutoEvalMetaData/111.mp4",
+            "task": "OJR",
+            "question": "What is the structure visible in the background of the snowy landscape?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 898,
+            "video": "data/src_videos/AutoEvalMetaData/111.mp4",
+            "task": "OJR",
+            "question": "How many animals are interacting in the snow?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 899,
+            "video": "data/src_videos/AutoEvalMetaData/249.mp4",
+            "task": "OJR",
+            "question": "What is the type of container the person is holding while standing in the bathroom?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 900,
+            "video": "data/src_videos/AutoEvalMetaData/249.mp4",
+            "task": "OJR",
+            "question": "What items are currently visible in the lunchbox?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 901,
+            "video": "data/src_videos/AutoEvalMetaData/249.mp4",
+            "task": "OJR",
+            "question": "How many different types of food items are packed in the lunchbox?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 902,
+            "video": "data/src_videos/AutoEvalMetaData/249.mp4",
+            "task": "OJR",
+            "question": "What is the content in the zip bag that is being held?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 903,
+            "video": "data/src_videos/AutoEvalMetaData/181.mp4",
+            "task": "OJR",
+            "question": "What are these two people holding?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 904,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "OJR",
+            "question": "What object is displayed prominently on the red wall?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 905,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "OJR",
+            "question": "What color is the wall behind the painting?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 906,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "OJR",
+            "question": "What is the item being carried by the person in the suit?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 907,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "OJR",
+            "question": "What does the person in the striped shirt hold while examining the wall?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 908,
+            "video": "data/src_videos/AutoEvalMetaData/142.mp4",
+            "task": "OJR",
+            "question": "What is the object being prepared on the counter in the currently visible scene?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 909,
+            "video": "data/src_videos/AutoEvalMetaData/142.mp4",
+            "task": "OJR",
+            "question": "What items are on the plate he is holding?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 910,
+            "video": "data/src_videos/AutoEvalMetaData/142.mp4",
+            "task": "OJR",
+            "question": "What is she holding?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 911,
+            "video": "data/src_videos/AutoEvalMetaData/142.mp4",
+            "task": "OJR",
+            "question": "What is she holding?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 912,
+            "video": "data/src_videos/AutoEvalMetaData/142.mp4",
+            "task": "OJR",
+            "question": "What is she holding?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 913,
+            "video": "data/src_videos/AutoEvalMetaData/185.mp4",
+            "task": "OJR",
+            "question": "What flag is the athlete holding up?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 914,
+            "video": "data/src_videos/AutoEvalMetaData/185.mp4",
+            "task": "OJR",
+            "question": "How many athletes are visible in the race scene?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 915,
+            "video": "data/src_videos/AutoEvalMetaData/185.mp4",
+            "task": "OJR",
+            "question": "How many athletes are visible in the race scene?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 916,
+            "video": "data/src_videos/AutoEvalMetaData/185.mp4",
+            "task": "OJR",
+            "question": "How many athletes are visible in the race scene?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 917,
+            "video": "data/src_videos/AutoEvalMetaData/26.mp4",
+            "task": "OJR",
+            "question": "What item is placed on the floor in front of the people celebrating?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 918,
+            "video": "data/src_videos/AutoEvalMetaData/152.mp4",
+            "task": "OJR",
+            "question": "What type of car is passing by on the left lane?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 919,
+            "video": "data/src_videos/AutoEvalMetaData/19.mp4",
+            "task": "OJR",
+            "question": "What is this person holding in his hand?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 920,
+            "video": "data/src_videos/AutoEvalMetaData/130.mp4",
+            "task": "OJR",
+            "question": "What weapon is being used?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 921,
+            "video": "data/src_videos/AutoEvalMetaData/130.mp4",
+            "task": "OJR",
+            "question": "What weapon is being used?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 922,
+            "video": "data/src_videos/AutoEvalMetaData/309.mp4",
+            "task": "OJR",
+            "question": "What objects are visible on the floor?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 923,
+            "video": "data/src_videos/AutoEvalMetaData/203.mp4",
+            "task": "OJR",
+            "question": "What is this monkey holding in his hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 924,
+            "video": "data/src_videos/AutoEvalMetaData/203.mp4",
+            "task": "OJR",
+            "question": "What is this monkey holding in his hand?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 925,
+            "video": "data/src_videos/AutoEvalMetaData/203.mp4",
+            "task": "OJR",
+            "question": "What is this monkey holding in his hand?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 926,
+            "video": "data/src_videos/AutoEvalMetaData/203.mp4",
+            "task": "OJR",
+            "question": "What is this monkey holding in his hand?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 927,
+            "video": "data/src_videos/AutoEvalMetaData/124.mp4",
+            "task": "OJR",
+            "question": "How many people are sitting on the bench?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 928,
+            "video": "data/src_videos/AutoEvalMetaData/124.mp4",
+            "task": "OJR",
+            "question": "How many people are sitting on the bench?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 929,
+            "video": "data/src_videos/AutoEvalMetaData/124.mp4",
+            "task": "OJR",
+            "question": "How many people appear together in this part?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 930,
+            "video": "data/src_videos/AutoEvalMetaData/124.mp4",
+            "task": "OJR",
+            "question": "What color is his tie?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 931,
+            "video": "data/src_videos/AutoEvalMetaData/124.mp4",
+            "task": "OJR",
+            "question": "What color is his tie?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 932,
+            "video": "data/src_videos/AutoEvalMetaData/87.mp4",
+            "task": "OJR",
+            "question": "How many people are in the picture?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 933,
+            "video": "data/src_videos/AutoEvalMetaData/87.mp4",
+            "task": "OJR",
+            "question": "How many people are in the picture?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 934,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What can be seen on the wall behind the person?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 935,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What is she holding in her hand?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 936,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What is she holding in her hand?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 937,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What is she holding in her hand?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 938,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What is she holding in her hand?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 939,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What is she holding in her hand?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 940,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What is she holding in her hand?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 941,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OJR",
+            "question": "What is she holding in her hand?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 942,
+            "video": "data/src_videos/AutoEvalMetaData/322.mp4",
+            "task": "OJR",
+            "question": "What small animal appears next to them on the bridge?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 943,
+            "video": "data/src_videos/AutoEvalMetaData/322.mp4",
+            "task": "OJR",
+            "question": "What is the animal lying on the ground near the bridge?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 944,
+            "video": "data/src_videos/AutoEvalMetaData/322.mp4",
+            "task": "OJR",
+            "question": "What type of animal is being held above the bridge?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 945,
+            "video": "data/src_videos/AutoEvalMetaData/305.mp4",
+            "task": "OJR",
+            "question": "What object is being held by the person with light hair?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 946,
+            "video": "data/src_videos/AutoEvalMetaData/305.mp4",
+            "task": "OJR",
+            "question": "What object is she holding in her hand?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 947,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "OJR",
+            "question": "What is on the table in front of them?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 948,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "OJR",
+            "question": "What is the person on the left holding in their hand?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 949,
+            "video": "data/src_videos/AutoEvalMetaData/14.mp4",
+            "task": "OJR",
+            "question": "What is the person holding near the water faucet?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 950,
+            "video": "data/src_videos/AutoEvalMetaData/250.mp4",
+            "task": "OJR",
+            "question": "What device is being interacted with?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 951,
+            "video": "data/src_videos/AutoEvalMetaData/250.mp4",
+            "task": "OJR",
+            "question": "How many exercise balls can be seen?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 952,
+            "video": "data/src_videos/Ego4D/video/7548cced-9bce-4606-b513-5b019813e1ab.mp4",
+            "task": "OJR",
+            "question": "What tool is being used to squeeze the limes?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 953,
+            "video": "data/src_videos/Ego4D/video/7548cced-9bce-4606-b513-5b019813e1ab.mp4",
+            "task": "OJR",
+            "question": "How many lime halves are on the cutting board?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 954,
+            "video": "data/src_videos/Ego4D/video/7548cced-9bce-4606-b513-5b019813e1ab.mp4",
+            "task": "OJR",
+            "question": "How many lime halves are on the cutting board?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 955,
+            "video": "data/src_videos/Ego4D/video/7548cced-9bce-4606-b513-5b019813e1ab.mp4",
+            "task": "OJR",
+            "question": "How many lime halves are on the cutting board?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 956,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "OJR",
+            "question": "What object is being attached to the back of it?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 957,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "OJR",
+            "question": "What is being used to secure the basket?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 958,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "What is being washed in the sink?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 959,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "What is being washed in the sink?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 960,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "What is being washed in the sink?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 961,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "What is being washed in the sink?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 962,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "What is being washed in the sink?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 963,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "What is being washed in the sink?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 964,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "How many white bowls are visible?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 965,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "OJR",
+            "question": "What is being washed in the sink?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 966,
+            "video": "data/src_videos/Ego4D/video/ec2d6927-d5d4-4c8a-9da7-3e40345cf78f.mp4",
+            "task": "OJR",
+            "question": "What tool is on the ground next to the person's knee?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 967,
+            "video": "data/src_videos/Ego4D/video/ec2d6927-d5d4-4c8a-9da7-3e40345cf78f.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their hand?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 968,
+            "video": "data/src_videos/Ego4D/video/ec2d6927-d5d4-4c8a-9da7-3e40345cf78f.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 969,
+            "video": "data/src_videos/Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their right hand?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 970,
+            "video": "data/src_videos/Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their right hand?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 971,
+            "video": "data/src_videos/Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their right hand?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 972,
+            "video": "data/src_videos/Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their right hand?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 973,
+            "video": "data/src_videos/Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+            "task": "OJR",
+            "question": "What tool is on the floor near the person's right foot?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 974,
+            "video": "data/src_videos/Ego4D/video/d2ebfa5c-961b-4759-a243-0ea66d074362.mp4",
+            "task": "OJR",
+            "question": "What is he holding in his hands?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 975,
+            "video": "data/src_videos/Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+            "task": "OJR",
+            "question": "What tool is being held in the right hand?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 976,
+            "video": "data/src_videos/Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+            "task": "OJR",
+            "question": "What is being worked on in the vehicle?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 977,
+            "video": "data/src_videos/Ego4D/video/740202e6-5d33-45d3-a088-cbd310a14187.mp4",
+            "task": "OJR",
+            "question": "What is the person on the right doing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 978,
+            "video": "data/src_videos/Ego4D/video/740202e6-5d33-45d3-a088-cbd310a14187.mp4",
+            "task": "OJR",
+            "question": "What is he holding in his hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 979,
+            "video": "data/src_videos/Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+            "task": "OJR",
+            "question": "What object is the person holding with both hands?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 980,
+            "video": "data/src_videos/Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+            "task": "OJR",
+            "question": "What type of tool is being used by the person?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 981,
+            "video": "data/src_videos/Ego4D/video/47b77375-1ac1-4d11-8c6f-9cbef488770f.mp4",
+            "task": "OJR",
+            "question": "What is this person placing on the grinder?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 982,
+            "video": "data/src_videos/Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+            "task": "OJR",
+            "question": "What tool is being used?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 983,
+            "video": "data/src_videos/Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+            "task": "OJR",
+            "question": "What is he holding in his hand?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 984,
+            "video": "data/src_videos/Ego4D/video/3979214f-15fc-4f89-8226-eca1a9579a5e.mp4",
+            "task": "OJR",
+            "question": "What is lying on the ground beside the metal rods?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 985,
+            "video": "data/src_videos/Ego4D/video/3979214f-15fc-4f89-8226-eca1a9579a5e.mp4",
+            "task": "OJR",
+            "question": "How many long metal rods are on the floor?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 986,
+            "video": "data/src_videos/Ego4D/video/bd66979f-2921-420c-98ed-3512e67f79a4.mp4",
+            "task": "OJR",
+            "question": "What is the person holding in their hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 987,
+            "video": "data/src_videos/Ego4D/video/bd66979f-2921-420c-98ed-3512e67f79a4.mp4",
+            "task": "OJR",
+            "question": "What part of the vehicle is being worked on?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 988,
+            "video": "data/src_videos/Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+            "task": "OJR",
+            "question": "What object is being manipulated by the person?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 989,
+            "video": "data/src_videos/Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+            "task": "OJR",
+            "question": "What is this person holding in his hands?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 990,
+            "video": "data/src_videos/Ego4D/video/7eb6abcd-443e-4354-9742-6f5bf5bd9626.mp4",
+            "task": "OJR",
+            "question": "What is located on top of the washing machine?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 991,
+            "video": "data/src_videos/Ego4D/video/7eb6abcd-443e-4354-9742-6f5bf5bd9626.mp4",
+            "task": "OJR",
+            "question": "How many brooms are visible in the hallway?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 992,
+            "video": "data/src_videos/Ego4D/video/7eb6abcd-443e-4354-9742-6f5bf5bd9626.mp4",
+            "task": "OJR",
+            "question": "What's on the washing machine?",
+            "response": "B",
+            "ground_truth": "B"
+        }
+    ],
+    "forward": []
+}

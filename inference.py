@@ -6,11 +6,14 @@ import argparse
 import os
 import json
 from models import *
-import os
+import sys
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(os.path.join(current_dir, "models"))
 
 parser = argparse.ArgumentParser(description='Run OVBench')
-parser.add_argument("--anno_path", type=str, default="data/ovbench.json", help="Path to the annotations")
-parser.add_argument("--video_dir", type=str, default="", help="Root directory of source videos")
+parser.add_argument("--anno_path", type=str, default="data/ovo_bench_new.json", help="Path to the annotations")
+parser.add_argument("--video_dir", type=str, default="data/src_videos", help="Root directory of source videos")
+parser.add_argument("--chunked_dir", type=str, default="data/chunked_videos", help="Root directory of chunked videos")
 parser.add_argument("--result_dir", type=str, default="results", help="Root directory of results")
 parser.add_argument("--mode", type=str, required=True, choices=["online", "offline"], help="Online of Offline model for testing")
 parser.add_argument("--task", type=str, required=False, nargs="+", \
@@ -42,10 +45,38 @@ elif args.model == "InternVL2":
     from models.InternVL2 import EvalInternVL2
     assert os.path.exists(args.model_path)
     model = EvalInternVL2(args)
-elif args.model == "QWen2VL_7B":
+elif args.model == "QWen2VL_7B" or args.model == "QWen2VL_72B":
     from models.QWen2VL import EvalQWen2VL
     assert os.path.exists(args.model_path)
     model = EvalQWen2VL(args)
+elif args.model == "LongVU":
+    from models.LongVU import EvalLongVU
+    assert os.path.exists(args.model_path)
+    model = EvalLongVU(args)
+elif args.model == "LLaVA_OneVision":
+    from models.LLaVA_OneVision import EvalLLaVAOneVision
+    assert os.path.exists(args.model_path)
+    model = EvalLLaVAOneVision(args)
+elif args.model == "LLaVA_Video":
+    from models.LLaVA_Video import EvalLLaVAVideo
+    assert os.path.exists(args.model_path)
+    model = EvalLLaVAVideo(args)
+elif args.model == "videollm_online":
+    from models.VideoLLM_Online import EvalVideollmOnline
+    assert os.path.exists(args.model_path)
+    model = EvalVideollmOnline(args)
+elif args.model == "FlashVStream":
+    from models.FlashVStream import EvalFlashVStream
+    assert os.path.exists(args.model_path)
+    model = EvalFlashVStream(args)
+elif args.model == "MiniCPM_o":
+    from models.MiniCPM_o import EvalMiniCPM
+    assert os.path.exists(args.model_path)
+    model = EvalMiniCPM(args)
+elif args.model == "Dispider":
+    from models.Dispider import EvalDispider
+    assert os.path.exists(args.model_path)
+    model = EvalDispider(args)
 else:
     raise ValueError(f"Unsupported model: {args.model}. Please implement the model.")
 

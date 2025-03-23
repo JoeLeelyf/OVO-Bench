@@ -1,0 +1,814 @@
+{
+    "backward": [],
+    "realtime": [
+        {
+            "id": 1109,
+            "video": "data/src_videos/Ego4D/video/005efbab-c314-48d8-8dd9-bfc1263ec5df.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1110,
+            "video": "data/src_videos/Ego4D/video/005efbab-c314-48d8-8dd9-bfc1263ec5df.mp4",
+            "task": "FPD",
+            "question": "What is the person preparing to manipulate?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1111,
+            "video": "data/src_videos/Ego4D/video/005efbab-c314-48d8-8dd9-bfc1263ec5df.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1112,
+            "video": "data/src_videos/Ego4D/video/09b7cb24-5d39-47ef-bf45-1ae0284abdb6.mp4",
+            "task": "FPD",
+            "question": "What is the person planning to do with the soil from the bag?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1113,
+            "video": "data/src_videos/Ego4D/video/09b7cb24-5d39-47ef-bf45-1ae0284abdb6.mp4",
+            "task": "FPD",
+            "question": "What is the person about to do with the container and glass?",
+            "response": "I don't know.",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1114,
+            "video": "data/src_videos/Ego4D/video/09b7cb24-5d39-47ef-bf45-1ae0284abdb6.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1115,
+            "video": "data/src_videos/Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1116,
+            "video": "data/src_videos/Ego4D/video/342f509b-4aa9-47f0-8fb2-1efd1f3bdbfa.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1117,
+            "video": "data/src_videos/Ego4D/video/342f509b-4aa9-47f0-8fb2-1efd1f3bdbfa.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do from the desk?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1118,
+            "video": "data/src_videos/Ego4D/video/44045866-ed5e-4758-a136-10cc3719f75b.mp4",
+            "task": "FPD",
+            "question": "What is the person about to do with the knife?",
+            "response": null,
+            "ground_truth": "C"
+        },
+        {
+            "id": 1119,
+            "video": "data/src_videos/Ego4D/video/4921fa23-9b0a-4bed-b6d0-2255e9615132.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1120,
+            "video": "data/src_videos/Ego4D/video/4921fa23-9b0a-4bed-b6d0-2255e9615132.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do next with the prepared items?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1121,
+            "video": "data/src_videos/Ego4D/video/4921fa23-9b0a-4bed-b6d0-2255e9615132.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1122,
+            "video": "data/src_videos/Ego4D/video/62a88600-ba3e-4d10-ab9a-79f6306d630c.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1123,
+            "video": "data/src_videos/Ego4D/video/62a88600-ba3e-4d10-ab9a-79f6306d630c.mp4",
+            "task": "FPD",
+            "question": "What action is this person getting ready for?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1124,
+            "video": "data/src_videos/Ego4D/video/62a88600-ba3e-4d10-ab9a-79f6306d630c.mp4",
+            "task": "FPD",
+            "question": "What is the person going to do with the stylus?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1125,
+            "video": "data/src_videos/Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1126,
+            "video": "data/src_videos/Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1127,
+            "video": "data/src_videos/Ego4D/video/77975a87-6cb3-45fa-ac8b-a503b6b7c9b5.mp4",
+            "task": "FPD",
+            "question": "What is the person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1128,
+            "video": "data/src_videos/Ego4D/video/77975a87-6cb3-45fa-ac8b-a503b6b7c9b5.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do after cleaning the item?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1129,
+            "video": "data/src_videos/Ego4D/video/77975a87-6cb3-45fa-ac8b-a503b6b7c9b5.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1130,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do with the object?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1131,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do next with the container?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1132,
+            "video": "data/src_videos/Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1133,
+            "video": "data/src_videos/Ego4D/video/94d1b58c-cca3-4509-a217-f30c481ea63b.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1134,
+            "video": "data/src_videos/Ego4D/video/94d1b58c-cca3-4509-a217-f30c481ea63b.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1135,
+            "video": "data/src_videos/Ego4D/video/b5bd7bfa-271f-4237-ac6e-f42348adc2a4.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1136,
+            "video": "data/src_videos/Ego4D/video/b5bd7bfa-271f-4237-ac6e-f42348adc2a4.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1137,
+            "video": "data/src_videos/Ego4D/video/b5bd7bfa-271f-4237-ac6e-f42348adc2a4.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1138,
+            "video": "data/src_videos/Ego4D/video/c41634ed-20ee-4c2e-9776-47d4445f0f1e.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1139,
+            "video": "data/src_videos/Ego4D/video/c41634ed-20ee-4c2e-9776-47d4445f0f1e.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1140,
+            "video": "data/src_videos/Ego4D/video/c41634ed-20ee-4c2e-9776-47d4445f0f1e.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1141,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1142,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "FPD",
+            "question": "What activity is the person getting ready for?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1143,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "FPD",
+            "question": "What is this person doing with the drawer?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1144,
+            "video": "data/src_videos/Ego4D/video/d62f9c1c-7d01-4350-a0fb-ec553dad8cf2.mp4",
+            "task": "FPD",
+            "question": "What action is this person preparing to take?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1145,
+            "video": "data/src_videos/Ego4D/video/d62f9c1c-7d01-4350-a0fb-ec553dad8cf2.mp4",
+            "task": "FPD",
+            "question": "What action is the person about to take?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1146,
+            "video": "data/src_videos/Ego4D/video/d62f9c1c-7d01-4350-a0fb-ec553dad8cf2.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1147,
+            "video": "data/src_videos/Ego4D/video/e2508048-e8d3-4e48-8129-a1b6abebba74.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the handle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1148,
+            "video": "data/src_videos/Ego4D/video/e2508048-e8d3-4e48-8129-a1b6abebba74.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1149,
+            "video": "data/src_videos/Ego4D/video/e2508048-e8d3-4e48-8129-a1b6abebba74.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1150,
+            "video": "data/src_videos/Ego4D/video/045fcc4d-ad1b-441c-a28c-45bebb88f9bf.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do with the containers?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1151,
+            "video": "data/src_videos/Ego4D/video/045fcc4d-ad1b-441c-a28c-45bebb88f9bf.mp4",
+            "task": "FPD",
+            "question": "What is this person going to prepare to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1152,
+            "video": "data/src_videos/Ego4D/video/045fcc4d-ad1b-441c-a28c-45bebb88f9bf.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the large item on the counter?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1153,
+            "video": "data/src_videos/Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1154,
+            "video": "data/src_videos/Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1155,
+            "video": "data/src_videos/Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1156,
+            "video": "data/src_videos/Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1157,
+            "video": "data/src_videos/Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1158,
+            "video": "data/src_videos/Ego4D/video/474d78c1-5350-4271-828c-c68687bc7651.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do next?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1159,
+            "video": "data/src_videos/Ego4D/video/474d78c1-5350-4271-828c-c68687bc7651.mp4",
+            "task": "FPD",
+            "question": "What is the person planning to do with the sponge?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1160,
+            "video": "data/src_videos/Ego4D/video/474d78c1-5350-4271-828c-c68687bc7651.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1161,
+            "video": "data/src_videos/Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the tool they are holding?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1162,
+            "video": "data/src_videos/Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1163,
+            "video": "data/src_videos/Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the object in the stand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1164,
+            "video": "data/src_videos/Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the circular object?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1165,
+            "video": "data/src_videos/Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1166,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1167,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1168,
+            "video": "data/src_videos/Ego4D/video/75048701-73b6-4e63-a861-09111bcc246c.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "D.",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1169,
+            "video": "data/src_videos/Ego4D/video/779d8772-d716-4db2-883e-831d822e721f.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1170,
+            "video": "data/src_videos/Ego4D/video/779d8772-d716-4db2-883e-831d822e721f.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1171,
+            "video": "data/src_videos/Ego4D/video/779d8772-d716-4db2-883e-831d822e721f.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the object they are holding?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1172,
+            "video": "data/src_videos/Ego4D/video/7eb6abcd-443e-4354-9742-6f5bf5bd9626.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1173,
+            "video": "data/src_videos/Ego4D/video/7eb6abcd-443e-4354-9742-6f5bf5bd9626.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the item in their hand?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1174,
+            "video": "data/src_videos/Ego4D/video/7eb6abcd-443e-4354-9742-6f5bf5bd9626.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do with the items on the floor?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1175,
+            "video": "data/src_videos/Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 1176,
+            "video": "data/src_videos/Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 1177,
+            "video": "data/src_videos/Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 1178,
+            "video": "data/src_videos/Ego4D/video/982458ba-0e25-4fec-9b11-d0b378b6e922.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1179,
+            "video": "data/src_videos/Ego4D/video/982458ba-0e25-4fec-9b11-d0b378b6e922.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1180,
+            "video": "data/src_videos/Ego4D/video/a27fc25f-d008-4e1c-aa22-a1c3f4286481.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1181,
+            "video": "data/src_videos/Ego4D/video/a27fc25f-d008-4e1c-aa22-a1c3f4286481.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the material they're holding?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1182,
+            "video": "data/src_videos/Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1183,
+            "video": "data/src_videos/Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1184,
+            "video": "data/src_videos/Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1185,
+            "video": "data/src_videos/Ego4D/video/b62fc89b-9bd2-4f79-b0cb-b3895a05f454.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do next?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1186,
+            "video": "data/src_videos/Ego4D/video/b62fc89b-9bd2-4f79-b0cb-b3895a05f454.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1187,
+            "video": "data/src_videos/Ego4D/video/b62fc89b-9bd2-4f79-b0cb-b3895a05f454.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do next?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1188,
+            "video": "data/src_videos/Ego4D/video/c60dc185-49ca-42c2-8ba1-be359bcfb57b.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1189,
+            "video": "data/src_videos/Ego4D/video/c60dc185-49ca-42c2-8ba1-be359bcfb57b.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1190,
+            "video": "data/src_videos/Ego4D/video/c60dc185-49ca-42c2-8ba1-be359bcfb57b.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with these items?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1191,
+            "video": "data/src_videos/Ego4D/video/ccf8a14a-e815-4a2d-8ddc-8863b4e158a6.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1192,
+            "video": "data/src_videos/Ego4D/video/ccf8a14a-e815-4a2d-8ddc-8863b4e158a6.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1193,
+            "video": "data/src_videos/Ego4D/video/ccf8a14a-e815-4a2d-8ddc-8863b4e158a6.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1194,
+            "video": "data/src_videos/Ego4D/video/ebc98edd-f56e-431a-acb5-9d40fea9d4c6.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the objects around them?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1195,
+            "video": "data/src_videos/Ego4D/video/ebc98edd-f56e-431a-acb5-9d40fea9d4c6.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1196,
+            "video": "data/src_videos/Ego4D/video/f4e2d43a-9fd2-48c0-b1d3-ca32c82ec2c4.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do after finishing with the equipment?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1197,
+            "video": "data/src_videos/Ego4D/video/f4e2d43a-9fd2-48c0-b1d3-ca32c82ec2c4.mp4",
+            "task": "FPD",
+            "question": "What is the person about to do with the object?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1198,
+            "video": "data/src_videos/Ego4D/video/f4e2d43a-9fd2-48c0-b1d3-ca32c82ec2c4.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1199,
+            "video": "data/src_videos/Ego4D/video/f93e485e-9ec3-4856-809d-f050c6439b7b.mp4",
+            "task": "FPD",
+            "question": "What is the person getting ready to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1200,
+            "video": "data/src_videos/Ego4D/video/f93e485e-9ec3-4856-809d-f050c6439b7b.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1201,
+            "video": "data/src_videos/Ego4D/video/f93e485e-9ec3-4856-809d-f050c6439b7b.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1202,
+            "video": "data/src_videos/Ego4D/video/08a7fe30-3f6c-42f7-8b92-88df11e59175.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do next?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1203,
+            "video": "data/src_videos/Ego4D/video/08a7fe30-3f6c-42f7-8b92-88df11e59175.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do with the object in their hand?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1204,
+            "video": "data/src_videos/Ego4D/video/08a7fe30-3f6c-42f7-8b92-88df11e59175.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1205,
+            "video": "data/src_videos/Ego4D/video/0bc8996b-85d5-4800-b840-f7ef647a21ee.mp4",
+            "task": "FPD",
+            "question": "What is this person preparing to do next?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1206,
+            "video": "data/src_videos/Ego4D/video/16ba692f-cb3a-4998-be66-f7e5e74b49f2.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1207,
+            "video": "data/src_videos/Ego4D/video/16ba692f-cb3a-4998-be66-f7e5e74b49f2.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do with the small object in their hands?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1208,
+            "video": "data/src_videos/Ego4D/video/16ba692f-cb3a-4998-be66-f7e5e74b49f2.mp4",
+            "task": "FPD",
+            "question": "What is this person going to do?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1209,
+            "video": "data/src_videos/Ego4D/video/22969066-24e1-4711-b808-bb89e0a84c9c.mp4",
+            "task": "FPD",
+            "question": "What is this person about to do next?",
+            "response": "B",
+            "ground_truth": "A"
+        }
+    ],
+    "forward": []
+}

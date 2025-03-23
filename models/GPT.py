@@ -46,7 +46,6 @@ class EvalGPT(OVOBenchOffline):
         frame_idx = uniform_sampled_frames.tolist()
         spare_frames = vr.get_batch(frame_idx)
         spare_frames = spare_frames.asnumpy()
-        print(spare_frames.shape)
         return spare_frames
     
     def encode_image(self, image):
@@ -112,5 +111,4 @@ class EvalGPT(OVOBenchOffline):
         
         prompt = self.build_messages(prompt, urls)
         response = self.call_gpt_eval(prompt, self.model_name)
-        print(response)
         return response

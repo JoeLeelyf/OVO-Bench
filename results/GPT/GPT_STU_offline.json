@@ -1,0 +1,1430 @@
+{
+    "backward": [],
+    "realtime": [
+        {
+            "id": 631,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+            "task": "STU",
+            "question": "Where is the biggest giant standing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 632,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+            "task": "STU",
+            "question": "In what direction is the man in white attacking the monkey?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 633,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+            "task": "STU",
+            "question": "How many giants monster are there?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 634,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+            "task": "STU",
+            "question": "How many monkeys did I summon?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 635,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "STU",
+            "question": "Which direction am I moving?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 636,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "STU",
+            "question": "Which direction am I moving?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 637,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "STU",
+            "question": "What is the position of the gourd relative to me now?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 638,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "STU",
+            "question": "What is the position of the monkey relative to the character/me now?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 639,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "STU",
+            "question": "What is the position of bamboos relative to the wooden gate I'm heading toward?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 640,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+            "task": "STU",
+            "question": "Which road did I take?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 641,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+            "task": "STU",
+            "question": "What is the relative position between the monkey and the gaint frog?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 642,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=4.mp4",
+            "task": "STU",
+            "question": "Where is the man sitting?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 643,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+            "task": "STU",
+            "question": "Where is the frog sitting?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 644,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+            "task": "STU",
+            "question": "Where am I standing",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 645,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+            "task": "STU",
+            "question": "Where is the monster?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 646,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+            "task": "STU",
+            "question": "Where is the golden buddha placed",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 647,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=7.mp4",
+            "task": "STU",
+            "question": "Where is the golden box?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 648,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=7.mp4",
+            "task": "STU",
+            "question": "Where is the dog standing",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 649,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+            "task": "STU",
+            "question": "Where is the monster with a shield",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 650,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "STU",
+            "question": "Where is the monster?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 651,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "STU",
+            "question": "Where is the monster with an apple in its hand",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 652,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "STU",
+            "question": "Which direction am I moving?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 653,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "STU",
+            "question": "Which direction the fire is spreading to me?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 654,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "STU",
+            "question": "What is the position of the woman to me now?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 655,
+            "video": "data/src_videos/YouTube_Games/fu2ANlxm7i8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk.mp4",
+            "task": "STU",
+            "question": "In what direction am I on guard with shield now?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 656,
+            "video": "data/src_videos/YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+            "task": "STU",
+            "question": "What direction am I riding?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 657,
+            "video": "data/src_videos/YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+            "task": "STU",
+            "question": "What is the relative direction between me and the black tree?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 658,
+            "video": "data/src_videos/YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+            "task": "STU",
+            "question": "In what direction does the road ahead of me lead??",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 659,
+            "video": "data/src_videos/YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+            "task": "STU",
+            "question": "In what direction is the purple light in me?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 660,
+            "video": "data/src_videos/YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+            "task": "STU",
+            "question": "In what direction is the blue beam in front of me in the wooden house?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 661,
+            "video": "data/src_videos/YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+            "task": "STU",
+            "question": "In what direction are the wolves in me?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 662,
+            "video": "data/src_videos/YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+            "task": "STU",
+            "question": "Which direction am I moving?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 663,
+            "video": "data/src_videos/YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+            "task": "STU",
+            "question": "In what direction is Ghost Rider in me?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 664,
+            "video": "data/src_videos/YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the sword and me?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 665,
+            "video": "data/src_videos/YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+            "task": "STU",
+            "question": "Which direction am I moving?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 666,
+            "video": "data/src_videos/YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the monster that is going to cut me with a knife and me?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 667,
+            "video": "data/src_videos/YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the crockpot and mine?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 668,
+            "video": "data/src_videos/YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the monster like a ball?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 669,
+            "video": "data/src_videos/YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+            "task": "STU",
+            "question": "Which direction am I moving?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 670,
+            "video": "data/src_videos/YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+            "task": "STU",
+            "question": "Where is the silver goddess statue in me?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 671,
+            "video": "data/src_videos/YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the NPC and me?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 672,
+            "video": "data/src_videos/YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+            "task": "STU",
+            "question": "Which direction am I moving?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 673,
+            "video": "data/src_videos/YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the jellyfish and me?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 674,
+            "video": "data/src_videos/Ego4D/video/aef3563d-4a20-4283-a97b-e51e4836c11d.mp4",
+            "task": "STU",
+            "question": "Which box are you holding?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 675,
+            "video": "data/src_videos/Ego4D/video/aef3563d-4a20-4283-a97b-e51e4836c11d.mp4",
+            "task": "STU",
+            "question": "Where did you get this board?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 676,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "STU",
+            "question": "What is the arrangement of the mushrooms on the cutting board?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 677,
+            "video": "data/src_videos/Ego4D/video/26bfc767-548a-43de-9631-0598a32411a7.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the person to the car?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 678,
+            "video": "data/src_videos/Ego4D/video/c66c30dd-f7c1-492a-9649-84e9147a3fd2.mp4",
+            "task": "STU",
+            "question": "Where is the phone positioned relative to the scissors?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 679,
+            "video": "data/src_videos/Ego4D/video/342f509b-4aa9-47f0-8fb2-1efd1f3bdbfa.mp4",
+            "task": "STU",
+            "question": "Which toolbox do you remove the parts from?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 680,
+            "video": "data/src_videos/Ego4D/video/d2ebfa5c-961b-4759-a243-0ea66d074362.mp4",
+            "task": "STU",
+            "question": "What is the relative positional relationship between the mobile phone and the upside-down pan?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 681,
+            "video": "data/src_videos/Ego4D/video/faff3741-7e3b-443f-93ba-f8a5199c1c59.mp4",
+            "task": "STU",
+            "question": "Which basin do you take the clothes from?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 682,
+            "video": "data/src_videos/Ego4D/video/f84f7484-5109-43bc-a54c-7e66478dfb6f.mp4",
+            "task": "STU",
+            "question": "Where is the wooden spatula positioned in relation to the frying pan?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 683,
+            "video": "data/src_videos/Ego4D/video/f84f7484-5109-43bc-a54c-7e66478dfb6f.mp4",
+            "task": "STU",
+            "question": "Where is the milk in the fridge?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 684,
+            "video": "data/src_videos/Ego4D/video/f84f7484-5109-43bc-a54c-7e66478dfb6f.mp4",
+            "task": "STU",
+            "question": "Where are the eggs in the fridge?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 685,
+            "video": "data/src_videos/Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the green grater to the wooden bowl?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 686,
+            "video": "data/src_videos/Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+            "task": "STU",
+            "question": "Where is the orange carrot positioned in relation to the green bowl?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 687,
+            "video": "data/src_videos/Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+            "task": "STU",
+            "question": "Describe the positions of these dishes to me",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 688,
+            "video": "data/src_videos/Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+            "task": "STU",
+            "question": "Where is the green ladder positioned relative this man?",
+            "response": null,
+            "ground_truth": "B"
+        },
+        {
+            "id": 689,
+            "video": "data/src_videos/Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+            "task": "STU",
+            "question": "What is the man doing?",
+            "response": null,
+            "ground_truth": "B"
+        },
+        {
+            "id": 690,
+            "video": "data/src_videos/Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+            "task": "STU",
+            "question": "What is the man doing?",
+            "response": null,
+            "ground_truth": "C"
+        },
+        {
+            "id": 691,
+            "video": "data/src_videos/Ego4D/video/8918b804-75aa-4bc2-b35b-c22f7fd4a9cd.mp4",
+            "task": "STU",
+            "question": "Can this saw handle fit in the blue bucket?",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 692,
+            "video": "data/src_videos/Ego4D/video/8918b804-75aa-4bc2-b35b-c22f7fd4a9cd.mp4",
+            "task": "STU",
+            "question": "Where is the blue pen?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 693,
+            "video": "data/src_videos/Ego4D/video/8918b804-75aa-4bc2-b35b-c22f7fd4a9cd.mp4",
+            "task": "STU",
+            "question": "What is the arrangement of the cut wooden pieces on the floor?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 694,
+            "video": "data/src_videos/Ego4D/video/760a2d62-d580-4422-b32f-2c4fc9a35c7c.mp4",
+            "task": "STU",
+            "question": "Which direction is the mop in relation to the person holding it?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 695,
+            "video": "data/src_videos/Ego4D/video/760a2d62-d580-4422-b32f-2c4fc9a35c7c.mp4",
+            "task": "STU",
+            "question": "Where is the yellow soap located on the faucet?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 696,
+            "video": "data/src_videos/Ego4D/video/760a2d62-d580-4422-b32f-2c4fc9a35c7c.mp4",
+            "task": "STU",
+            "question": "Where is the pink playhouse located in the room?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 697,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "What is the position of the red and green parrot relative to the blue parrot?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 698,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "Which direction is the blue parrot facing from your perspective?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 699,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "Is the bird standing on top of the cage facing you or away from you?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 700,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "What is the position of the blue bird relative to the human?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 701,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "What is the position of the blue bird relative to the stacked toys from Your perspective?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 702,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "How is the cage door?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 703,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "From your perspective, What is the position of the person relative to the the cage?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 704,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "Which direction is the parrot facing?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 705,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "From your perspective, where is the green parrot in relation to the woman's head?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 706,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "Where is this person placing the green parrot?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 707,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "Which cage did the man put the parrot in?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 708,
+            "video": "data/src_videos/AutoEvalMetaData/42.mp4",
+            "task": "STU",
+            "question": "What is the position of the person relative to the cage she put the green parrot on?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 709,
+            "video": "data/src_videos/AutoEvalMetaData/6.mp4",
+            "task": "STU",
+            "question": "What is the position of the person relative to the bench?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 710,
+            "video": "data/src_videos/AutoEvalMetaData/6.mp4",
+            "task": "STU",
+            "question": "Which side is the motorcycle facing from your perspective?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 711,
+            "video": "data/src_videos/AutoEvalMetaData/6.mp4",
+            "task": "STU",
+            "question": "Which side of the motorcycle is the person standing on?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 712,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "STU",
+            "question": "Which direction are the four red players running",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 713,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "STU",
+            "question": "What is the position of the soccer balls relative to the coach and the players?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 714,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "STU",
+            "question": "What is the arrangement of the team from left to right based on their jersey numbers?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 715,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the two men in black and white jackets?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 716,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "STU",
+            "question": "How does the size of the man on the left compare to the size of the man on the right in terms of height?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 717,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "STU",
+            "question": "What is the orientation of the footballs relative to the man?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 718,
+            "video": "data/src_videos/AutoEvalMetaData/326.mp4",
+            "task": "STU",
+            "question": "What direction is the man facing?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 719,
+            "video": "data/src_videos/AutoEvalMetaData/326.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the knives to the door?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 720,
+            "video": "data/src_videos/AutoEvalMetaData/326.mp4",
+            "task": "STU",
+            "question": "What is the man doing in relation to the elevator?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 721,
+            "video": "data/src_videos/AutoEvalMetaData/326.mp4",
+            "task": "STU",
+            "question": "Where is the person's hand positioned?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 722,
+            "video": "data/src_videos/AutoEvalMetaData/326.mp4",
+            "task": "STU",
+            "question": "What is the position of the note \"I'm here for you!\" in relation to \"CALL ON ME\"?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 723,
+            "video": "data/src_videos/AutoEvalMetaData/326.mp4",
+            "task": "STU",
+            "question": "What are the relative positions of the notes saying \"I'm still here...\" and \"Love you loads\" on the counter?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 724,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "STU",
+            "question": "Where are the players in blue going?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 725,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "STU",
+            "question": "What is the position of the player in the yellow jersey relative to the blue team?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 726,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "STU",
+            "question": "Where is the ball currently located on the field?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 727,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "STU",
+            "question": "What is the player in the yellow jersey trying to do with the ball?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 728,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "STU",
+            "question": "From which direction is the ball approaching the goal area?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 729,
+            "video": "data/src_videos/AutoEvalMetaData/114.mp4",
+            "task": "STU",
+            "question": "What is the direction of the path that the airplane is following across the island?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 730,
+            "video": "data/src_videos/AutoEvalMetaData/114.mp4",
+            "task": "STU",
+            "question": "Which location is directly north of the Terminal?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 731,
+            "video": "data/src_videos/AutoEvalMetaData/114.mp4",
+            "task": "STU",
+            "question": "As the character is descending, what is the relative location of the river to them?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 732,
+            "video": "data/src_videos/AutoEvalMetaData/114.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the bootcamp to Paradise Resort?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 733,
+            "video": "data/src_videos/AutoEvalMetaData/269.mp4",
+            "task": "STU",
+            "question": "What is written on the white paper?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 734,
+            "video": "data/src_videos/AutoEvalMetaData/269.mp4",
+            "task": "STU",
+            "question": "What is this transparent beaker placed on?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 735,
+            "video": "data/src_videos/AutoEvalMetaData/135.mp4",
+            "task": "STU",
+            "question": "Who is riding the wave closer to the shore, the child in blue or the child in green?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 736,
+            "video": "data/src_videos/AutoEvalMetaData/135.mp4",
+            "task": "STU",
+            "question": "Is the person in the picture standing on the surfboard or lying on the surfboard?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 737,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "STU",
+            "question": "What is the position of the glass beaker relative to the white block?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 738,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "STU",
+            "question": "What tool is being used to cut the white block in half?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 739,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "STU",
+            "question": "What is to the left of the figure with wings?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 740,
+            "video": "data/src_videos/AutoEvalMetaData/176.mp4",
+            "task": "STU",
+            "question": "In which direction is the person standing on the dry ice?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 741,
+            "video": "data/src_videos/AutoEvalMetaData/62.mp4",
+            "task": "STU",
+            "question": "How are the apples positioned along the wire?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 742,
+            "video": "data/src_videos/AutoEvalMetaData/294.mp4",
+            "task": "STU",
+            "question": "What is the direction of the stairs here?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 743,
+            "video": "data/src_videos/AutoEvalMetaData/294.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the large statue and the player character?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 744,
+            "video": "data/src_videos/AutoEvalMetaData/294.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the character on the right from the one holding the shield?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 745,
+            "video": "data/src_videos/AutoEvalMetaData/258.mp4",
+            "task": "STU",
+            "question": "Which hand is the person holding the baby with?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 746,
+            "video": "data/src_videos/AutoEvalMetaData/258.mp4",
+            "task": "STU",
+            "question": "What is the person doing?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 747,
+            "video": "data/src_videos/AutoEvalMetaData/258.mp4",
+            "task": "STU",
+            "question": "What direction is the person on the left facing relative to the person holding the baby?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 748,
+            "video": "data/src_videos/AutoEvalMetaData/258.mp4",
+            "task": "STU",
+            "question": "Whose arms is this baby in?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 749,
+            "video": "data/src_videos/AutoEvalMetaData/258.mp4",
+            "task": "STU",
+            "question": "Where is the pink blanket relative to the baby in the car seat?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 750,
+            "video": "data/src_videos/AutoEvalMetaData/292.mp4",
+            "task": "STU",
+            "question": "What direction is the cannon under the green pipeline firing shells in?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 751,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "STU",
+            "question": "How are the mannequins along the hallway arranged?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 752,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "STU",
+            "question": "What is the person doing near the rock?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 753,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "STU",
+            "question": "What is the person throwing from behind the rock?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 754,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "STU",
+            "question": "What is the position of the tree in front of the player that is farther away than the tree that is closer to the player?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 755,
+            "video": "data/src_videos/AutoEvalMetaData/44.mp4",
+            "task": "STU",
+            "question": "What is the position of the woman relative to the tree branches?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 756,
+            "video": "data/src_videos/AutoEvalMetaData/44.mp4",
+            "task": "STU",
+            "question": "How is the person at the base of the tree supporting the climber's movement?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 757,
+            "video": "data/src_videos/AutoEvalMetaData/95.mp4",
+            "task": "STU",
+            "question": "Can the player in the number 10 shirt fit between the defender and the goal line?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 758,
+            "video": "data/src_videos/AutoEvalMetaData/95.mp4",
+            "task": "STU",
+            "question": "What is the position of the blue player relative to the yellow goalkeeper when the ball is about to be struck?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 759,
+            "video": "data/src_videos/AutoEvalMetaData/95.mp4",
+            "task": "STU",
+            "question": "Where did the football hit?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 760,
+            "video": "data/src_videos/AutoEvalMetaData/1.mp4",
+            "task": "STU",
+            "question": "What's right above the pot?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 761,
+            "video": "data/src_videos/AutoEvalMetaData/1.mp4",
+            "task": "STU",
+            "question": "Which container is located closer to the top left corner of the table?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 762,
+            "video": "data/src_videos/AutoEvalMetaData/1.mp4",
+            "task": "STU",
+            "question": "What is she putting the seasoning into?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 763,
+            "video": "data/src_videos/AutoEvalMetaData/1.mp4",
+            "task": "STU",
+            "question": "What is located directly behind the woman wearing the apron with red ties?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 764,
+            "video": "data/src_videos/AutoEvalMetaData/1.mp4",
+            "task": "STU",
+            "question": "What is the position of the wooden spoon in the sauce?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 765,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "STU",
+            "question": "What is the player in white focusing on while preparing to shoot?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 766,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "STU",
+            "question": "Which of the players ran ahead?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 767,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "STU",
+            "question": "In which direction of the goal are they dribbling the ball? ",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 768,
+            "video": "data/src_videos/AutoEvalMetaData/270.mp4",
+            "task": "STU",
+            "question": "How many spoons are there on the table?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 769,
+            "video": "data/src_videos/AutoEvalMetaData/270.mp4",
+            "task": "STU",
+            "question": "Which sheet has the less strips on it?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 770,
+            "video": "data/src_videos/AutoEvalMetaData/270.mp4",
+            "task": "STU",
+            "question": "Which spoon is he touching with the test strip?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 771,
+            "video": "data/src_videos/AutoEvalMetaData/270.mp4",
+            "task": "STU",
+            "question": "Which spoon is he touching with the test strip?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 772,
+            "video": "data/src_videos/AutoEvalMetaData/270.mp4",
+            "task": "STU",
+            "question": "Which spoon is he touching with the test strip?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 773,
+            "video": "data/src_videos/AutoEvalMetaData/270.mp4",
+            "task": "STU",
+            "question": "Which spoon is marked by the yellow circle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 774,
+            "video": "data/src_videos/AutoEvalMetaData/242.mp4",
+            "task": "STU",
+            "question": "Where is the group gathered?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 775,
+            "video": "data/src_videos/AutoEvalMetaData/242.mp4",
+            "task": "STU",
+            "question": "What is inside the blue barrel from a top view?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 776,
+            "video": "data/src_videos/AutoEvalMetaData/242.mp4",
+            "task": "STU",
+            "question": "What happens above the blue barrel after the people leave?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 777,
+            "video": "data/src_videos/AutoEvalMetaData/242.mp4",
+            "task": "STU",
+            "question": "Who put the lid back on top of the blue barrel.",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 778,
+            "video": "data/src_videos/AutoEvalMetaData/15.mp4",
+            "task": "STU",
+            "question": "Which object is located directly in front of the person on the right, closest to them?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 779,
+            "video": "data/src_videos/AutoEvalMetaData/15.mp4",
+            "task": "STU",
+            "question": "Where are the beetroot noodles being placed by the person?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 780,
+            "video": "data/src_videos/AutoEvalMetaData/4.mp4",
+            "task": "STU",
+            "question": "What direction is she facing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 781,
+            "video": "data/src_videos/AutoEvalMetaData/4.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the two people on stage?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 782,
+            "video": "data/src_videos/AutoEvalMetaData/4.mp4",
+            "task": "STU",
+            "question": "Which object is directly behind the girl?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 783,
+            "video": "data/src_videos/AutoEvalMetaData/4.mp4",
+            "task": "STU",
+            "question": "What is the girl in the pink shirt holding in her hand?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 784,
+            "video": "data/src_videos/AutoEvalMetaData/4.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the lockers compared to the person in black?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 785,
+            "video": "data/src_videos/AutoEvalMetaData/180.mp4",
+            "task": "STU",
+            "question": "Which direction is the hand pointing at the doorbell facing relative to the door frame?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 786,
+            "video": "data/src_videos/AutoEvalMetaData/180.mp4",
+            "task": "STU",
+            "question": "Where is the wire located in relation to the hole in the wall?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 787,
+            "video": "data/src_videos/AutoEvalMetaData/30.mp4",
+            "task": "STU",
+            "question": "What is the pig facing as it eats the watermelon?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 788,
+            "video": "data/src_videos/AutoEvalMetaData/30.mp4",
+            "task": "STU",
+            "question": "Which direction is the driver facing while ordering?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 789,
+            "video": "data/src_videos/AutoEvalMetaData/30.mp4",
+            "task": "STU",
+            "question": "Where is the person in the black sweatshirt standing?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 790,
+            "video": "data/src_videos/AutoEvalMetaData/30.mp4",
+            "task": "STU",
+            "question": "Which direction is the open door facing relative to the person outside the bathroom?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 791,
+            "video": "data/src_videos/AutoEvalMetaData/30.mp4",
+            "task": "STU",
+            "question": "Which side shows a greater weight increase in the scales?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 792,
+            "video": "data/src_videos/AutoEvalMetaData/215.mp4",
+            "task": "STU",
+            "question": "Which objects are on the wall above the couch?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 793,
+            "video": "data/src_videos/AutoEvalMetaData/215.mp4",
+            "task": "STU",
+            "question": "How are the cherry tomatoes organized in the pan?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 794,
+            "video": "data/src_videos/AutoEvalMetaData/215.mp4",
+            "task": "STU",
+            "question": "What is the man holding in his right hand when entering the room?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 795,
+            "video": "data/src_videos/AutoEvalMetaData/215.mp4",
+            "task": "STU",
+            "question": "Where is the mug placed relative to the keyboard?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 796,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "STU",
+            "question": "What is the relative position of the person in the light shirt to the person in the dark shirt?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 797,
+            "video": "data/src_videos/AutoEvalMetaData/119.mp4",
+            "task": "STU",
+            "question": "Which way is this person twisting the knob?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 798,
+            "video": "data/src_videos/AutoEvalMetaData/119.mp4",
+            "task": "STU",
+            "question": "How is the oil spread initially in the frying pan?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 799,
+            "video": "data/src_videos/AutoEvalMetaData/252.mp4",
+            "task": "STU",
+            "question": "What is the position of the two bowls in relation to the food on the table?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 800,
+            "video": "data/src_videos/AutoEvalMetaData/252.mp4",
+            "task": "STU",
+            "question": "What is the orientation of the tree with lights in relation to the two children?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 801,
+            "video": "data/src_videos/AutoEvalMetaData/252.mp4",
+            "task": "STU",
+            "question": "What is the person on the left holding in front of them?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 802,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "STU",
+            "question": "What is hanging above the power outlet on the left side?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 803,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "STU",
+            "question": "What is the orientation of the screwdriver?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 804,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "STU",
+            "question": "Which player stands closer to the audience behind them?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 805,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "STU",
+            "question": "How many players are competing on the field now?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 806,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "STU",
+            "question": "How many players are competing on the field now?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 807,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "STU",
+            "question": "Which player stands closer to the audience behind them?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 808,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "STU",
+            "question": "Which player is closer to the net?",
+            "response": "C",
+            "ground_truth": "A"
+        }
+    ],
+    "forward": []
+}

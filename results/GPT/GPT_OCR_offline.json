@@ -1,0 +1,1198 @@
+{
+    "backward": [],
+    "realtime": [
+        {
+            "id": 1319,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "What are the names listed on each lane of the pool?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1320,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "What is the leading player's time at the 150m mark?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1321,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "What time did the winner achieve in the 200m freestyle men final?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1322,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "Who was the first to arrive?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1323,
+            "video": "data/src_videos/AutoEvalMetaData/16.mp4",
+            "task": "OCR",
+            "question": "What is the label at the top of this brand?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1324,
+            "video": "data/src_videos/AutoEvalMetaData/16.mp4",
+            "task": "OCR",
+            "question": "What is the text on the label of the containers?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1325,
+            "video": "data/src_videos/AutoEvalMetaData/16.mp4",
+            "task": "OCR",
+            "question": "What is the text on the label of the containers?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1326,
+            "video": "data/src_videos/AutoEvalMetaData/305.mp4",
+            "task": "OCR",
+            "question": "What is the name visible on the men's jacket?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1327,
+            "video": "data/src_videos/AutoEvalMetaData/305.mp4",
+            "task": "OCR",
+            "question": "What is written on the jacket of the person sitting on the bed?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1328,
+            "video": "data/src_videos/AutoEvalMetaData/9.mp4",
+            "task": "OCR",
+            "question": "What is the text on the shirt?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1329,
+            "video": "data/src_videos/AutoEvalMetaData/9.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1330,
+            "video": "data/src_videos/AutoEvalMetaData/9.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1331,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What brand name is on the toothpaste?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1332,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What type of gas is indicated on the container to the right?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1333,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What text is visible on the bottle in the middle?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1334,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1335,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1336,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "What is the name of the object with high acceleration and top speed?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1337,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "What name is displayed at the top of the list on the left?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1338,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "Which player is right in front?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1339,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "Which player is right in front?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1340,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What name and number are visible on the back of this person's jacket?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1341,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What name and number are visible on the back of this person's jacket?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1342,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What name and number are visible on the back of this person's jacket?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1343,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What number is on the mailbox?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1344,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What name appears on the small license plate attached to the wall?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1345,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is the name written on the sign in front of the building?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1346,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is written on this bottle?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1347,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is written on this bottle?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1348,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is the label on this?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1349,
+            "video": "data/src_videos/AutoEvalMetaData/216.mp4",
+            "task": "OCR",
+            "question": "What is displayed on the phone screen?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1350,
+            "video": "data/src_videos/AutoEvalMetaData/216.mp4",
+            "task": "OCR",
+            "question": "What is the number of the bus?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1351,
+            "video": "data/src_videos/AutoEvalMetaData/216.mp4",
+            "task": "OCR",
+            "question": "What word is printed on the front of the hoodie worn by the person?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1352,
+            "video": "data/src_videos/AutoEvalMetaData/282.mp4",
+            "task": "OCR",
+            "question": "What word is on the board now?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1353,
+            "video": "data/src_videos/AutoEvalMetaData/282.mp4",
+            "task": "OCR",
+            "question": "What text is displayed now?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1354,
+            "video": "data/src_videos/AutoEvalMetaData/48.mp4",
+            "task": "OCR",
+            "question": "What is written on the shirt they are wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1355,
+            "video": "data/src_videos/AutoEvalMetaData/48.mp4",
+            "task": "OCR",
+            "question": "What is the name of the book?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1356,
+            "video": "data/src_videos/AutoEvalMetaData/48.mp4",
+            "task": "OCR",
+            "question": "What is written on the shirt they are wearing?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1357,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What is written on the clear bottle beside the water bottle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1358,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What does the label on the bottle with the blue cap say?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1359,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What does the label on the bottle?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1360,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What does the label on the bottle?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1361,
+            "video": "data/src_videos/AutoEvalMetaData/45.mp4",
+            "task": "OCR",
+            "question": "What is written below the logo on the building?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1362,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What time is it shown on the screen?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1363,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What time is displayed on the screen now?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1364,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What text is displayed on the door now?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1365,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What text is displayed on the Computer screen now?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1366,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What brand is displayed on the front of the box?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1367,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What is the name printed on top-left of the large component box?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1368,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What connector is he holding?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1369,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What model is this GPU??",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1370,
+            "video": "data/src_videos/AutoEvalMetaData/113.mp4",
+            "task": "OCR",
+            "question": "What word is displayed now?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1371,
+            "video": "data/src_videos/AutoEvalMetaData/113.mp4",
+            "task": "OCR",
+            "question": "Who are the individuals referenced under 3D modeling?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1372,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "OCR",
+            "question": "What is the current value displayed on the energy meter?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1373,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "OCR",
+            "question": "How does the text on the screen describe the extreme weather?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1374,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What text appears on the white shirts worn by the players in the dugout?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1375,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What happened to the umpire in the series?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1376,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What text appears on the shirts worn by the players?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1377,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What text appears on the shirts worn by the players?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1378,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on the screen now?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1379,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What word is written above the plate?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1380,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on the screen now?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1381,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on the screen now?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1382,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on this packaging bag?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1383,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What is the price displayed on the 7-Eleven gas station sign?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1384,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What is the speed limit on the road?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1385,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What is the license plate of the car ahead?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1386,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What's on the billboard on the right?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1387,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "What is the current score displayed on the scoreboard?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1388,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "How much time is left for the offensive team in basketball?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1389,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "What is the current score displayed on the scoreboard?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1390,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "What is the current score displayed on the scoreboard?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1391,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "Which player is making a free throw?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1392,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "OCR",
+            "question": "Who are the winners of the mixed team match listed on the scoreboard?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1393,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "OCR",
+            "question": "What is the final score displayed for the match in the result table?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1394,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OCR",
+            "question": "What is written on the cake?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1395,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OCR",
+            "question": "What is written on the gift bag?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1396,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "OCR",
+            "question": "What does the sign read?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1397,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "OCR",
+            "question": "What is the height range of the eagle?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1398,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "OCR",
+            "question": "What animal's height range is listed as 60cm to 90cm?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1399,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "OCR",
+            "question": "What is the height range of the dog?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1400,
+            "video": "data/src_videos/AutoEvalMetaData/135.mp4",
+            "task": "OCR",
+            "question": "What logo is present before the text begins to fade?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1401,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "OCR",
+            "question": "What is the score displayed at the bottom of the scene?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1402,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "OCR",
+            "question": "What's the time left on the clock?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1403,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "OCR",
+            "question": "Which player is shooting?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1404,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "What is the final odds for the horse numbered 4?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1405,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "What is the winning amount mentioned?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1406,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "What are the words on this microphone?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1407,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "Which number of horses is slightly behind now?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1408,
+            "video": "data/src_videos/AutoEvalMetaData/259.mp4",
+            "task": "OCR",
+            "question": "What are the letters on the sign?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1409,
+            "video": "data/src_videos/AutoEvalMetaData/259.mp4",
+            "task": "OCR",
+            "question": "What is written on the rear wing of this car?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1410,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "What are the names of the individuals mentioned?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1411,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1412,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1413,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1414,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1415,
+            "video": "data/src_videos/AutoEvalMetaData/118.mp4",
+            "task": "OCR",
+            "question": "What date is the event taking place?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1416,
+            "video": "data/src_videos/AutoEvalMetaData/118.mp4",
+            "task": "OCR",
+            "question": "What date is the event taking place?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1417,
+            "video": "data/src_videos/AutoEvalMetaData/118.mp4",
+            "task": "OCR",
+            "question": "What date is the event taking place?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1418,
+            "video": "data/src_videos/AutoEvalMetaData/194.mp4",
+            "task": "OCR",
+            "question": "What text is on the block that was just hit?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1419,
+            "video": "data/src_videos/AutoEvalMetaData/194.mp4",
+            "task": "OCR",
+            "question": "What is the score now?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1420,
+            "video": "data/src_videos/AutoEvalMetaData/15.mp4",
+            "task": "OCR",
+            "question": "What does the text above them say?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1421,
+            "video": "data/src_videos/AutoEvalMetaData/15.mp4",
+            "task": "OCR",
+            "question": "What seafood platter options are available based on the menu shown on the screen?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1422,
+            "video": "data/src_videos/AutoEvalMetaData/248.mp4",
+            "task": "OCR",
+            "question": "What brand is on the water bottle she is holding?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1423,
+            "video": "data/src_videos/AutoEvalMetaData/248.mp4",
+            "task": "OCR",
+            "question": "What brand is on the bottle she is holding?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1424,
+            "video": "data/src_videos/AutoEvalMetaData/279.mp4",
+            "task": "OCR",
+            "question": "What is the name on the small brown box?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1425,
+            "video": "data/src_videos/AutoEvalMetaData/279.mp4",
+            "task": "OCR",
+            "question": "What is written on the little yellow house?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1426,
+            "video": "data/src_videos/AutoEvalMetaData/279.mp4",
+            "task": "OCR",
+            "question": "What's the label on this lid?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1427,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What time is displayed at the top left corner?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1428,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is written on the red truck's license plate?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1429,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What date and time is visible on the screen?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1430,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is the license plate number of this car?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1431,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is the license plate number of this car?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1432,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is the license plate number of this car?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1433,
+            "video": "data/src_videos/AutoEvalMetaData/241.mp4",
+            "task": "OCR",
+            "question": "What text is displayed on the lower left in the frame?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1434,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What words are crossed out in the text?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1435,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What brand is the juicer?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1436,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What is written on this note?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1437,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What are the words on the apron?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1438,
+            "video": "data/src_videos/AutoEvalMetaData/255.mp4",
+            "task": "OCR",
+            "question": "What is the text above the person in black saying?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1439,
+            "video": "data/src_videos/AutoEvalMetaData/255.mp4",
+            "task": "OCR",
+            "question": "What is the statement that strong man just made?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1440,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "OCR",
+            "question": "What name is on the cardboard house?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1441,
+            "video": "data/src_videos/AutoEvalMetaData/158.mp4",
+            "task": "OCR",
+            "question": "What number is displayed on the side window of the silver car?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1442,
+            "video": "data/src_videos/AutoEvalMetaData/158.mp4",
+            "task": "OCR",
+            "question": "Which brand name appears repeatedly on the side panels?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1443,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "OCR",
+            "question": "What does title on the screen say?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1444,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "OCR",
+            "question": "What text can be seen on the tablecloth?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1445,
+            "video": "data/src_videos/AutoEvalMetaData/233.mp4",
+            "task": "OCR",
+            "question": "What text appears at the bottom of the scene when she is talking to someone in the car?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1446,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What scores did J1,J2,J3,J4,J5,J6,and J7 give in Round 1?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1447,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What is the total score shown for Monica Gavaris?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1448,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "Who is the diver being scored in Round 1?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1449,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What is the total score shown for Monica Gavaris?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1450,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What is the total score shown for Monica Gavaris?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1451,
+            "video": "data/src_videos/AutoEvalMetaData/88.mp4",
+            "task": "OCR",
+            "question": "What's written on the side of the white plastic bag?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1452,
+            "video": "data/src_videos/AutoEvalMetaData/88.mp4",
+            "task": "OCR",
+            "question": "What does the subtitle say during the bed making?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1453,
+            "video": "data/src_videos/AutoEvalMetaData/88.mp4",
+            "task": "OCR",
+            "question": "What is the title of the book?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1454,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "How many entries in column C are numeric?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1455,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "What text is being written in the B column?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1456,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "What numbers are listed in the cells of column C?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1457,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "Which menu option is being selected?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1458,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "What font size is he choosing for the current table?",
+            "response": "C.",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1459,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "What text is being shown on the screen?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1460,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "What is the name of the town shown on the map?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1461,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "How many players are still alive according to the HUD?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1462,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "What weapon is displayed in the vicinity overlay?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1463,
+            "video": "data/src_videos/AutoEvalMetaData/224.mp4",
+            "task": "OCR",
+            "question": "What is displayed on the house number plate?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1464,
+            "video": "data/src_videos/AutoEvalMetaData/224.mp4",
+            "task": "OCR",
+            "question": "What text can be seen on the yellow sign in the background?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1465,
+            "video": "data/src_videos/AutoEvalMetaData/269.mp4",
+            "task": "OCR",
+            "question": "What is written on the white paper?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1466,
+            "video": "data/src_videos/AutoEvalMetaData/269.mp4",
+            "task": "OCR",
+            "question": "What is the angle between the side of the jar and the swirl of the liquid?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1467,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What is the name visible on the front go-karts?",
+            "response": "C",
+            "ground_truth": "C"
+        }
+    ],
+    "forward": []
+}

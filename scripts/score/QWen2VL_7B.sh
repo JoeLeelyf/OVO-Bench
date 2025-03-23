@@ -1,0 +1,1 @@
+python score.py --model QWen2VL_7B_ --mode offline

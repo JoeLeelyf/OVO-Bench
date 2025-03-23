@@ -1,0 +1,934 @@
+{
+    "backward": [],
+    "realtime": [
+        {
+            "id": 993,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+            "task": "ATR",
+            "question": "What is the color of the dog?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 994,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the fire I'm collecting?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 995,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the fire I'm collecting?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 996,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What color is the gourd on the man's back?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 997,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What color is the gourd in the man's hand on the right of the frame?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 998,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the head of the boss?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 999,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the tip of the weapon the man is holding?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1000,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+            "task": "ATR",
+            "question": "What is the box made of?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1001,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=4.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monster I'm fighting?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1002,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+            "task": "ATR",
+            "question": "What is the color of the land?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1003,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monster's head?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1004,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+            "task": "ATR",
+            "question": "What is the color of the eyes?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1005,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+            "task": "ATR",
+            "question": "What is the box made of?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1006,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=7.mp4",
+            "task": "ATR",
+            "question": "What is the color of the ground?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1007,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monsters' clothes?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1008,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+            "task": "ATR",
+            "question": "What is the color of the fire?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1009,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monster's wings?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1010,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "ATR",
+            "question": "How is the weather?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1011,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the pot in the middle?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1012,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What is the surface texture of the pot on the left?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1013,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What decoration is on the pot on the right?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1014,
+            "video": "data/src_videos/Ego4D/video/c85d9006-00b3-450e-be12-cc3a1a0ca070.mp4",
+            "task": "ATR",
+            "question": "What is the material of the object being cleaned?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1015,
+            "video": "data/src_videos/Ego4D/video/c85d9006-00b3-450e-be12-cc3a1a0ca070.mp4",
+            "task": "ATR",
+            "question": "What is the color of the rag being used?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1016,
+            "video": "data/src_videos/Ego4D/video/f5613680-1dbc-4945-8a77-949098bc13dd.mp4",
+            "task": "ATR",
+            "question": "What color is the dress in your hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1017,
+            "video": "data/src_videos/Ego4D/video/f5613680-1dbc-4945-8a77-949098bc13dd.mp4",
+            "task": "ATR",
+            "question": "What is the bottle made of?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1018,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the fabric being folded?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1019,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What color is the object in your hand?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1020,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What is the texture of the floor in this area?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1021,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ATR",
+            "question": "What texture does the surface the person is walking on appear to have?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1022,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What is the material of the container being handled?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1023,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the rectangular mat?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1024,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What patterns are present on the pots?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1025,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What type of clothing pattern is on the person's sweater?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1026,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What art supplies are being used for painting?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1027,
+            "video": "data/src_videos/Ego4D/video/7548cced-9bce-4606-b513-5b019813e1ab.mp4",
+            "task": "ATR",
+            "question": "What type of container holds the liquid?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1028,
+            "video": "data/src_videos/Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+            "task": "ATR",
+            "question": "Which color is his brush picking?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1029,
+            "video": "data/src_videos/AutoEvalMetaData/311.mp4",
+            "task": "ATR",
+            "question": "What shape can be observed in the object displayed?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1030,
+            "video": "data/src_videos/AutoEvalMetaData/60.mp4",
+            "task": "ATR",
+            "question": "What type of traffic light is visible in the scene?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1031,
+            "video": "data/src_videos/AutoEvalMetaData/29.mp4",
+            "task": "ATR",
+            "question": "What color pants is the person on the right wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1032,
+            "video": "data/src_videos/AutoEvalMetaData/29.mp4",
+            "task": "ATR",
+            "question": "What is the hair type of the boxer on the right?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1033,
+            "video": "data/src_videos/AutoEvalMetaData/132.mp4",
+            "task": "ATR",
+            "question": "What is the primary color of the vehicle seen in the background while the character is running?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1034,
+            "video": "data/src_videos/AutoEvalMetaData/132.mp4",
+            "task": "ATR",
+            "question": "What type of footwear is the character wearing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1035,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "ATR",
+            "question": "What color is the soup in the bowl that appears in the scene?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1036,
+            "video": "data/src_videos/AutoEvalMetaData/204.mp4",
+            "task": "ATR",
+            "question": "What color is the scooter that the child is standing on?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1037,
+            "video": "data/src_videos/AutoEvalMetaData/17.mp4",
+            "task": "ATR",
+            "question": "What color and texture does the ball have?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1038,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "ATR",
+            "question": "What color is the horse in the front that has a rider wearing an orange cap?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1039,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "ATR",
+            "question": "What is the predominant color of the jockey's outfit on the horse in the blue jacket?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1040,
+            "video": "data/src_videos/AutoEvalMetaData/235.mp4",
+            "task": "ATR",
+            "question": "What color is the man's wetsuit in this moment?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1041,
+            "video": "data/src_videos/AutoEvalMetaData/235.mp4",
+            "task": "ATR",
+            "question": "What kind of texture does the water appear to have?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1042,
+            "video": "data/src_videos/AutoEvalMetaData/67.mp4",
+            "task": "ATR",
+            "question": "What shape are the pieces of potato in the pan?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1043,
+            "video": "data/src_videos/AutoEvalMetaData/227.mp4",
+            "task": "ATR",
+            "question": "What shape is the bread on the plate?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1044,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "ATR",
+            "question": "What color is the shirt that the person is wearing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1045,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "ATR",
+            "question": "What shape are the containers on the shelf?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1046,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "ATR",
+            "question": "What texture does the mixture appear to have?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1047,
+            "video": "data/src_videos/AutoEvalMetaData/53.mp4",
+            "task": "ATR",
+            "question": "What shape is the piece of bread on the plate?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1048,
+            "video": "data/src_videos/AutoEvalMetaData/153.mp4",
+            "task": "ATR",
+            "question": "What color is the illumination around the dashboard?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1049,
+            "video": "data/src_videos/AutoEvalMetaData/198.mp4",
+            "task": "ATR",
+            "question": "How would you describe the hairstyle of the person completing the obstacle course?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1050,
+            "video": "data/src_videos/AutoEvalMetaData/82.mp4",
+            "task": "ATR",
+            "question": "How does the animal's facial expression appear?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1051,
+            "video": "data/src_videos/AutoEvalMetaData/10.mp4",
+            "task": "ATR",
+            "question": "What is the character's expression as seen with the headset?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1052,
+            "video": "data/src_videos/AutoEvalMetaData/10.mp4",
+            "task": "ATR",
+            "question": "What is the color of the character's outfit on the platform?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1053,
+            "video": "data/src_videos/AutoEvalMetaData/10.mp4",
+            "task": "ATR",
+            "question": "What shape are the windows in the background?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1054,
+            "video": "data/src_videos/AutoEvalMetaData/81.mp4",
+            "task": "ATR",
+            "question": "What is the expression on his face?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1055,
+            "video": "data/src_videos/AutoEvalMetaData/120.mp4",
+            "task": "ATR",
+            "question": "How is her expression in the close-up?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1056,
+            "video": "data/src_videos/AutoEvalMetaData/84.mp4",
+            "task": "ATR",
+            "question": "What is the color of the clothing of the individual on the digital display?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1057,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "ATR",
+            "question": "What is the color of the jersey worn by the person sitting on the bench?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1058,
+            "video": "data/src_videos/AutoEvalMetaData/66.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the jerseys of the player in white running towards the goal?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1059,
+            "video": "data/src_videos/AutoEvalMetaData/66.mp4",
+            "task": "ATR",
+            "question": "What is the expression of the crowd in the background as the ball heads towards the goal?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1060,
+            "video": "data/src_videos/AutoEvalMetaData/32.mp4",
+            "task": "ATR",
+            "question": "What type of trees are surrounding the area with the sign?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1061,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "ATR",
+            "question": "What is the color pattern of the creature on the left?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1062,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "ATR",
+            "question": "Which animal has a unique tail shape compared to the others?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1063,
+            "video": "data/src_videos/AutoEvalMetaData/102.mp4",
+            "task": "ATR",
+            "question": "What is the architectural style of the buildings on the left?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1064,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "ATR",
+            "question": "How is the woman's hair styled?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1065,
+            "video": "data/src_videos/AutoEvalMetaData/290.mp4",
+            "task": "ATR",
+            "question": "What is the expression on their faces?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1066,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ATR",
+            "question": "What color is the material being used?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1067,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ATR",
+            "question": "What kind of material seems to be on the ground around the structure?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1068,
+            "video": "data/src_videos/AutoEvalMetaData/80.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the wall behind him?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1069,
+            "video": "data/src_videos/AutoEvalMetaData/19.mp4",
+            "task": "ATR",
+            "question": "What type of accessory is the person wearing around the neck?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1070,
+            "video": "data/src_videos/AutoEvalMetaData/19.mp4",
+            "task": "ATR",
+            "question": "What pattern is present on the shirt?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1071,
+            "video": "data/src_videos/AutoEvalMetaData/62.mp4",
+            "task": "ATR",
+            "question": "What color is the helmet he's wearing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1072,
+            "video": "data/src_videos/AutoEvalMetaData/62.mp4",
+            "task": "ATR",
+            "question": "What type of pattern is on the girl's shirt?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1073,
+            "video": "data/src_videos/AutoEvalMetaData/141.mp4",
+            "task": "ATR",
+            "question": "How is his facial expression as he exercises?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1074,
+            "video": "data/src_videos/AutoEvalMetaData/159.mp4",
+            "task": "ATR",
+            "question": "What color is the cape?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1075,
+            "video": "data/src_videos/AutoEvalMetaData/159.mp4",
+            "task": "ATR",
+            "question": "What is the terrain texture in the environment where they are standing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1076,
+            "video": "data/src_videos/AutoEvalMetaData/161.mp4",
+            "task": "ATR",
+            "question": "How is the character in the center styled?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1077,
+            "video": "data/src_videos/AutoEvalMetaData/248.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is the person wearing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1078,
+            "video": "data/src_videos/AutoEvalMetaData/24.mp4",
+            "task": "ATR",
+            "question": "What type of accessory is the person wearing on their head?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1079,
+            "video": "data/src_videos/AutoEvalMetaData/72.mp4",
+            "task": "ATR",
+            "question": "What emotion is evident on their face after the play?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1080,
+            "video": "data/src_videos/AutoEvalMetaData/72.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the black and red uniform?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1081,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is the person wearing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1082,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "ATR",
+            "question": "What emotion does the person appear to be showing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1083,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "ATR",
+            "question": "What is the expression of the man in the white jersey with braided hair?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1084,
+            "video": "data/src_videos/AutoEvalMetaData/197.mp4",
+            "task": "ATR",
+            "question": "What is the material of the containers visible?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1085,
+            "video": "data/src_videos/AutoEvalMetaData/197.mp4",
+            "task": "ATR",
+            "question": "What is on the cardboard box?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1086,
+            "video": "data/src_videos/AutoEvalMetaData/197.mp4",
+            "task": "ATR",
+            "question": "What is the state of the drawers?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1087,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "ATR",
+            "question": "What pattern is visible on the harness of the dog lying on the floor?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1088,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "ATR",
+            "question": "What distinctive color and pattern is present on the small dog walking away?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1089,
+            "video": "data/src_videos/AutoEvalMetaData/40.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the potato's skin?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1090,
+            "video": "data/src_videos/AutoEvalMetaData/40.mp4",
+            "task": "ATR",
+            "question": "What is the tool made of?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1091,
+            "video": "data/src_videos/AutoEvalMetaData/130.mp4",
+            "task": "ATR",
+            "question": "What pattern is visible on the wall?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1092,
+            "video": "data/src_videos/AutoEvalMetaData/37.mp4",
+            "task": "ATR",
+            "question": "What is the texture of the sofa fabric?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1093,
+            "video": "data/src_videos/AutoEvalMetaData/35.mp4",
+            "task": "ATR",
+            "question": "What style is the tattoo on the person's neck?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1094,
+            "video": "data/src_videos/AutoEvalMetaData/54.mp4",
+            "task": "ATR",
+            "question": "What kind of expression does the small animal wrapped in the cloth have?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1095,
+            "video": "data/src_videos/AutoEvalMetaData/260.mp4",
+            "task": "ATR",
+            "question": "What expression does the person in the rearview mirror have?",
+            "response": "I'm sorry, I can't help with that.",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1096,
+            "video": "data/src_videos/AutoEvalMetaData/13.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is he wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1097,
+            "video": "data/src_videos/AutoEvalMetaData/13.mp4",
+            "task": "ATR",
+            "question": "How does his facial expression appear?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1098,
+            "video": "data/src_videos/AutoEvalMetaData/119.mp4",
+            "task": "ATR",
+            "question": "What type of pan is being used, based on its appearance?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1099,
+            "video": "data/src_videos/AutoEvalMetaData/79.mp4",
+            "task": "ATR",
+            "question": "What color pattern is on the person's shorts?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1100,
+            "video": "data/src_videos/AutoEvalMetaData/255.mp4",
+            "task": "ATR",
+            "question": "What is the hairstyle of the person holding an ice cream?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1101,
+            "video": "data/src_videos/AutoEvalMetaData/226.mp4",
+            "task": "ATR",
+            "question": "What is the prominent color of the obstacle on the structure?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1102,
+            "video": "data/src_videos/AutoEvalMetaData/226.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is the person wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1103,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the woman's clothing?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1104,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ATR",
+            "question": "What is notable about the man's tie?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1105,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "ATR",
+            "question": "What color is the plant pot located beside the two people on the bench?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1106,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "ATR",
+            "question": "What is the color of the hat worn by the person in the green outfit?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1107,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ATR",
+            "question": "What color is the wall behind the painting?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1108,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ATR",
+            "question": "What is the item being carried by the person in the suit?",
+            "response": "B",
+            "ground_truth": "A"
+        }
+    ],
+    "forward": []
+}

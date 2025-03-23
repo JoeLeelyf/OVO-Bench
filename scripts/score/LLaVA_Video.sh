@@ -1,0 +1,1 @@
+python score.py --model LLaVA_Video --mode offline

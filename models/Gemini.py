@@ -38,17 +38,20 @@ class EvalGemini(OVOBenchOffline):
 
     def inference(self, video_file_name, prompt):
         video_file = self.video_to_base64(video_file_name)
-
-        response = self.vision_model.generate_content(
-            [
-                Part.from_data(
-                    data=video_file, mime_type="video/mp4"
-                ),
-                prompt,
-            ],
-            generation_config={
-                "temperature": 0
-            }
-        )
         
-        return response.text
+        try:
+            response = self.vision_model.generate_content(
+                [
+                    Part.from_data(
+                        data=video_file, mime_type="video/mp4"
+                    ),
+                    prompt,
+                ],
+                generation_config={
+                    "temperature": 0
+                }
+            )
+            return response.text
+        except Exception as e:
+            print(e)
+            return None

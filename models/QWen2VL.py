@@ -1,35 +1,47 @@
-import torch
-from utils.OVOBench import OVOBenchOffline
-from transformers import AutoProcessor
-from vllm import LLM, SamplingParams
+"""
+Qwen2VL Eval Code
+
+Weight from: 
+- https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
+- https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
+
+Inference Code from:
+- https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
+
+Inference Platform:
+- 7B: 4*A100 80GB
+- 72B: 8*A100 80GB
+"""
+from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
+
+from utils.OVOBench import OVOBenchOffline
+from decord import VideoReader
+
+def get_max_frames(video_file_name, max_frames):
+    video = VideoReader(video_file_name)
+    return min(max_frames, len(video) - 2)
 
 class EvalQWen2VL(OVOBenchOffline):
     def __init__(self, args) -> None:
         super().__init__(args)
 
         self.args = args
-        self._model_init_()
+        self._model_init()
 
     def _model_init(self):
         model_path = self.args.model_path
-        self.llm = LLM(
-            model = model_path,
-            dtype=torch.bfloat16,
-            gpu_memory_utilization=0.7,
-        )
-        
-        self.sampling_params = SamplingParams(
-            temperature=0.1,
-            top_p=0.001,
-            repetition_penalty=1.05,
-            max_tokens=256,
-            stop_token_ids=[],
+        self.model =  Qwen2VLForConditionalGeneration.from_pretrained(
+            model_path, 
+            torch_dtype="auto", 
+            device_map="auto", 
+            attn_implementation="flash_attention_2"
         )
 
         self.processor = AutoProcessor.from_pretrained(model_path)
 
     def inference(self, video_file_name, prompt):
+        frames_num = get_max_frames(video_file_name, max_frames=64)
         messages = [
             {
                 "role": "user",
@@ -37,7 +49,8 @@ class EvalQWen2VL(OVOBenchOffline):
                     {
                         "type": "video",
                         "video": video_file_name,
-                        "nframes": 64,
+                        "max_pixels": 360 * 420,
+                        "nframes": frames_num,
                     },
                     {
                         "type": "text",
@@ -47,24 +60,26 @@ class EvalQWen2VL(OVOBenchOffline):
             }
         ]
 
-        prompt = self.processor.apply_chat_template(
-            messages,
-            tokenize=False,
-            add_generation_prompt=True,
+        # Preparation for inference
+        text = self.processor.apply_chat_template(
+            messages, tokenize=False, add_generation_prompt=True
         )
-
         image_inputs, video_inputs = process_vision_info(messages)
+        inputs = self.processor(
+            text=[text],
+            images=image_inputs,
+            videos=video_inputs,
+            padding=True,
+            return_tensors="pt",
+        )
+        inputs = inputs.to("cuda")
 
-        mm_data = {}
-        if image_inputs is not None:
-            mm_data["image"] = image_inputs
-        if video_inputs is not None:
-            mm_data["video"] = video_inputs
-        llm_inputs = {
-            "prompt": prompt,
-            "multi_modal_data": mm_data,
-        }
-
-        outputs = self.llm.generate([llm_inputs], sampling_params=self.sampling_params)
-        response = outputs[0].outputs[0].text
-        return response
+        # Inference
+        generated_ids = self.model.generate(**inputs, max_new_tokens=128)
+        generated_ids_trimmed = [
+            out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+        ]
+        output_text = self.processor.batch_decode(
+            generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
+        )
+        return output_text

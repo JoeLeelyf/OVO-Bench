@@ -1,0 +1,1502 @@
+{
+    "backward": [
+        {
+            "id": 297,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/93231c7e-1cf4-4a20-b1f8-9cc9428915b2.mp4",
+            "task": "HLD",
+            "question": "what did I put in the black dustbin?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 298,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/93231c7e-1cf4-4a20-b1f8-9cc9428915b2.mp4",
+            "task": "HLD",
+            "question": "Where did I put the vacuum cleaner head?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 299,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/60e7e14d-cbed-46d1-924d-6ce451ea7d7c.mp4",
+            "task": "HLD",
+            "question": "Where did I put the shoe?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 300,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/453bf120-65a3-4616-bbd7-51bafdaac44d.mp4",
+            "task": "HLD",
+            "question": "Where was the cordless drill ?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 301,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1ff34d9f-1c5a-40d8-98ee-8d3cbf48ebc3.mp4",
+            "task": "HLD",
+            "question": "Where is the rice cooker?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 302,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/99679e4d-1396-4248-97f4-97c9b0ed5336.mp4",
+            "task": "HLD",
+            "question": "How many red cups are on the ground?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 303,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/99679e4d-1396-4248-97f4-97c9b0ed5336.mp4",
+            "task": "HLD",
+            "question": "Where is the bucket?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 304,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/9093c341-5f95-4402-a2dd-6a84aa42bf1f.mp4",
+            "task": "HLD",
+            "question": "where did i put the tumbler",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 305,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/9093c341-5f95-4402-a2dd-6a84aa42bf1f.mp4",
+            "task": "HLD",
+            "question": "What bowl did I scrape?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 306,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/956488d0-1b28-41b5-a13f-7f1b72e1c2c7.mp4",
+            "task": "HLD",
+            "question": "where was the plastic shovel before i picked it?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 307,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/6e73e4ca-d147-40ea-8587-035e8f2850c7.mp4",
+            "task": "HLD",
+            "question": "Did I move the ruler one last time?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 308,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/6e73e4ca-d147-40ea-8587-035e8f2850c7.mp4",
+            "task": "HLD",
+            "question": "where did I place the trowel?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 309,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/383dcbdb-917f-4ed7-805b-826c75d548b1.mp4",
+            "task": "HLD",
+            "question": "where was the wire before I picked it?",
+            "response": null,
+            "ground_truth": "D"
+        },
+        {
+            "id": 310,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/383dcbdb-917f-4ed7-805b-826c75d548b1.mp4",
+            "task": "HLD",
+            "question": "What did I put on the table behind me?",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 311,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/00d9a297-d967-4d28-8e5a-6b891814ec65.mp4",
+            "task": "HLD",
+            "question": "What color was the napkin I used last",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 312,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/00d9a297-d967-4d28-8e5a-6b891814ec65.mp4",
+            "task": "HLD",
+            "question": "what did l put in the sink",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 313,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/9a13aee2-0dca-49f8-968f-8f53c5a62963.mp4",
+            "task": "HLD",
+            "question": "Did I close the cabinet",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 314,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/9a13aee2-0dca-49f8-968f-8f53c5a62963.mp4",
+            "task": "HLD",
+            "question": "where was cooking oil before I pour in the pan?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 315,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/51a81cd9-5534-47a1-8e53-cd7ab530aeb4.mp4",
+            "task": "HLD",
+            "question": "Where were game boards?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 316,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/2c1724ce-f438-4d63-a699-8a7f65e3cbd9.mp4",
+            "task": "HLD",
+            "question": "What colour is the paper I put on the table",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 317,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/2c1724ce-f438-4d63-a699-8a7f65e3cbd9.mp4",
+            "task": "HLD",
+            "question": "What stick did I pick from the container?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 318,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/c6470548-81a3-4d9c-8bee-87a955948d5c.mp4",
+            "task": "HLD",
+            "question": "In what location did I see the insulated bottle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 319,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/6c2849cb-d6bb-432e-b4ae-8b8c4837ad8b.mp4",
+            "task": "HLD",
+            "question": "where was the laptop before I picked it?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 320,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/6c2849cb-d6bb-432e-b4ae-8b8c4837ad8b.mp4",
+            "task": "HLD",
+            "question": "Where is the luggage?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 321,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1cac2aa7-4f65-4a50-88b9-e1f6e5c927f8.mp4",
+            "task": "HLD",
+            "question": "Where did I last put the sieve?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 322,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1cac2aa7-4f65-4a50-88b9-e1f6e5c927f8.mp4",
+            "task": "HLD",
+            "question": "what did i put in the plate?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 323,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/cf1470f1-9a03-4944-95dd-7f8410bb6cc8.mp4",
+            "task": "HLD",
+            "question": "Where is my screwdriver?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 324,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/53c86be4-190d-4410-8750-179a7edc70b3.mp4",
+            "task": "HLD",
+            "question": "In what location did I see the television?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 325,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/53c86be4-190d-4410-8750-179a7edc70b3.mp4",
+            "task": "HLD",
+            "question": "Did i leave the door open?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 326,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/70cef020-51e7-429e-af75-f87747b3daad.mp4",
+            "task": "HLD",
+            "question": "what did I put in the plastic container?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 327,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/f748feb9-9a15-4f2b-9b65-186f90107c7c.mp4",
+            "task": "HLD",
+            "question": "What did I put in the rack",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 328,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/f748feb9-9a15-4f2b-9b65-186f90107c7c.mp4",
+            "task": "HLD",
+            "question": "What did i put in the dough mixer?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 329,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/4c4d7210-b39d-4659-b433-befd181482c2.mp4",
+            "task": "HLD",
+            "question": "Did I leave the kitchen window open ?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 330,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/4c4d7210-b39d-4659-b433-befd181482c2.mp4",
+            "task": "HLD",
+            "question": "where did I put  bucket?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 331,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/75958c37-1002-4b2d-a455-168b0ebcaf8a.mp4",
+            "task": "HLD",
+            "question": "How many trays did i take out of the oven?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 332,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/75958c37-1002-4b2d-a455-168b0ebcaf8a.mp4",
+            "task": "HLD",
+            "question": "what colour is the bottle on the sink",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 333,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/3231822a-fc8b-4207-b0b8-5cbb1344cb2f.mp4",
+            "task": "HLD",
+            "question": "In what location did I leave the scooping spoon?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 334,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/3231822a-fc8b-4207-b0b8-5cbb1344cb2f.mp4",
+            "task": "HLD",
+            "question": "Where is the groundnut oil bottle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 335,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/d37ab6fe-4f57-41ef-b6ff-cb193be15303.mp4",
+            "task": "HLD",
+            "question": "who did I talk to in the house?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 336,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/d7b8f461-db42-4365-9f89-83f923528293.mp4",
+            "task": "HLD",
+            "question": "What mushroom did i chop",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 337,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/d7b8f461-db42-4365-9f89-83f923528293.mp4",
+            "task": "HLD",
+            "question": "How many tomatoes did I chop?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 338,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/43db99a3-61ce-4548-ba5a-faf4c91c72f1.mp4",
+            "task": "HLD",
+            "question": "How many spring onions did I cut?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 339,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/88dcb32f-a537-47de-b3bf-f9149352bbb9.mp4",
+            "task": "HLD",
+            "question": "Where is the screwdriver?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 340,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/3341648c-88b4-433a-87ac-1fcc9619a4dc.mp4",
+            "task": "HLD",
+            "question": "where did I put the bowl?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 341,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/4ab42038-79a6-433c-905d-f1426561b9f8.mp4",
+            "task": "HLD",
+            "question": "Which belt did I select?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 342,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/18dc6a76-ae84-415f-9283-c1e35809b9ec.mp4",
+            "task": "HLD",
+            "question": "Where was the fork?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 343,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/78c1036f-8cb9-48b3-8e57-bb07518b6533.mp4",
+            "task": "HLD",
+            "question": "Where was the white throw pillow before I picked the jenga box?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 344,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/d87b96a7-09f5-419d-84fc-f916bd68ae1b.mp4",
+            "task": "HLD",
+            "question": "Where did I put the bag?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 345,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/37440fa1-f1a7-4781-b89b-e0dd385af2eb.mp4",
+            "task": "HLD",
+            "question": "where did I put the hammer",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 346,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/37440fa1-f1a7-4781-b89b-e0dd385af2eb.mp4",
+            "task": "HLD",
+            "question": "Where did i put the plywood?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 347,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/4ecd1707-cce9-46bf-9846-11d031f79556.mp4",
+            "task": "HLD",
+            "question": "Where did I put the trash bin I carried?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 348,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/8a855547-3574-4e67-a7ac-41b072984e3b.mp4",
+            "task": "HLD",
+            "question": "Where was the pocket knife?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 349,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/8a855547-3574-4e67-a7ac-41b072984e3b.mp4",
+            "task": "HLD",
+            "question": "Where did I put the bottle of water I drank from?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 350,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/a538b7bc-5ec2-496a-8bbe-9d6d38381a39.mp4",
+            "task": "HLD",
+            "question": "How many white planks did I carry out of the house?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 351,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/a538b7bc-5ec2-496a-8bbe-9d6d38381a39.mp4",
+            "task": "HLD",
+            "question": "In what location did I see the trash can?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 352,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/c0a634a9-3dbe-44f8-9a04-7718d2a2762e.mp4",
+            "task": "HLD",
+            "question": "What did I plug into the socket?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 353,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/c0a634a9-3dbe-44f8-9a04-7718d2a2762e.mp4",
+            "task": "HLD",
+            "question": "in what room did I see the machine?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 354,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/f04e8671-a8f1-4bf8-965b-38f45679ac0a.mp4",
+            "task": "HLD",
+            "question": "In what room did I see the hammer last?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 355,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1c865785-9ac6-4f16-baa4-97405aacad6a.mp4",
+            "task": "HLD",
+            "question": "Where did I put the frying pan?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 356,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1c865785-9ac6-4f16-baa4-97405aacad6a.mp4",
+            "task": "HLD",
+            "question": "where did l wash the utensils",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 357,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/4a9a6049-61cf-47b1-b384-0a22556e88e0.mp4",
+            "task": "HLD",
+            "question": "How many path way did I saw",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 358,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/740a9d13-cf77-4e7d-91b5-a3ebf6d270ec.mp4",
+            "task": "HLD",
+            "question": "where is my phone?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 359,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/d3413a15-c30d-4cd7-ac2e-e56af6790754.mp4",
+            "task": "HLD",
+            "question": "who did I interact with when  I was operating mobile phone?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 360,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/642703e6-d639-40f6-8dfb-86e53e30db53.mp4",
+            "task": "HLD",
+            "question": "Which tool did I take after clamping wood on table?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 361,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/642703e6-d639-40f6-8dfb-86e53e30db53.mp4",
+            "task": "HLD",
+            "question": "In what location did I last see the Yellow brush?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 362,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1945d70d-bb9d-4523-aa31-7cfedb76b6c6.mp4",
+            "task": "HLD",
+            "question": "who did I talk to when I was playing cards?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 363,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/89193dbc-0ffa-4ee2-9ea8-c434ce177310.mp4",
+            "task": "HLD",
+            "question": "Did i leave the water running? ",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 364,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/89193dbc-0ffa-4ee2-9ea8-c434ce177310.mp4",
+            "task": "HLD",
+            "question": "Where did I put the knife",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 365,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/742355b3-3123-4671-99e9-8a4612204b9c.mp4",
+            "task": "HLD",
+            "question": "where did I walked in the garden",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 366,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/c8f4c698-167f-44f8-b624-3fb69660a7ce.mp4",
+            "task": "HLD",
+            "question": "What spanner did I remove from the drawer?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 367,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/33c3f556-cf99-45ae-9d01-9051b9b1f19e.mp4",
+            "task": "HLD",
+            "question": "Where did I put the video game box?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 368,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/f31e8020-1bdb-4885-90f6-a84ad8a392c9.mp4",
+            "task": "HLD",
+            "question": "who did I interact with  when I was shopping?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 369,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/17bb68e6-328e-428d-8f1c-9fbf8b2471f2.mp4",
+            "task": "HLD",
+            "question": "Where did I put the door mat?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 370,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/07cc6e65-df8c-46fb-b4be-b808d777454f.mp4",
+            "task": "HLD",
+            "question": "Who did I talk to at the garage?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 371,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/07cc6e65-df8c-46fb-b4be-b808d777454f.mp4",
+            "task": "HLD",
+            "question": "In what location did I see the wooden frame?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 372,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/71e0d3e7-4706-4eb3-9a7a-85d01f46259f.mp4",
+            "task": "HLD",
+            "question": "Where was the stand before I moved it?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 373,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/71e0d3e7-4706-4eb3-9a7a-85d01f46259f.mp4",
+            "task": "HLD",
+            "question": "Where is the traffic cone",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 374,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/bccb07af-db56-4deb-9a5c-4fb2ee8a356f.mp4",
+            "task": "HLD",
+            "question": "How many yellow tuk-tuk are outside",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 375,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/bccb07af-db56-4deb-9a5c-4fb2ee8a356f.mp4",
+            "task": "HLD",
+            "question": "Where was the bike seat before I opened it?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 376,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/f32cb53d-4a80-499c-bb32-cefef3abe205.mp4",
+            "task": "HLD",
+            "question": "Where is the phone?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 377,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/616f5047-e92f-477f-b7a3-7ccb6b43d682.mp4",
+            "task": "HLD",
+            "question": "where did i put the jug?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 378,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/616f5047-e92f-477f-b7a3-7ccb6b43d682.mp4",
+            "task": "HLD",
+            "question": "Where was the glass jar before I picked it?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 379,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/2c2bda8d-69a3-4a90-9ad6-f6715bc99f39.mp4",
+            "task": "HLD",
+            "question": "Did I open the door?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 380,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/2c2bda8d-69a3-4a90-9ad6-f6715bc99f39.mp4",
+            "task": "HLD",
+            "question": "What colour is the pant I put on the table",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 381,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/194b473e-025a-4494-addc-1896341d0164.mp4",
+            "task": "HLD",
+            "question": "Where did I put the first aid tool kit",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 382,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/194b473e-025a-4494-addc-1896341d0164.mp4",
+            "task": "HLD",
+            "question": "What color is the chord I folded?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 383,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1d019e7e-e300-4fbc-a7b3-4edf317c1798.mp4",
+            "task": "HLD",
+            "question": "where was the pink flower?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 384,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/b069f58c-c69a-45e3-b6c9-367113727cd6.mp4",
+            "task": "HLD",
+            "question": "where is the lamp ",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 385,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/ec4a3ba3-eb00-4aa8-9b41-36043ece98f7.mp4",
+            "task": "HLD",
+            "question": "Did I close the bottle of oil?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 386,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/1c597fc1-7bd0-4325-abbc-645e3ec71866.mp4",
+            "task": "HLD",
+            "question": "where is the chopsticks?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 387,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/245f3b76-ef46-48d1-b37c-afe73efbf1cf.mp4",
+            "task": "HLD",
+            "question": "in what location did I tighten the nut on the board?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 388,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/245f3b76-ef46-48d1-b37c-afe73efbf1cf.mp4",
+            "task": "HLD",
+            "question": "Where was the shelf ?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 389,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/b1bd830a-a738-4ebe-9e88-c348def0de90.mp4",
+            "task": "HLD",
+            "question": "Where is the yellow and black hand drill?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 390,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/b1bd830a-a738-4ebe-9e88-c348def0de90.mp4",
+            "task": "HLD",
+            "question": "What did I put in bottle on sink?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 391,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/ba5b8b24-2335-40c0-86c9-bfd76620e1fa.mp4",
+            "task": "HLD",
+            "question": "Where did I put the black wallet ",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 392,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/8acaf6f6-5396-4df6-98e6-13baea8f8af8.mp4",
+            "task": "HLD",
+            "question": "what dough shaper did i push?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 393,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/5a93f209-59d4-4950-80d2-c8e43cc2fe7f.mp4",
+            "task": "HLD",
+            "question": "Where was the sheet pan before I placed it on the oven?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 394,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/da074982-6ab1-4d82-a35b-20d08e9bbe0b.mp4",
+            "task": "HLD",
+            "question": "Did i press the  switch button?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 395,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/da074982-6ab1-4d82-a35b-20d08e9bbe0b.mp4",
+            "task": "HLD",
+            "question": "Where was the tray before I removed it from the oven?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 396,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/bccc3bde-d9b2-4edb-9b1f-a3f42dd07b3e.mp4",
+            "task": "HLD",
+            "question": "How many dough portions did I cut?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 397,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/bccc3bde-d9b2-4edb-9b1f-a3f42dd07b3e.mp4",
+            "task": "HLD",
+            "question": "How many doughs did i roll to shape?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 398,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/8d3f5b12-ac2c-4315-80ed-bb827aa91bd4.mp4",
+            "task": "HLD",
+            "question": "How many laptops were in the room",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 399,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/2b19ee03-d94f-4c1f-822d-d4c00a2066cc.mp4",
+            "task": "HLD",
+            "question": "Where was the folding rule before I picked it?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 400,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/2b19ee03-d94f-4c1f-822d-d4c00a2066cc.mp4",
+            "task": "HLD",
+            "question": "where did i put the box?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 401,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/4ba774a8-cd2a-4889-9971-cc91f5c1afd4.mp4",
+            "task": "HLD",
+            "question": "Where did I put the tissue?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 402,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/3ef4d3b5-2a79-42f0-9609-509f886e7f93.mp4",
+            "task": "HLD",
+            "question": "Where was the piece of paper before i picked it?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 403,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/780f7a41-3573-4dd6-8658-d1c8c02ef0ba.mp4",
+            "task": "HLD",
+            "question": "Who did I interacted with while shopping?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 404,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/c9885f38-fa92-42f0-b998-42b1139b5b5f.mp4",
+            "task": "HLD",
+            "question": "Where is the small grey keg?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 405,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/c9885f38-fa92-42f0-b998-42b1139b5b5f.mp4",
+            "task": "HLD",
+            "question": "What chain did I rotate?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 406,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/b352dc19-c601-4740-9559-6db99ea782e9.mp4",
+            "task": "HLD",
+            "question": "How many boxes did lady with specks carry?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 407,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/0b20e242-a496-4662-a3e7-645bcecdbe55.mp4",
+            "task": "HLD",
+            "question": "where was chilli after i poured in the food",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 408,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/0b20e242-a496-4662-a3e7-645bcecdbe55.mp4",
+            "task": "HLD",
+            "question": "What color is the plate I picked from the cabinet",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 409,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/9018ea50-bda8-4bb5-a3c1-da81c24d2018.mp4",
+            "task": "HLD",
+            "question": "What tool did I take out?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 410,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/Ego4D/clips/9018ea50-bda8-4bb5-a3c1-da81c24d2018.mp4",
+            "task": "HLD",
+            "question": "in what location did i last see the torch?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 411,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "HLD",
+            "question": "Where can I put my apples?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 412,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/026-hm3d-tQ5s4ShP627.mp4",
+            "task": "HLD",
+            "question": "Where is the toy car?",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 413,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "HLD",
+            "question": "Can this home be used for a large dinner party?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 414,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/002-hm3d-wcojb4TFT35.mp4",
+            "task": "HLD",
+            "question": "What is the green object in the left of the garage?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 414,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/002-hm3d-wcojb4TFT35.mp4",
+            "task": "HLD",
+            "question": "What is the green object in the left of the garage?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 415,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "What color are the pillows in the kitchen?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 416,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/035-hm3d-BAbdmeyTvMZ.mp4",
+            "task": "HLD",
+            "question": "what is special about the wall in the living room?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 417,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/023-hm3d-VBzV5z6i1WS.mp4",
+            "task": "HLD",
+            "question": "If I sit in the armchair in the living room, what animal can I touch with my right hand?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 418,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/010-hm3d-5cdEh9F2hJL.mp4",
+            "task": "HLD",
+            "question": "How can I cool myself off?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 419,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/010-hm3d-5cdEh9F2hJL.mp4",
+            "task": "HLD",
+            "question": "What is above the bed?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 420,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/004-hm3d-66seV3BWPoX.mp4",
+            "task": "HLD",
+            "question": "What is above the red couch?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 421,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/032-hm3d-6s7QHgap2fW.mp4",
+            "task": "HLD",
+            "question": "how do I go down from the above floor to the below floor?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 422,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/035-hm3d-BAbdmeyTvMZ.mp4",
+            "task": "HLD",
+            "question": "where can I sit in the living room?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 423,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "HLD",
+            "question": "what does the outside weather look like?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 424,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "Where can I get drinking water in the kitchen?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 425,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/032-hm3d-6s7QHgap2fW.mp4",
+            "task": "HLD",
+            "question": "what color is the flower in the bottom floor?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 426,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "HLD",
+            "question": "where can I keep the keyboard",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 427,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "What color is the front door?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 428,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/032-hm3d-6s7QHgap2fW.mp4",
+            "task": "HLD",
+            "question": "is the chair in the above floor pushed in or placed out?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 429,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "HLD",
+            "question": "is the lamp in the bedroom on or off?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 430,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/033-hm3d-vd3HHTEpmyA.mp4",
+            "task": "HLD",
+            "question": "what does the art in the hallway show?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 431,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "HLD",
+            "question": "Where is the microwave?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 432,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/031-hm3d-Nfvxx8J5NCo.mp4",
+            "task": "HLD",
+            "question": "where can I keep a photo frame?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 433,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "HLD",
+            "question": "What is the blue object above the glass doors?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 434,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/029-hm3d-mv2HUxq3B53.mp4",
+            "task": "HLD",
+            "question": "Where is the ceiling fan?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 435,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "HLD",
+            "question": "What is in between the two couches?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 436,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "HLD",
+            "question": "is the brown dresser in the bedroom empty?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 437,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "HLD",
+            "question": "What is in between the two bedroom doorways?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 438,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/001-hm3d-TPhiubUHKcP.mp4",
+            "task": "HLD",
+            "question": "Is the bedroom door open?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 439,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "HLD",
+            "question": "Is the chandelier turned on?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 440,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/010-hm3d-5cdEh9F2hJL.mp4",
+            "task": "HLD",
+            "question": "What is depicted on the painting above the bed?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 441,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "HLD",
+            "question": "What is the picture seen from the kitchen depict?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 442,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "What is hanging from the oven handle?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 443,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/015-hm3d-5jp3fCRSRjc.mp4",
+            "task": "HLD",
+            "question": "What color is the staircase railing?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 444,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "HLD",
+            "question": "What can I use to entertain my guests with music?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 445,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/003-hm3d-c5eTyR3Rxyh.mp4",
+            "task": "HLD",
+            "question": "Where is the cartoon cat?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 446,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/024-hm3d-c3WKCnkEdha.mp4",
+            "task": "HLD",
+            "question": "Where is the microwave?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 447,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "HLD",
+            "question": "What is the gold object on top of the bureau?",
+            "response": null,
+            "ground_truth": "D"
+        },
+        {
+            "id": 448,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "HLD",
+            "question": "what room is the white table lamp in?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 449,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/029-hm3d-mv2HUxq3B53.mp4",
+            "task": "HLD",
+            "question": "I want to host a dinner party on a summer evening, where should I set the table?",
+            "response": null,
+            "ground_truth": "D"
+        },
+        {
+            "id": 450,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "HLD",
+            "question": "What room is the orchid in?",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 451,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/013-hm3d-svBbv1Pavdk.mp4",
+            "task": "HLD",
+            "question": "Is the coat closet in the living room open?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 452,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "HLD",
+            "question": "Is there space on the dining table to work on my laptop?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 453,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "HLD",
+            "question": "What color are the air vents below the window?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 454,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/003-hm3d-c5eTyR3Rxyh.mp4",
+            "task": "HLD",
+            "question": "What shape is the mirror?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 455,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "HLD",
+            "question": "What is above the table on the wall you see when exiting the bedroom?",
+            "response": null,
+            "ground_truth": "B"
+        },
+        {
+            "id": 456,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/029-hm3d-mv2HUxq3B53.mp4",
+            "task": "HLD",
+            "question": "Is the television turned on or off?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 457,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "HLD",
+            "question": "How many basins does the sink have?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 458,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "HLD",
+            "question": "What kind of numbering does the blue clock use?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 459,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "HLD",
+            "question": "What color are the window frames?",
+            "response": null,
+            "ground_truth": "B"
+        },
+        {
+            "id": 460,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/037-hm3d-FnSn2KSrALj.mp4",
+            "task": "HLD",
+            "question": "what is between the lamp and the side table in the bedroom?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 461,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "What is above the wooden table in the living room?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 462,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "HLD",
+            "question": "What is the chandelier hanging over?",
+            "response": null,
+            "ground_truth": "B"
+        },
+        {
+            "id": 427,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "What color is the front door?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 464,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "HLD",
+            "question": "What objects are in the black cubby shelf?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 465,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "HLD",
+            "question": "Where are the brown woven baskets?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 466,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "HLD",
+            "question": "where can I keep a flower vase in the bedroom?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 424,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "Where can I get drinking water in the kitchen?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 468,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/015-hm3d-5jp3fCRSRjc.mp4",
+            "task": "HLD",
+            "question": "What is hung along the walls of the staircase?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 469,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "HLD",
+            "question": "Where can I warm up?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 470,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/006-hm3d-q3hn1WQ12rz.mp4",
+            "task": "HLD",
+            "question": "What color is the staircase railing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 471,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/023-hm3d-VBzV5z6i1WS.mp4",
+            "task": "HLD",
+            "question": "It's too bright in the living room, how can I make it darker?",
+            "response": null,
+            "ground_truth": "E"
+        },
+        {
+            "id": 472,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/011-hm3d-bzCsHPLDztK.mp4",
+            "task": "HLD",
+            "question": "What color pattern is on the pillow on the black couch?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 473,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/001-hm3d-TPhiubUHKcP.mp4",
+            "task": "HLD",
+            "question": "What is the large, round, and black object on the wall?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 474,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/002-hm3d-wcojb4TFT35.mp4",
+            "task": "HLD",
+            "question": "Is the house doorway open or closed?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 475,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "HLD",
+            "question": "How can I turn off the lamp in the bedroom?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 476,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "HLD",
+            "question": "After washing my hands in the sink, what should I use to dry my hands?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 477,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "HLD",
+            "question": "Where is the grey bed?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 478,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "HLD",
+            "question": "Where is the picture with the red flowers?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 479,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "HLD",
+            "question": "What color is the trim around the mirror?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 480,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/006-hm3d-q3hn1WQ12rz.mp4",
+            "task": "HLD",
+            "question": "What is to the left of the mirror downstairs?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 481,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/035-hm3d-BAbdmeyTvMZ.mp4",
+            "task": "HLD",
+            "question": "where is the standing lamp?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 482,
+            "video": "/mnt/hwfile/mllm/liyifei/Video_Benchmark/OpenEQA/hm3d-v0/007-hm3d-bxsVRursffK.mp4",
+            "task": "HLD",
+            "question": "Are the doors downstairs closed?",
+            "response": "C",
+            "ground_truth": "C"
+        }
+    ],
+    "realtime": [],
+    "forward": []
+}

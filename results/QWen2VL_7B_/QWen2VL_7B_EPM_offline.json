@@ -1,0 +1,2382 @@
+{
+    "backward": [
+        {
+            "id": 0,
+            "video": "data/src_videos/Ego4D/clips/ec4a3ba3-eb00-4aa8-9b41-36043ece98f7.mp4",
+            "task": "EPM",
+            "question": "Who did I communicate to  when chopping egg plants?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1,
+            "video": "data/src_videos/Ego4D/clips/ec4a3ba3-eb00-4aa8-9b41-36043ece98f7.mp4",
+            "task": "EPM",
+            "question": "What did I drop in the bowl in the sink?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 2,
+            "video": "data/src_videos/Ego4D/clips/ec4a3ba3-eb00-4aa8-9b41-36043ece98f7.mp4",
+            "task": "EPM",
+            "question": "Where is the microwave? ",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 3,
+            "video": "data/src_videos/Ego4D/clips/ec4a3ba3-eb00-4aa8-9b41-36043ece98f7.mp4",
+            "task": "EPM",
+            "question": "What food did I chop?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 4,
+            "video": "data/src_videos/Ego4D/clips/4ba774a8-cd2a-4889-9971-cc91f5c1afd4.mp4",
+            "task": "EPM",
+            "question": "Where was the paper towel before I picked it?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 5,
+            "video": "data/src_videos/Ego4D/clips/4ba774a8-cd2a-4889-9971-cc91f5c1afd4.mp4",
+            "task": "EPM",
+            "question": "What drawer did I pull?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 6,
+            "video": "data/src_videos/Ego4D/clips/4ba774a8-cd2a-4889-9971-cc91f5c1afd4.mp4",
+            "task": "EPM",
+            "question": "Where Was the plate before I picked it?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 7,
+            "video": "data/src_videos/Ego4D/clips/4ba774a8-cd2a-4889-9971-cc91f5c1afd4.mp4",
+            "task": "EPM",
+            "question": "What did I pour in the container?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 8,
+            "video": "data/src_videos/Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+            "task": "EPM",
+            "question": "How many poker cards did I hold pick?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 9,
+            "video": "data/src_videos/Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+            "task": "EPM",
+            "question": "who did I interact with when I was playing poker?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 10,
+            "video": "data/src_videos/Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+            "task": "EPM",
+            "question": "what did I put in the mouth?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 11,
+            "video": "data/src_videos/Ego4D/clips/84aae2af-1a45-4e2a-ac52-eb7aeffe212d.mp4",
+            "task": "EPM",
+            "question": "what did I pour in the boiler?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 12,
+            "video": "data/src_videos/Ego4D/clips/84aae2af-1a45-4e2a-ac52-eb7aeffe212d.mp4",
+            "task": "EPM",
+            "question": "where is my packet of milk?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 13,
+            "video": "data/src_videos/Ego4D/clips/84aae2af-1a45-4e2a-ac52-eb7aeffe212d.mp4",
+            "task": "EPM",
+            "question": "where did I put the packet of milk?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 14,
+            "video": "data/src_videos/Ego4D/clips/84aae2af-1a45-4e2a-ac52-eb7aeffe212d.mp4",
+            "task": "EPM",
+            "question": "in what location did I see the boiler?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 15,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "Where did I put the bottle of oil?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 16,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "Where is my towel?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 17,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "What did I put in the pan?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 18,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "Where was the frypan before I picked it?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 19,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "what color was the hand towel  I wiped my hand with?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 20,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "What did I pick from the utensil holder?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 21,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "what did I pick from the fridge?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 22,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "what did I put in the plastic bag?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 23,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "Where is my pressure drill?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 24,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "ln what location did l see the drill?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 25,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "Did l touch the exhaust pipe?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 26,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "Where did l put the grass?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 27,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "How many cards did I move?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 28,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "Where was the book after I carried it?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 29,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "Where is the book?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 30,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "How many cards did I place on the table?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 31,
+            "video": "data/src_videos/Ego4D/clips/4a37144f-63cd-4729-809c-f05ec1839036.mp4",
+            "task": "EPM",
+            "question": "where was the phone before I picked it?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 32,
+            "video": "data/src_videos/Ego4D/clips/4a37144f-63cd-4729-809c-f05ec1839036.mp4",
+            "task": "EPM",
+            "question": "where was the sandals?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 33,
+            "video": "data/src_videos/Ego4D/clips/4a37144f-63cd-4729-809c-f05ec1839036.mp4",
+            "task": "EPM",
+            "question": "what color was the phone?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 34,
+            "video": "data/src_videos/Ego4D/clips/4a37144f-63cd-4729-809c-f05ec1839036.mp4",
+            "task": "EPM",
+            "question": "what color was the bag?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 35,
+            "video": "data/src_videos/Ego4D/clips/453bf120-65a3-4616-bbd7-51bafdaac44d.mp4",
+            "task": "EPM",
+            "question": "where is the bottle?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 36,
+            "video": "data/src_videos/Ego4D/clips/453bf120-65a3-4616-bbd7-51bafdaac44d.mp4",
+            "task": "EPM",
+            "question": "where did I put the piece of metal?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 37,
+            "video": "data/src_videos/Ego4D/clips/453bf120-65a3-4616-bbd7-51bafdaac44d.mp4",
+            "task": "EPM",
+            "question": "where did I put the pliers?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 38,
+            "video": "data/src_videos/Ego4D/clips/453bf120-65a3-4616-bbd7-51bafdaac44d.mp4",
+            "task": "EPM",
+            "question": "where is the nail gun?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 39,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "How many poker cards did I place on the table?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 40,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "where was the water bottle before I squeezed it?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 41,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "who did I talk to when I was scrolling the phone?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 42,
+            "video": "data/src_videos/Ego4D/clips/7bf24899-4a05-46d4-b47d-36ce045643d8.mp4",
+            "task": "EPM",
+            "question": "where did I put my vaping device?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 43,
+            "video": "data/src_videos/Ego4D/clips/88dcb32f-a537-47de-b3bf-f9149352bbb9.mp4",
+            "task": "EPM",
+            "question": "Who did I talk to at the workshop?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 44,
+            "video": "data/src_videos/Ego4D/clips/88dcb32f-a537-47de-b3bf-f9149352bbb9.mp4",
+            "task": "EPM",
+            "question": "Where did I put the bolt?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 45,
+            "video": "data/src_videos/Ego4D/clips/88dcb32f-a537-47de-b3bf-f9149352bbb9.mp4",
+            "task": "EPM",
+            "question": "Where is the tool?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 46,
+            "video": "data/src_videos/Ego4D/clips/88dcb32f-a537-47de-b3bf-f9149352bbb9.mp4",
+            "task": "EPM",
+            "question": "What tool did I use to tighten the screw?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 47,
+            "video": "data/src_videos/Ego4D/clips/cc2a687e-e871-4319-85c9-c0161678903d.mp4",
+            "task": "EPM",
+            "question": "Who did I talk to in the living room?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 48,
+            "video": "data/src_videos/Ego4D/clips/cc2a687e-e871-4319-85c9-c0161678903d.mp4",
+            "task": "EPM",
+            "question": "Where is the the phone before I scrolled it?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 49,
+            "video": "data/src_videos/Ego4D/clips/cc2a687e-e871-4319-85c9-c0161678903d.mp4",
+            "task": "EPM",
+            "question": "Where did I put the phone",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 50,
+            "video": "data/src_videos/Ego4D/clips/f04e8671-a8f1-4bf8-965b-38f45679ac0a.mp4",
+            "task": "EPM",
+            "question": "What did I sharpen the pencil with?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 51,
+            "video": "data/src_videos/Ego4D/clips/f04e8671-a8f1-4bf8-965b-38f45679ac0a.mp4",
+            "task": "EPM",
+            "question": "What color was the jacket hanged on the wall?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 52,
+            "video": "data/src_videos/Ego4D/clips/f04e8671-a8f1-4bf8-965b-38f45679ac0a.mp4",
+            "task": "EPM",
+            "question": "How many wooden sticks did I hold?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 53,
+            "video": "data/src_videos/Ego4D/clips/f04e8671-a8f1-4bf8-965b-38f45679ac0a.mp4",
+            "task": "EPM",
+            "question": "In what location did I see the drill?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 54,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "In what location did I see the fire extinguisher?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 55,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "What color is the broom?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 56,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "Where was the plier before I picked it?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 57,
+            "video": "data/src_videos/Ego4D/clips/5e1a8326-b006-423e-8294-0f9559c8eb18.mp4",
+            "task": "EPM",
+            "question": "How many power tools are on the work becnh?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 58,
+            "video": "data/src_videos/Ego4D/clips/1945d70d-bb9d-4523-aa31-7cfedb76b6c6.mp4",
+            "task": "EPM",
+            "question": "Where is the tissue roll?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 59,
+            "video": "data/src_videos/Ego4D/clips/1945d70d-bb9d-4523-aa31-7cfedb76b6c6.mp4",
+            "task": "EPM",
+            "question": "Where was the spray bottle after I place it down?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 60,
+            "video": "data/src_videos/Ego4D/clips/1945d70d-bb9d-4523-aa31-7cfedb76b6c6.mp4",
+            "task": "EPM",
+            "question": "Where is the book?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 61,
+            "video": "data/src_videos/Ego4D/clips/1945d70d-bb9d-4523-aa31-7cfedb76b6c6.mp4",
+            "task": "EPM",
+            "question": "What did I put in the lizard's mouth?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 62,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "how many eggs did I pick?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 63,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "what did I pour  in a bowl?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 64,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "what food did I put on a plate?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 65,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "where were the chopsticks",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 66,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "Where did I put the remaining onions?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 67,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "Where was the plastic wrap before I picked it?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 68,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "Where is the red floor pillow?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 69,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "Where was the onion before I picked it?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 70,
+            "video": "data/src_videos/Ego4D/clips/1ff34d9f-1c5a-40d8-98ee-8d3cbf48ebc3.mp4",
+            "task": "EPM",
+            "question": "Where did  I pick the spatula?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 71,
+            "video": "data/src_videos/Ego4D/clips/1ff34d9f-1c5a-40d8-98ee-8d3cbf48ebc3.mp4",
+            "task": "EPM",
+            "question": "How much food did I put in the bowl?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 72,
+            "video": "data/src_videos/Ego4D/clips/1ff34d9f-1c5a-40d8-98ee-8d3cbf48ebc3.mp4",
+            "task": "EPM",
+            "question": "What color is the towel I wiped hands with?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 73,
+            "video": "data/src_videos/Ego4D/clips/1ff34d9f-1c5a-40d8-98ee-8d3cbf48ebc3.mp4",
+            "task": "EPM",
+            "question": "What did I pick from the drawer?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 74,
+            "video": "data/src_videos/Ego4D/clips/ab094ea2-9251-4f10-945b-c2ab00c5282e.mp4",
+            "task": "EPM",
+            "question": "where did i put my phone?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 75,
+            "video": "data/src_videos/Ego4D/clips/ab094ea2-9251-4f10-945b-c2ab00c5282e.mp4",
+            "task": "EPM",
+            "question": "In what location did i see the stove?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 76,
+            "video": "data/src_videos/Ego4D/clips/ab094ea2-9251-4f10-945b-c2ab00c5282e.mp4",
+            "task": "EPM",
+            "question": "Where did i put the black knife?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 77,
+            "video": "data/src_videos/Ego4D/clips/ab094ea2-9251-4f10-945b-c2ab00c5282e.mp4",
+            "task": "EPM",
+            "question": "what did i put in the cooking pot?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 78,
+            "video": "data/src_videos/Ego4D/clips/88aeae01-c4c4-4ffe-aae7-0ff35851ae63.mp4",
+            "task": "EPM",
+            "question": "Did I see a turquoise car?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 79,
+            "video": "data/src_videos/Ego4D/clips/88aeae01-c4c4-4ffe-aae7-0ff35851ae63.mp4",
+            "task": "EPM",
+            "question": "Did I close coffee maker?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 80,
+            "video": "data/src_videos/Ego4D/clips/88aeae01-c4c4-4ffe-aae7-0ff35851ae63.mp4",
+            "task": "EPM",
+            "question": "How many magazines were on the table?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 81,
+            "video": "data/src_videos/Ego4D/clips/88aeae01-c4c4-4ffe-aae7-0ff35851ae63.mp4",
+            "task": "EPM",
+            "question": "In what location did I see remote control?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 82,
+            "video": "data/src_videos/Ego4D/clips/3341648c-88b4-433a-87ac-1fcc9619a4dc.mp4",
+            "task": "EPM",
+            "question": "Where was the bottle before I picked it?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 83,
+            "video": "data/src_videos/Ego4D/clips/3341648c-88b4-433a-87ac-1fcc9619a4dc.mp4",
+            "task": "EPM",
+            "question": "Where was the wooden spoon before I picked it?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 84,
+            "video": "data/src_videos/Ego4D/clips/3341648c-88b4-433a-87ac-1fcc9619a4dc.mp4",
+            "task": "EPM",
+            "question": "Where was the plate before I picked it?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 85,
+            "video": "data/src_videos/Ego4D/clips/3341648c-88b4-433a-87ac-1fcc9619a4dc.mp4",
+            "task": "EPM",
+            "question": "What did I put in the frying pan?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 86,
+            "video": "data/src_videos/Ego4D/clips/8acaf6f6-5396-4df6-98e6-13baea8f8af8.mp4",
+            "task": "EPM",
+            "question": "In what location did I see the oven brush?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 87,
+            "video": "data/src_videos/Ego4D/clips/8acaf6f6-5396-4df6-98e6-13baea8f8af8.mp4",
+            "task": "EPM",
+            "question": "Who did I interact with when carrying a layer of the cooling rack?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 88,
+            "video": "data/src_videos/Ego4D/clips/8acaf6f6-5396-4df6-98e6-13baea8f8af8.mp4",
+            "task": "EPM",
+            "question": "Where was the dough cutter before I picked it?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 89,
+            "video": "data/src_videos/Ego4D/clips/8acaf6f6-5396-4df6-98e6-13baea8f8af8.mp4",
+            "task": "EPM",
+            "question": "Where did I put the flour bucket?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 90,
+            "video": "data/src_videos/Ego4D/clips/43db99a3-61ce-4548-ba5a-faf4c91c72f1.mp4",
+            "task": "EPM",
+            "question": "Where did I put the disposable plate?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 91,
+            "video": "data/src_videos/Ego4D/clips/43db99a3-61ce-4548-ba5a-faf4c91c72f1.mp4",
+            "task": "EPM",
+            "question": "where did I pick the soy sauce?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 92,
+            "video": "data/src_videos/Ego4D/clips/43db99a3-61ce-4548-ba5a-faf4c91c72f1.mp4",
+            "task": "EPM",
+            "question": "Where did i put the soy sauce?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 93,
+            "video": "data/src_videos/Ego4D/clips/43db99a3-61ce-4548-ba5a-faf4c91c72f1.mp4",
+            "task": "EPM",
+            "question": "Where was the cabbage before i picked it?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 94,
+            "video": "data/src_videos/Ego4D/clips/fcd878ee-7f8c-44fb-8939-1aec6c77ba72.mp4",
+            "task": "EPM",
+            "question": "Where was the television?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 95,
+            "video": "data/src_videos/Ego4D/clips/fcd878ee-7f8c-44fb-8939-1aec6c77ba72.mp4",
+            "task": "EPM",
+            "question": "Who did I interact with when I swept the floor?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 96,
+            "video": "data/src_videos/Ego4D/clips/fcd878ee-7f8c-44fb-8939-1aec6c77ba72.mp4",
+            "task": "EPM",
+            "question": "Where was the exercise ball?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 97,
+            "video": "data/src_videos/Ego4D/clips/fcd878ee-7f8c-44fb-8939-1aec6c77ba72.mp4",
+            "task": "EPM",
+            "question": "In what location did i see the jenga game box?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 98,
+            "video": "data/src_videos/Ego4D/clips/1c597fc1-7bd0-4325-abbc-645e3ec71866.mp4",
+            "task": "EPM",
+            "question": "What did I pick from the fridge?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 99,
+            "video": "data/src_videos/Ego4D/clips/1c597fc1-7bd0-4325-abbc-645e3ec71866.mp4",
+            "task": "EPM",
+            "question": "Where was the kitchen paper towel before I picked it?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 100,
+            "video": "data/src_videos/Ego4D/clips/1c597fc1-7bd0-4325-abbc-645e3ec71866.mp4",
+            "task": "EPM",
+            "question": "Did I leave the drawer open?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 101,
+            "video": "data/src_videos/Ego4D/clips/1c597fc1-7bd0-4325-abbc-645e3ec71866.mp4",
+            "task": "EPM",
+            "question": "How many rolls of paper towel did I cut",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 102,
+            "video": "data/src_videos/Ego4D/clips/33c3f556-cf99-45ae-9d01-9051b9b1f19e.mp4",
+            "task": "EPM",
+            "question": "Where s shopping cart?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 103,
+            "video": "data/src_videos/Ego4D/clips/33c3f556-cf99-45ae-9d01-9051b9b1f19e.mp4",
+            "task": "EPM",
+            "question": "What color is the shopping basket?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 104,
+            "video": "data/src_videos/Ego4D/clips/33c3f556-cf99-45ae-9d01-9051b9b1f19e.mp4",
+            "task": "EPM",
+            "question": "Where did I put the alien toy box?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 105,
+            "video": "data/src_videos/Ego4D/clips/33c3f556-cf99-45ae-9d01-9051b9b1f19e.mp4",
+            "task": "EPM",
+            "question": "Where did i put the white robot toy",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 106,
+            "video": "data/src_videos/Ego4D/clips/956488d0-1b28-41b5-a13f-7f1b72e1c2c7.mp4",
+            "task": "EPM",
+            "question": "Where was the container after I moved it?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 107,
+            "video": "data/src_videos/Ego4D/clips/956488d0-1b28-41b5-a13f-7f1b72e1c2c7.mp4",
+            "task": "EPM",
+            "question": "How many times did I scoop cement from the container?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 108,
+            "video": "data/src_videos/Ego4D/clips/956488d0-1b28-41b5-a13f-7f1b72e1c2c7.mp4",
+            "task": "EPM",
+            "question": "What did I put in the container?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 109,
+            "video": "data/src_videos/Ego4D/clips/956488d0-1b28-41b5-a13f-7f1b72e1c2c7.mp4",
+            "task": "EPM",
+            "question": "Where was the scraper before I picked it?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 110,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "In what location did I see the plastic wraps?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 111,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "Did I close the microwave?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 112,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "Where is the paper towel?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 113,
+            "video": "data/src_videos/Ego4D/clips/38a0d090-c67f-4197-b2a6-65cb56c356c5.mp4",
+            "task": "EPM",
+            "question": "In what location did I see the electric kettle?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 114,
+            "video": "data/src_videos/Ego4D/clips/70cef020-51e7-429e-af75-f87747b3daad.mp4",
+            "task": "EPM",
+            "question": "What color bottle is on the sink",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 115,
+            "video": "data/src_videos/Ego4D/clips/70cef020-51e7-429e-af75-f87747b3daad.mp4",
+            "task": "EPM",
+            "question": "where is the tissue paper ",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 116,
+            "video": "data/src_videos/Ego4D/clips/70cef020-51e7-429e-af75-f87747b3daad.mp4",
+            "task": "EPM",
+            "question": "where is the blender",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 117,
+            "video": "data/src_videos/Ego4D/clips/70cef020-51e7-429e-af75-f87747b3daad.mp4",
+            "task": "EPM",
+            "question": "where did i Put the red jug",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 118,
+            "video": "data/src_videos/Ego4D/clips/c6470548-81a3-4d9c-8bee-87a955948d5c.mp4",
+            "task": "EPM",
+            "question": "who did I talk to at the table ?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 119,
+            "video": "data/src_videos/Ego4D/clips/c6470548-81a3-4d9c-8bee-87a955948d5c.mp4",
+            "task": "EPM",
+            "question": "who did I interact with while I stood at the table?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 120,
+            "video": "data/src_videos/Ego4D/clips/c6470548-81a3-4d9c-8bee-87a955948d5c.mp4",
+            "task": "EPM",
+            "question": "where is the plastic bag?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 121,
+            "video": "data/src_videos/Ego4D/clips/c6470548-81a3-4d9c-8bee-87a955948d5c.mp4",
+            "task": "EPM",
+            "question": "where is the stove?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 122,
+            "video": "data/src_videos/Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+            "task": "EPM",
+            "question": "What did I put on the table?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 123,
+            "video": "data/src_videos/Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+            "task": "EPM",
+            "question": "How many cards did I pick?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 124,
+            "video": "data/src_videos/Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+            "task": "EPM",
+            "question": "How many cards did I place on the table?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 125,
+            "video": "data/src_videos/Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+            "task": "EPM",
+            "question": "What card did I carry?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 126,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "Where was the towel?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 127,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "What did I put in the polythene paper?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 128,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "What shape was the meat I put on the pan?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 129,
+            "video": "data/src_videos/Ego4D/clips/a40dce18-488d-4acc-b754-fcd56c204db1.mp4",
+            "task": "EPM",
+            "question": "Did I leave the cooker on?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 130,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "What did I put in the dust bin?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 131,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "What did I remove from the plastic bag?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 132,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "What did I put in the fridge?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 133,
+            "video": "data/src_videos/Ego4D/clips/b01fdd44-357c-4566-b487-d9ff21e56c2e.mp4",
+            "task": "EPM",
+            "question": "What did I pick from the drawer?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 134,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "Where is the red pack",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 135,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "Where is the toolbox",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 136,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "Where is the bucket",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 137,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "Where is the glasses",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 138,
+            "video": "data/src_videos/Ego4D/clips/f800514a-5fb0-4620-beb3-69d6c73ddb3f.mp4",
+            "task": "EPM",
+            "question": "Where did I put the tablet?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 139,
+            "video": "data/src_videos/Ego4D/clips/f800514a-5fb0-4620-beb3-69d6c73ddb3f.mp4",
+            "task": "EPM",
+            "question": "In what location did I see a yellow carrier bag?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 140,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "Where was the pliers before I picked it?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 141,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "Where did I put the screwdriver?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 142,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "In what location did I see a carton?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 143,
+            "video": "data/src_videos/Ego4D/clips/755ac5c3-b6cd-42da-ac72-c413d0be986a.mp4",
+            "task": "EPM",
+            "question": "Where did I put the cable ties?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 144,
+            "video": "data/src_videos/Ego4D/clips/f31e8020-1bdb-4885-90f6-a84ad8a392c9.mp4",
+            "task": "EPM",
+            "question": "What color is the car?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 145,
+            "video": "data/src_videos/Ego4D/clips/f31e8020-1bdb-4885-90f6-a84ad8a392c9.mp4",
+            "task": "EPM",
+            "question": "Where is the dust bin?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 146,
+            "video": "data/src_videos/Ego4D/clips/f31e8020-1bdb-4885-90f6-a84ad8a392c9.mp4",
+            "task": "EPM",
+            "question": "What color is my my shirt",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 147,
+            "video": "data/src_videos/Ego4D/clips/f31e8020-1bdb-4885-90f6-a84ad8a392c9.mp4",
+            "task": "EPM",
+            "question": "Where is the tissue paper?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 148,
+            "video": "data/src_videos/Ego4D/clips/4ecd1707-cce9-46bf-9846-11d031f79556.mp4",
+            "task": "EPM",
+            "question": "Where was the litter bin before I picked it?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 149,
+            "video": "data/src_videos/Ego4D/clips/4ecd1707-cce9-46bf-9846-11d031f79556.mp4",
+            "task": "EPM",
+            "question": "In what location did I see the white van?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 150,
+            "video": "data/src_videos/Ego4D/clips/4ecd1707-cce9-46bf-9846-11d031f79556.mp4",
+            "task": "EPM",
+            "question": "Where was my phone?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 151,
+            "video": "data/src_videos/Ego4D/clips/4ecd1707-cce9-46bf-9846-11d031f79556.mp4",
+            "task": "EPM",
+            "question": "What did I put in the wood cutter?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 152,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "Where did I put the glass cup?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 153,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "Where did I put the Kitchen towel?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 154,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "Where was the Kitchen towel before I picked it?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 155,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "Where was the soap I picked it?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 156,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "Where did I put the ham?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 157,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "Where did i put the ceramic bowl?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 158,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "What did I put in the Oven",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 159,
+            "video": "data/src_videos/Ego4D/clips/7db32b15-9ea6-4a44-a103-cc04471ce4f7.mp4",
+            "task": "EPM",
+            "question": "What did I put in the Oven?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 160,
+            "video": "data/src_videos/Ego4D/clips/20d3b630-8bbe-4ea4-9e42-c8fba057b72d.mp4",
+            "task": "EPM",
+            "question": "Where was the hammer before I picked it?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 161,
+            "video": "data/src_videos/Ego4D/clips/20d3b630-8bbe-4ea4-9e42-c8fba057b72d.mp4",
+            "task": "EPM",
+            "question": "Where did I put the wood?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 162,
+            "video": "data/src_videos/Ego4D/clips/20d3b630-8bbe-4ea4-9e42-c8fba057b72d.mp4",
+            "task": "EPM",
+            "question": "Where was the tape measure before I picked it?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 163,
+            "video": "data/src_videos/Ego4D/clips/20d3b630-8bbe-4ea4-9e42-c8fba057b72d.mp4",
+            "task": "EPM",
+            "question": "Where is the bottle",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 164,
+            "video": "data/src_videos/Ego4D/clips/8c788340-5a9c-420d-8c29-ed7880d5d9ab.mp4",
+            "task": "EPM",
+            "question": "What did I put in the washing machine?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 165,
+            "video": "data/src_videos/Ego4D/clips/8c788340-5a9c-420d-8c29-ed7880d5d9ab.mp4",
+            "task": "EPM",
+            "question": "Did I open the curtains?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 166,
+            "video": "data/src_videos/Ego4D/clips/8c788340-5a9c-420d-8c29-ed7880d5d9ab.mp4",
+            "task": "EPM",
+            "question": "Where was the phone before i picked it?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 167,
+            "video": "data/src_videos/Ego4D/clips/8c788340-5a9c-420d-8c29-ed7880d5d9ab.mp4",
+            "task": "EPM",
+            "question": "Where did I put the chopping board?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 168,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "How many pieces of wood did I remove from the table?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 169,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "How many tools did I clear from the work table?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 170,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "How many chisels did I pick from the shelf above the work table?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 171,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "What color was the hammer on the work table?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 172,
+            "video": "data/src_videos/Ego4D/clips/a99baf07-ce1c-4f73-ab20-ed0dfc079510.mp4",
+            "task": "EPM",
+            "question": "What fruits did i put in the polythene bag?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 173,
+            "video": "data/src_videos/Ego4D/clips/a99baf07-ce1c-4f73-ab20-ed0dfc079510.mp4",
+            "task": "EPM",
+            "question": "What did i put in the trolley?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 174,
+            "video": "data/src_videos/Ego4D/clips/a99baf07-ce1c-4f73-ab20-ed0dfc079510.mp4",
+            "task": "EPM",
+            "question": "How many carrots did i pick?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 175,
+            "video": "data/src_videos/Ego4D/clips/a99baf07-ce1c-4f73-ab20-ed0dfc079510.mp4",
+            "task": "EPM",
+            "question": "where did i put the trolley?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 176,
+            "video": "data/src_videos/Ego4D/clips/5a93f209-59d4-4950-80d2-c8e43cc2fe7f.mp4",
+            "task": "EPM",
+            "question": "Did i switch on the measuring machine?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 177,
+            "video": "data/src_videos/Ego4D/clips/5a93f209-59d4-4950-80d2-c8e43cc2fe7f.mp4",
+            "task": "EPM",
+            "question": "where is the towel?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 178,
+            "video": "data/src_videos/Ego4D/clips/5a93f209-59d4-4950-80d2-c8e43cc2fe7f.mp4",
+            "task": "EPM",
+            "question": "Did i cut the dough?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 179,
+            "video": "data/src_videos/Ego4D/clips/5a93f209-59d4-4950-80d2-c8e43cc2fe7f.mp4",
+            "task": "EPM",
+            "question": "What did i pour in the jug?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 180,
+            "video": "data/src_videos/Ego4D/clips/c8f4c698-167f-44f8-b624-3fb69660a7ce.mp4",
+            "task": "EPM",
+            "question": "Where was the blue screwdriver?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 181,
+            "video": "data/src_videos/Ego4D/clips/c8f4c698-167f-44f8-b624-3fb69660a7ce.mp4",
+            "task": "EPM",
+            "question": "Where did I put the black basin?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 182,
+            "video": "data/src_videos/Ego4D/clips/c8f4c698-167f-44f8-b624-3fb69660a7ce.mp4",
+            "task": "EPM",
+            "question": "where was the grey soldering gun before I picked it?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 183,
+            "video": "data/src_videos/Ego4D/clips/c8f4c698-167f-44f8-b624-3fb69660a7ce.mp4",
+            "task": "EPM",
+            "question": "Where was the wrench before I picked it?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 184,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "what gloves color was the dish washer wearing",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 185,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "where did I pick the plate from",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 186,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "Where was the towel before washing it",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 187,
+            "video": "data/src_videos/Ego4D/clips/aa2afb03-41d8-42fc-a111-982d9319f1c4.mp4",
+            "task": "EPM",
+            "question": "What did I use to open water tap",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 188,
+            "video": "data/src_videos/Ego4D/clips/60e7e14d-cbed-46d1-924d-6ce451ea7d7c.mp4",
+            "task": "EPM",
+            "question": "who did I talk to in the house?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 189,
+            "video": "data/src_videos/Ego4D/clips/60e7e14d-cbed-46d1-924d-6ce451ea7d7c.mp4",
+            "task": "EPM",
+            "question": "where is the blue bucket",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 190,
+            "video": "data/src_videos/Ego4D/clips/60e7e14d-cbed-46d1-924d-6ce451ea7d7c.mp4",
+            "task": "EPM",
+            "question": "where is the impact wrench before drilling",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 191,
+            "video": "data/src_videos/Ego4D/clips/60e7e14d-cbed-46d1-924d-6ce451ea7d7c.mp4",
+            "task": "EPM",
+            "question": "where did I put the CPU?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 192,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "What did I put on the table?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 193,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "Where did I pick the piece of timber?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 194,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "What did I put on the table?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 195,
+            "video": "data/src_videos/Ego4D/clips/0aca0078-b6ab-41fb-9dc5-a70b8ad137b2.mp4",
+            "task": "EPM",
+            "question": "Where did I pick the screwdriver?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 196,
+            "video": "data/src_videos/OpenEQA/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "EPM",
+            "question": "Is the piano keyboard cover open or closed?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 197,
+            "video": "data/src_videos/OpenEQA/015-hm3d-5jp3fCRSRjc.mp4",
+            "task": "EPM",
+            "question": "What is the yellow object on top of the ouch?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 198,
+            "video": "data/src_videos/OpenEQA/033-hm3d-vd3HHTEpmyA.mp4",
+            "task": "EPM",
+            "question": "are the electric lamps near the staircase on or off?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 199,
+            "video": "data/src_videos/OpenEQA/013-hm3d-svBbv1Pavdk.mp4",
+            "task": "EPM",
+            "question": "What is the gold object on the nightstand?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 200,
+            "video": "data/src_videos/OpenEQA/005-hm3d-yZME6UR9dUN.mp4",
+            "task": "EPM",
+            "question": "Is the front door open?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 201,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "What color are the pillows in the kitchen?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 202,
+            "video": "data/src_videos/OpenEQA/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "EPM",
+            "question": "What can I use to check my appearance?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 203,
+            "video": "data/src_videos/OpenEQA/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "EPM",
+            "question": "What is hanging on the wall near the bottom of the stairs?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 204,
+            "video": "data/src_videos/OpenEQA/025-hm3d-ziup5kvtCCR.mp4",
+            "task": "EPM",
+            "question": "What type of numbers are on the clock?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 205,
+            "video": "data/src_videos/OpenEQA/026-hm3d-tQ5s4ShP627.mp4",
+            "task": "EPM",
+            "question": "What can I use to clean up a spill on the bathroom counter?",
+            "response": "E",
+            "ground_truth": "C"
+        },
+        {
+            "id": 206,
+            "video": "data/src_videos/OpenEQA/033-hm3d-vd3HHTEpmyA.mp4",
+            "task": "EPM",
+            "question": "what is on the wall infront of the staircase",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 207,
+            "video": "data/src_videos/OpenEQA/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "EPM",
+            "question": "what color is the tripod?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 208,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "Is the sliding door open or closed?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 209,
+            "video": "data/src_videos/OpenEQA/007-hm3d-bxsVRursffK.mp4",
+            "task": "EPM",
+            "question": "Where can my kids go to read?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 210,
+            "video": "data/src_videos/OpenEQA/015-hm3d-5jp3fCRSRjc.mp4",
+            "task": "EPM",
+            "question": "Where can I dry my shoes when I come into the house?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 211,
+            "video": "data/src_videos/OpenEQA/011-hm3d-bzCsHPLDztK.mp4",
+            "task": "EPM",
+            "question": "Are the curtains to the patio door open?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 212,
+            "video": "data/src_videos/OpenEQA/037-hm3d-FnSn2KSrALj.mp4",
+            "task": "EPM",
+            "question": "what shape are the decorations above the bed?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 213,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "What color is the chair in the bedroom?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 214,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "What is shown on the painting above the couch?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 215,
+            "video": "data/src_videos/OpenEQA/004-hm3d-66seV3BWPoX.mp4",
+            "task": "EPM",
+            "question": "Is this home in the suburbs?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 216,
+            "video": "data/src_videos/OpenEQA/031-hm3d-Nfvxx8J5NCo.mp4",
+            "task": "EPM",
+            "question": "is the fan on or off?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 217,
+            "video": "data/src_videos/OpenEQA/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "EPM",
+            "question": "are the blinds in the workroom shut or not?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 218,
+            "video": "data/src_videos/OpenEQA/031-hm3d-Nfvxx8J5NCo.mp4",
+            "task": "EPM",
+            "question": "how can I clean my hands?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 219,
+            "video": "data/src_videos/OpenEQA/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "EPM",
+            "question": "Is the person who lives here an avid reader?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 220,
+            "video": "data/src_videos/OpenEQA/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "EPM",
+            "question": "Is the fireplace lit?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 221,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "Where are the brown woven baskets?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 222,
+            "video": "data/src_videos/OpenEQA/010-hm3d-5cdEh9F2hJL.mp4",
+            "task": "EPM",
+            "question": "Where is the full body mirror?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 223,
+            "video": "data/src_videos/OpenEQA/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "EPM",
+            "question": "What animal is shown in the picture in the bedroom?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 224,
+            "video": "data/src_videos/OpenEQA/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "EPM",
+            "question": "Is the kitchen on the same floor as the bedroom?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 225,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "Is the light above the sink turned on?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 226,
+            "video": "data/src_videos/OpenEQA/015-hm3d-5jp3fCRSRjc.mp4",
+            "task": "EPM",
+            "question": "Where is the china cabinet?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 227,
+            "video": "data/src_videos/OpenEQA/011-hm3d-bzCsHPLDztK.mp4",
+            "task": "EPM",
+            "question": "Is the blue lamp by the couch turned on?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 228,
+            "video": "data/src_videos/OpenEQA/011-hm3d-bzCsHPLDztK.mp4",
+            "task": "EPM",
+            "question": "What is leaning in the corner by the coat rack?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 229,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "Where can I warm up?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 230,
+            "video": "data/src_videos/OpenEQA/013-hm3d-svBbv1Pavdk.mp4",
+            "task": "EPM",
+            "question": "Where can I sit and eat if I don't want to use the dining table?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 231,
+            "video": "data/src_videos/OpenEQA/035-hm3d-BAbdmeyTvMZ.mp4",
+            "task": "EPM",
+            "question": "is the outside door open or closed?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 232,
+            "video": "data/src_videos/OpenEQA/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "EPM",
+            "question": "where is the black chair?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 233,
+            "video": "data/src_videos/OpenEQA/011-hm3d-bzCsHPLDztK.mp4",
+            "task": "EPM",
+            "question": "Where can I put my hat?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 234,
+            "video": "data/src_videos/OpenEQA/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "EPM",
+            "question": "Are the kitchen bar chairs tucked in?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 235,
+            "video": "data/src_videos/OpenEQA/012-hm3d-XB4GS9ShBRE.mp4",
+            "task": "EPM",
+            "question": "What is above the mirror in the bathroom?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 236,
+            "video": "data/src_videos/OpenEQA/029-hm3d-mv2HUxq3B53.mp4",
+            "task": "EPM",
+            "question": "What is the grey item on the bed?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 237,
+            "video": "data/src_videos/OpenEQA/033-hm3d-vd3HHTEpmyA.mp4",
+            "task": "EPM",
+            "question": "where is artwork?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 238,
+            "video": "data/src_videos/OpenEQA/007-hm3d-bxsVRursffK.mp4",
+            "task": "EPM",
+            "question": "Where are the books?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 239,
+            "video": "data/src_videos/OpenEQA/000-hm3d-BFRyYbPCCPE.mp4",
+            "task": "EPM",
+            "question": "What is the white object on the wall above the TV?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 240,
+            "video": "data/src_videos/OpenEQA/000-hm3d-BFRyYbPCCPE.mp4",
+            "task": "EPM",
+            "question": "What is the white object on the wall above the TV?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 241,
+            "video": "data/src_videos/OpenEQA/002-hm3d-wcojb4TFT35.mp4",
+            "task": "EPM",
+            "question": "What color is the car?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 242,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "What is above the wooden table in the living room?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 243,
+            "video": "data/src_videos/OpenEQA/031-hm3d-Nfvxx8J5NCo.mp4",
+            "task": "EPM",
+            "question": "what color are the chairs?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 244,
+            "video": "data/src_videos/OpenEQA/000-hm3d-BFRyYbPCCPE.mp4",
+            "task": "EPM",
+            "question": "What color is the staircase railing?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 245,
+            "video": "data/src_videos/OpenEQA/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "EPM",
+            "question": "Where can I lay down and read a book?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 246,
+            "video": "data/src_videos/OpenEQA/024-hm3d-c3WKCnkEdha.mp4",
+            "task": "EPM",
+            "question": "Where is the pillow with a hexagonal pattern?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 247,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "What is to the left of the frontdoor?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 248,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "Is the chandelier turned on?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 249,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "Where is the picture with the red flowers?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 250,
+            "video": "data/src_videos/OpenEQA/036-hm3d-rJhMRvNn4DS.mp4",
+            "task": "EPM",
+            "question": "what is behind the monitor screen?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 251,
+            "video": "data/src_videos/OpenEQA/004-hm3d-66seV3BWPoX.mp4",
+            "task": "EPM",
+            "question": "Is the front door open or closed?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 252,
+            "video": "data/src_videos/OpenEQA/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "EPM",
+            "question": "Where can I wash my hands on the second story of the house?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 253,
+            "video": "data/src_videos/OpenEQA/025-hm3d-ziup5kvtCCR.mp4",
+            "task": "EPM",
+            "question": "Where is the wreath?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 254,
+            "video": "data/src_videos/OpenEQA/002-hm3d-wcojb4TFT35.mp4",
+            "task": "EPM",
+            "question": "What type of car is in the garage?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 255,
+            "video": "data/src_videos/OpenEQA/001-hm3d-TPhiubUHKcP.mp4",
+            "task": "EPM",
+            "question": "What is to the left of the mirror?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 256,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "Where can I get recipes for what to cook?",
+            "response": "B",
+            "ground_truth": "E"
+        },
+        {
+            "id": 257,
+            "video": "data/src_videos/OpenEQA/035-hm3d-BAbdmeyTvMZ.mp4",
+            "task": "EPM",
+            "question": "what is right next to the chair?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 258,
+            "video": "data/src_videos/OpenEQA/011-hm3d-bzCsHPLDztK.mp4",
+            "task": "EPM",
+            "question": "What is draped on top of the black couch?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 259,
+            "video": "data/src_videos/OpenEQA/033-hm3d-vd3HHTEpmyA.mp4",
+            "task": "EPM",
+            "question": "where can I keep a new ironed shirt?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 260,
+            "video": "data/src_videos/OpenEQA/021-hm3d-LT9Jq6dN3Ea.mp4",
+            "task": "EPM",
+            "question": "What material are the blue pillow's pillowcases made out of?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 261,
+            "video": "data/src_videos/OpenEQA/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "EPM",
+            "question": "Where is the red and white checkered rug?",
+            "response": "E",
+            "ground_truth": "E"
+        },
+        {
+            "id": 262,
+            "video": "data/src_videos/OpenEQA/000-hm3d-BFRyYbPCCPE.mp4",
+            "task": "EPM",
+            "question": "What should I do to cool down?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 263,
+            "video": "data/src_videos/OpenEQA/011-hm3d-bzCsHPLDztK.mp4",
+            "task": "EPM",
+            "question": "Where is the black and grey speaker?",
+            "response": "E",
+            "ground_truth": "D"
+        },
+        {
+            "id": 264,
+            "video": "data/src_videos/OpenEQA/026-hm3d-tQ5s4ShP627.mp4",
+            "task": "EPM",
+            "question": "What cartoon character is portrayed in the painting to the right of the television in the first bedroom?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 265,
+            "video": "data/src_videos/OpenEQA/004-hm3d-66seV3BWPoX.mp4",
+            "task": "EPM",
+            "question": "What is in the center of the room with the stairs?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 266,
+            "video": "data/src_videos/OpenEQA/001-hm3d-TPhiubUHKcP.mp4",
+            "task": "EPM",
+            "question": "What is to the left of the staircase?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 267,
+            "video": "data/src_videos/OpenEQA/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "EPM",
+            "question": "What is the yellow object hanging on the wall?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 268,
+            "video": "data/src_videos/OpenEQA/013-hm3d-svBbv1Pavdk.mp4",
+            "task": "EPM",
+            "question": "What color is the smoke detector?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 269,
+            "video": "data/src_videos/OpenEQA/031-hm3d-Nfvxx8J5NCo.mp4",
+            "task": "EPM",
+            "question": "is the table in the living room completely clean?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 270,
+            "video": "data/src_videos/OpenEQA/008-hm3d-SiKqEZx7Ejt.mp4",
+            "task": "EPM",
+            "question": "Where can I put my jacket?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 271,
+            "video": "data/src_videos/OpenEQA/032-hm3d-6s7QHgap2fW.mp4",
+            "task": "EPM",
+            "question": "is the table in the above room infront of the staircase clean ?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 272,
+            "video": "data/src_videos/OpenEQA/007-hm3d-bxsVRursffK.mp4",
+            "task": "EPM",
+            "question": "What color are the flowers on the black table downstairs?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 273,
+            "video": "data/src_videos/OpenEQA/008-hm3d-SiKqEZx7Ejt.mp4",
+            "task": "EPM",
+            "question": "What kind of material is the wall on the right side of the staircase?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 274,
+            "video": "data/src_videos/OpenEQA/005-hm3d-yZME6UR9dUN.mp4",
+            "task": "EPM",
+            "question": "Is the window in the bedroom open?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 275,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "What can be seen outside the bedroom window?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 276,
+            "video": "data/src_videos/OpenEQA/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "EPM",
+            "question": "What is above the coffee table?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 277,
+            "video": "data/src_videos/OpenEQA/031-hm3d-Nfvxx8J5NCo.mp4",
+            "task": "EPM",
+            "question": "where is the clock?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 278,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "What objects are in the black cubby shelf?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 279,
+            "video": "data/src_videos/OpenEQA/023-hm3d-VBzV5z6i1WS.mp4",
+            "task": "EPM",
+            "question": "What kind of pants is the man in the mirror wearing?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 280,
+            "video": "data/src_videos/OpenEQA/007-hm3d-bxsVRursffK.mp4",
+            "task": "EPM",
+            "question": "What colors are the stripes on the wall with the books?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 281,
+            "video": "data/src_videos/OpenEQA/014-hm3d-rsggHU7g7dh.mp4",
+            "task": "EPM",
+            "question": "Is the backyard fenced?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 282,
+            "video": "data/src_videos/OpenEQA/033-hm3d-vd3HHTEpmyA.mp4",
+            "task": "EPM",
+            "question": "what is the green thing seen from the window as we walk down the staircase?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 283,
+            "video": "data/src_videos/OpenEQA/017-hm3d-Dd4bFSTQ8gi.mp4",
+            "task": "EPM",
+            "question": "Is the light above the sink turned on?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 284,
+            "video": "data/src_videos/OpenEQA/010-hm3d-5cdEh9F2hJL.mp4",
+            "task": "EPM",
+            "question": "Where are the orange flowers?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 285,
+            "video": "data/src_videos/OpenEQA/013-hm3d-svBbv1Pavdk.mp4",
+            "task": "EPM",
+            "question": "Is this home on the first floor?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 286,
+            "video": "data/src_videos/OpenEQA/010-hm3d-5cdEh9F2hJL.mp4",
+            "task": "EPM",
+            "question": "What does the painting in the bathroom depict?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 287,
+            "video": "data/src_videos/OpenEQA/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "EPM",
+            "question": "What is above the piano?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 288,
+            "video": "data/src_videos/OpenEQA/031-hm3d-Nfvxx8J5NCo.mp4",
+            "task": "EPM",
+            "question": "what color are the numbers written on the wall clock?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 289,
+            "video": "data/src_videos/OpenEQA/016-hm3d-nrA1tAA17Yp.mp4",
+            "task": "EPM",
+            "question": "Is there natural light in the room?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 290,
+            "video": "data/src_videos/OpenEQA/033-hm3d-vd3HHTEpmyA.mp4",
+            "task": "EPM",
+            "question": "what color are the electric switches in the above floor",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 291,
+            "video": "data/src_videos/OpenEQA/006-hm3d-q3hn1WQ12rz.mp4",
+            "task": "EPM",
+            "question": "Is my backyard safe to let me dog out in?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 292,
+            "video": "data/src_videos/OpenEQA/003-hm3d-c5eTyR3Rxyh.mp4",
+            "task": "EPM",
+            "question": "Is there space under the bed for storage?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 293,
+            "video": "data/src_videos/OpenEQA/008-hm3d-SiKqEZx7Ejt.mp4",
+            "task": "EPM",
+            "question": "Where are the clothes?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 294,
+            "video": "data/src_videos/OpenEQA/037-hm3d-FnSn2KSrALj.mp4",
+            "task": "EPM",
+            "question": "what is infront of the blackboard on the wall?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 295,
+            "video": "data/src_videos/OpenEQA/018-hm3d-dHwjuKfkRUR.mp4",
+            "task": "EPM",
+            "question": "What is in between the two bedroom doorways?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 296,
+            "video": "data/src_videos/OpenEQA/025-hm3d-ziup5kvtCCR.mp4",
+            "task": "EPM",
+            "question": "Where is the teddy bear?",
+            "response": "D",
+            "ground_truth": "A"
+        }
+    ],
+    "realtime": [],
+    "forward": []
+}

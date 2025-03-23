@@ -1,0 +1,4803 @@
+{
+    "backward": [],
+    "realtime": [],
+    "forward": [
+        {
+            "id": 1516,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/xZecGPPhbHE.mp4",
+            "tutorial": "PutOnHairExtensions",
+            "all_steps": [
+                "pull up the hair to reserve place for the hair extensions",
+                "put on the hair extensions",
+                "put down the hair and comb"
+            ],
+            "start_time": [
+                25,
+                31,
+                107
+            ],
+            "end_time": [
+                30,
+                49,
+                117
+            ],
+            "test_info": [
+                {
+                    "realtime": 27,
+                    "step": "pull up the hair to reserve place for the hair extensions",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 30,
+                    "step": "pull up the hair to reserve place for the hair extensions",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 26,
+                    "step": "put on the hair extensions",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 29,
+                    "step": "put on the hair extensions",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 33,
+                    "step": "put on the hair extensions",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 36,
+                    "step": "put on the hair extensions",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 49,
+                    "step": "put on the hair extensions",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 102,
+                    "step": "put down the hair and comb",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 105,
+                    "step": "put down the hair and comb",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 109,
+                    "step": "put down the hair and comb",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 112,
+                    "step": "put down the hair and comb",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 117,
+                    "step": "put down the hair and comb",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1517,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/9eR7x93WqA8.mp4",
+            "tutorial": "CookOmelet",
+            "all_steps": [
+                "pour the egg into the bowl",
+                "pour the egg into the pot",
+                "fry eggs",
+                "pour the egg onto the plate"
+            ],
+            "start_time": [
+                41,
+                67,
+                72,
+                102
+            ],
+            "end_time": [
+                49,
+                71,
+                93,
+                112
+            ],
+            "test_info": [
+                {
+                    "realtime": 43,
+                    "step": "pour the egg into the bowl",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 46,
+                    "step": "pour the egg into the bowl",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 49,
+                    "step": "pour the egg into the bowl",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 62,
+                    "step": "pour the egg into the pot",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 65,
+                    "step": "pour the egg into the pot",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 69,
+                    "step": "pour the egg into the pot",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 71,
+                    "step": "pour the egg into the pot",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 67,
+                    "step": "fry eggs",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 70,
+                    "step": "fry eggs",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 74,
+                    "step": "fry eggs",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "fry eggs",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 93,
+                    "step": "fry eggs",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 97,
+                    "step": "pour the egg onto the plate",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 100,
+                    "step": "pour the egg onto the plate",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 104,
+                    "step": "pour the egg onto the plate",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 107,
+                    "step": "pour the egg onto the plate",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 112,
+                    "step": "pour the egg onto the plate",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1518,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/C4P8VCekA3Y.mp4",
+            "tutorial": "PatchBikeInnerTube",
+            "all_steps": [
+                "look for leaks",
+                "use sandpaper/metal to polish rubber near leak",
+                "apply glue",
+                "paste patch",
+                "put inner tube back"
+            ],
+            "start_time": [
+                0,
+                31,
+                51,
+                66,
+                105
+            ],
+            "end_time": [
+                22,
+                50,
+                65,
+                93,
+                132
+            ],
+            "test_info": [
+                {
+                    "realtime": 2,
+                    "step": "look for leaks",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 5,
+                    "step": "look for leaks",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 22,
+                    "step": "look for leaks",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 26,
+                    "step": "use sandpaper/metal to polish rubber near leak",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 29,
+                    "step": "use sandpaper/metal to polish rubber near leak",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 33,
+                    "step": "use sandpaper/metal to polish rubber near leak",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 36,
+                    "step": "use sandpaper/metal to polish rubber near leak",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 50,
+                    "step": "use sandpaper/metal to polish rubber near leak",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 46,
+                    "step": "apply glue",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 49,
+                    "step": "apply glue",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 53,
+                    "step": "apply glue",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 56,
+                    "step": "apply glue",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 65,
+                    "step": "apply glue",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 61,
+                    "step": "paste patch",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 64,
+                    "step": "paste patch",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 68,
+                    "step": "paste patch",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 71,
+                    "step": "paste patch",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 93,
+                    "step": "paste patch",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 100,
+                    "step": "put inner tube back",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 103,
+                    "step": "put inner tube back",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 107,
+                    "step": "put inner tube back",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 110,
+                    "step": "put inner tube back",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 132,
+                    "step": "put inner tube back",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1519,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/Th3xK0rAJB8.mp4",
+            "tutorial": "MakeSugarCoatedHaws",
+            "all_steps": [
+                "string the fruit together",
+                "melt the sugar",
+                "soak sugar gourd in sugar"
+            ],
+            "start_time": [
+                44,
+                82,
+                111
+            ],
+            "end_time": [
+                67,
+                106,
+                131
+            ],
+            "test_info": [
+                {
+                    "realtime": 46,
+                    "step": "string the fruit together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 49,
+                    "step": "string the fruit together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 67,
+                    "step": "string the fruit together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "melt the sugar",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 80,
+                    "step": "melt the sugar",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 84,
+                    "step": "melt the sugar",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 87,
+                    "step": "melt the sugar",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 106,
+                    "step": "melt the sugar",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 106,
+                    "step": "soak sugar gourd in sugar",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 109,
+                    "step": "soak sugar gourd in sugar",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 113,
+                    "step": "soak sugar gourd in sugar",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 116,
+                    "step": "soak sugar gourd in sugar",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 131,
+                    "step": "soak sugar gourd in sugar",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1520,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/UBq35JWbBG0.mp4",
+            "tutorial": "MakeHummus",
+            "all_steps": [
+                "add raw materials",
+                "mix raw materials",
+                "pour bean paste into plate"
+            ],
+            "start_time": [
+                35,
+                159,
+                169
+            ],
+            "end_time": [
+                158,
+                168,
+                217
+            ],
+            "test_info": [
+                {
+                    "realtime": 37,
+                    "step": "add raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 40,
+                    "step": "add raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 158,
+                    "step": "add raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 154,
+                    "step": "mix raw materials",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 157,
+                    "step": "mix raw materials",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 161,
+                    "step": "mix raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 164,
+                    "step": "mix raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 168,
+                    "step": "mix raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 164,
+                    "step": "pour bean paste into plate",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 167,
+                    "step": "pour bean paste into plate",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 171,
+                    "step": "pour bean paste into plate",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 174,
+                    "step": "pour bean paste into plate",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 217,
+                    "step": "pour bean paste into plate",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1521,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/RJZgFfRv17M.mp4",
+            "tutorial": "MakePickles",
+            "all_steps": [
+                "put the ingredients into the can",
+                "pour the soup in",
+                "close cans"
+            ],
+            "start_time": [
+                124,
+                149,
+                165
+            ],
+            "end_time": [
+                148,
+                160,
+                185
+            ],
+            "test_info": [
+                {
+                    "realtime": 126,
+                    "step": "put the ingredients into the can",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 129,
+                    "step": "put the ingredients into the can",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 148,
+                    "step": "put the ingredients into the can",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 144,
+                    "step": "pour the soup in",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 147,
+                    "step": "pour the soup in",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 151,
+                    "step": "pour the soup in",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 154,
+                    "step": "pour the soup in",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 160,
+                    "step": "pour the soup in",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 160,
+                    "step": "close cans",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 163,
+                    "step": "close cans",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 167,
+                    "step": "close cans",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 170,
+                    "step": "close cans",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 185,
+                    "step": "close cans",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1522,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/zDIu724WMIU.mp4",
+            "tutorial": "AssembleDesktopPC",
+            "all_steps": [
+                "install the motherboard",
+                "plug cable and wire",
+                "install peripherals inside the case"
+            ],
+            "start_time": [
+                56,
+                110,
+                138
+            ],
+            "end_time": [
+                85,
+                136,
+                151
+            ],
+            "test_info": [
+                {
+                    "realtime": 58,
+                    "step": "install the motherboard",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 61,
+                    "step": "install the motherboard",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 85,
+                    "step": "install the motherboard",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 105,
+                    "step": "plug cable and wire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 108,
+                    "step": "plug cable and wire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 112,
+                    "step": "plug cable and wire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 115,
+                    "step": "plug cable and wire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 136,
+                    "step": "plug cable and wire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 133,
+                    "step": "install peripherals inside the case",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 136,
+                    "step": "install peripherals inside the case",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 140,
+                    "step": "install peripherals inside the case",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 143,
+                    "step": "install peripherals inside the case",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 151,
+                    "step": "install peripherals inside the case",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1523,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/FbSLCfEiZHE.mp4",
+            "tutorial": "MakeYoutiao",
+            "all_steps": [
+                "stir raw materials",
+                "knead together",
+                "flatten the dough",
+                "cut into strips"
+            ],
+            "start_time": [
+                7,
+                24,
+                103,
+                150
+            ],
+            "end_time": [
+                23,
+                53,
+                135,
+                157
+            ],
+            "test_info": [
+                {
+                    "realtime": 9,
+                    "step": "stir raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 12,
+                    "step": "stir raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 23,
+                    "step": "stir raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 19,
+                    "step": "knead together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 22,
+                    "step": "knead together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 26,
+                    "step": "knead together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 29,
+                    "step": "knead together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 53,
+                    "step": "knead together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 98,
+                    "step": "flatten the dough",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 101,
+                    "step": "flatten the dough",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 105,
+                    "step": "flatten the dough",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 108,
+                    "step": "flatten the dough",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 135,
+                    "step": "flatten the dough",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 145,
+                    "step": "cut into strips",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 148,
+                    "step": "cut into strips",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 152,
+                    "step": "cut into strips",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 155,
+                    "step": "cut into strips",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 157,
+                    "step": "cut into strips",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1524,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/KBbeGO5qRpE.mp4",
+            "tutorial": "CutMango",
+            "all_steps": [
+                "peel",
+                "cut into strips and pieces",
+                "remove the core"
+            ],
+            "start_time": [
+                24,
+                99,
+                180
+            ],
+            "end_time": [
+                89,
+                171,
+                186
+            ],
+            "test_info": [
+                {
+                    "realtime": 26,
+                    "step": "peel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 29,
+                    "step": "peel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 89,
+                    "step": "peel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 94,
+                    "step": "cut into strips and pieces",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 97,
+                    "step": "cut into strips and pieces",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 101,
+                    "step": "cut into strips and pieces",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 104,
+                    "step": "cut into strips and pieces",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 171,
+                    "step": "cut into strips and pieces",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 175,
+                    "step": "remove the core",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 178,
+                    "step": "remove the core",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 182,
+                    "step": "remove the core",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 185,
+                    "step": "remove the core",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 186,
+                    "step": "remove the core",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1525,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/Vaapvds7D40.mp4",
+            "tutorial": "InstallBicycleRack",
+            "all_steps": [
+                "mount the bracket to the back of the car",
+                "place the bicycle on the bracket",
+                "fasten the strap"
+            ],
+            "start_time": [
+                22,
+                73,
+                83
+            ],
+            "end_time": [
+                34,
+                82,
+                100
+            ],
+            "test_info": [
+                {
+                    "realtime": 24,
+                    "step": "mount the bracket to the back of the car",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 27,
+                    "step": "mount the bracket to the back of the car",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 34,
+                    "step": "mount the bracket to the back of the car",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 68,
+                    "step": "place the bicycle on the bracket",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 71,
+                    "step": "place the bicycle on the bracket",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 75,
+                    "step": "place the bicycle on the bracket",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 78,
+                    "step": "place the bicycle on the bracket",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 82,
+                    "step": "place the bicycle on the bracket",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 78,
+                    "step": "fasten the strap",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 81,
+                    "step": "fasten the strap",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 85,
+                    "step": "fasten the strap",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 88,
+                    "step": "fasten the strap",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 100,
+                    "step": "fasten the strap",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1526,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/Yc1YYQWzLfE.mp4",
+            "tutorial": "CutGrapeFruit",
+            "all_steps": [
+                "cut both ends and remove fruit seeds",
+                "cut in half",
+                "remove the peel"
+            ],
+            "start_time": [
+                22,
+                37,
+                51
+            ],
+            "end_time": [
+                30,
+                45,
+                71
+            ],
+            "test_info": [
+                {
+                    "realtime": 24,
+                    "step": "cut both ends and remove fruit seeds",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 27,
+                    "step": "cut both ends and remove fruit seeds",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 30,
+                    "step": "cut both ends and remove fruit seeds",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 32,
+                    "step": "cut in half",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 35,
+                    "step": "cut in half",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 39,
+                    "step": "cut in half",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 42,
+                    "step": "cut in half",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 45,
+                    "step": "cut in half",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 46,
+                    "step": "remove the peel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 49,
+                    "step": "remove the peel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 53,
+                    "step": "remove the peel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 56,
+                    "step": "remove the peel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 71,
+                    "step": "remove the peel",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1527,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/MDI_R2sIZDk.mp4",
+            "tutorial": "MakePaperDice",
+            "all_steps": [
+                "fold or bent paper",
+                "put paper together",
+                "paint on the paper"
+            ],
+            "start_time": [
+                20,
+                145,
+                288
+            ],
+            "end_time": [
+                129,
+                271,
+                323
+            ],
+            "test_info": [
+                {
+                    "realtime": 22,
+                    "step": "fold or bent paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 25,
+                    "step": "fold or bent paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 129,
+                    "step": "fold or bent paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 140,
+                    "step": "put paper together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 143,
+                    "step": "put paper together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 147,
+                    "step": "put paper together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 150,
+                    "step": "put paper together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 271,
+                    "step": "put paper together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 283,
+                    "step": "paint on the paper",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 286,
+                    "step": "paint on the paper",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 290,
+                    "step": "paint on the paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 293,
+                    "step": "paint on the paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 323,
+                    "step": "paint on the paper",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1528,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/2ePP3hLkfE0.mp4",
+            "tutorial": "CarvePumpkin",
+            "all_steps": [
+                "remove pumpkin pedicle",
+                "clean up the interior of thepumpkin",
+                "carve along the outline"
+            ],
+            "start_time": [
+                70,
+                78,
+                113
+            ],
+            "end_time": [
+                77,
+                86,
+                167
+            ],
+            "test_info": [
+                {
+                    "realtime": 72,
+                    "step": "remove pumpkin pedicle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 75,
+                    "step": "remove pumpkin pedicle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "remove pumpkin pedicle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 73,
+                    "step": "clean up the interior of thepumpkin",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 76,
+                    "step": "clean up the interior of thepumpkin",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 80,
+                    "step": "clean up the interior of thepumpkin",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 83,
+                    "step": "clean up the interior of thepumpkin",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 86,
+                    "step": "clean up the interior of thepumpkin",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 108,
+                    "step": "carve along the outline",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 111,
+                    "step": "carve along the outline",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 115,
+                    "step": "carve along the outline",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 118,
+                    "step": "carve along the outline",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 167,
+                    "step": "carve along the outline",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1529,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/zV8ruZtvXyI.mp4",
+            "tutorial": "MakePaperWindMill",
+            "all_steps": [
+                "fold the edges of the paper",
+                "cut along the edges",
+                "fold the squares inward and fix them",
+                "fix the wind mill on the bracket"
+            ],
+            "start_time": [
+                42,
+                55,
+                88,
+                178
+            ],
+            "end_time": [
+                54,
+                69,
+                127,
+                205
+            ],
+            "test_info": [
+                {
+                    "realtime": 44,
+                    "step": "fold the edges of the paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 47,
+                    "step": "fold the edges of the paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 54,
+                    "step": "fold the edges of the paper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 50,
+                    "step": "cut along the edges",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 53,
+                    "step": "cut along the edges",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 57,
+                    "step": "cut along the edges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 60,
+                    "step": "cut along the edges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 69,
+                    "step": "cut along the edges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 83,
+                    "step": "fold the squares inward and fix them",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 86,
+                    "step": "fold the squares inward and fix them",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 90,
+                    "step": "fold the squares inward and fix them",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 93,
+                    "step": "fold the squares inward and fix them",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 127,
+                    "step": "fold the squares inward and fix them",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 173,
+                    "step": "fix the wind mill on the bracket",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 176,
+                    "step": "fix the wind mill on the bracket",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 180,
+                    "step": "fix the wind mill on the bracket",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 183,
+                    "step": "fix the wind mill on the bracket",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 205,
+                    "step": "fix the wind mill on the bracket",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1530,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/W1TGAer5z0g.mp4",
+            "tutorial": "DrawBlood",
+            "all_steps": [
+                "tie the tourniquet",
+                "collect blood",
+                "pull out the needle and press with cotton"
+            ],
+            "start_time": [
+                45,
+                69,
+                86
+            ],
+            "end_time": [
+                53,
+                83,
+                90
+            ],
+            "test_info": [
+                {
+                    "realtime": 47,
+                    "step": "tie the tourniquet",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 50,
+                    "step": "tie the tourniquet",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 53,
+                    "step": "tie the tourniquet",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 64,
+                    "step": "collect blood",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 67,
+                    "step": "collect blood",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 71,
+                    "step": "collect blood",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 74,
+                    "step": "collect blood",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 83,
+                    "step": "collect blood",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 81,
+                    "step": "pull out the needle and press with cotton",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 84,
+                    "step": "pull out the needle and press with cotton",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 88,
+                    "step": "pull out the needle and press with cotton",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 90,
+                    "step": "pull out the needle and press with cotton",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1531,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/WGuwhJzcvSg.mp4",
+            "tutorial": "DoLinoPrinting",
+            "all_steps": [
+                "scrape tarpaulin without ink",
+                "ink the marked area",
+                "transfer print"
+            ],
+            "start_time": [
+                20,
+                108,
+                113
+            ],
+            "end_time": [
+                90,
+                112,
+                129
+            ],
+            "test_info": [
+                {
+                    "realtime": 22,
+                    "step": "scrape tarpaulin without ink",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 25,
+                    "step": "scrape tarpaulin without ink",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 90,
+                    "step": "scrape tarpaulin without ink",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 103,
+                    "step": "ink the marked area",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 106,
+                    "step": "ink the marked area",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 110,
+                    "step": "ink the marked area",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 112,
+                    "step": "ink the marked area",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 108,
+                    "step": "transfer print",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 111,
+                    "step": "transfer print",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 115,
+                    "step": "transfer print",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 118,
+                    "step": "transfer print",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 129,
+                    "step": "transfer print",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1532,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/-vhwlGY6CGg.mp4",
+            "tutorial": "UseSoyMilkMaker",
+            "all_steps": [
+                "pour some water to the soy milk maker",
+                "run the soy milk maker",
+                "filtrate with a filter",
+                "pour into a glass"
+            ],
+            "start_time": [
+                113,
+                133,
+                214,
+                301
+            ],
+            "end_time": [
+                121,
+                142,
+                228,
+                347
+            ],
+            "test_info": [
+                {
+                    "realtime": 115,
+                    "step": "pour some water to the soy milk maker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 118,
+                    "step": "pour some water to the soy milk maker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 121,
+                    "step": "pour some water to the soy milk maker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 128,
+                    "step": "run the soy milk maker",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 131,
+                    "step": "run the soy milk maker",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 135,
+                    "step": "run the soy milk maker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 138,
+                    "step": "run the soy milk maker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 142,
+                    "step": "run the soy milk maker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 209,
+                    "step": "filtrate with a filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 212,
+                    "step": "filtrate with a filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 216,
+                    "step": "filtrate with a filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 219,
+                    "step": "filtrate with a filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 228,
+                    "step": "filtrate with a filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 296,
+                    "step": "pour into a glass",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 299,
+                    "step": "pour into a glass",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 303,
+                    "step": "pour into a glass",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 306,
+                    "step": "pour into a glass",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 347,
+                    "step": "pour into a glass",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1533,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/BM8H9eE6jhI.mp4",
+            "tutorial": "MakeOrangeJuice",
+            "all_steps": [
+                "cut oranges",
+                "juice the oranges",
+                "pour the orange juice into the cup"
+            ],
+            "start_time": [
+                42,
+                93,
+                116
+            ],
+            "end_time": [
+                47,
+                109,
+                159
+            ],
+            "test_info": [
+                {
+                    "realtime": 44,
+                    "step": "cut oranges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 47,
+                    "step": "cut oranges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 88,
+                    "step": "juice the oranges",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 91,
+                    "step": "juice the oranges",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 95,
+                    "step": "juice the oranges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 98,
+                    "step": "juice the oranges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 109,
+                    "step": "juice the oranges",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 111,
+                    "step": "pour the orange juice into the cup",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 114,
+                    "step": "pour the orange juice into the cup",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 118,
+                    "step": "pour the orange juice into the cup",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 121,
+                    "step": "pour the orange juice into the cup",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 159,
+                    "step": "pour the orange juice into the cup",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1534,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/8tZUVfEyytY.mp4",
+            "tutorial": "ChangeBatteryOfWatch",
+            "all_steps": [
+                "check the type of the back cover",
+                "open the back cover",
+                "replace the battery",
+                "install the back cover and waterproof ring"
+            ],
+            "start_time": [
+                6,
+                13,
+                39,
+                110
+            ],
+            "end_time": [
+                12,
+                28,
+                109,
+                122
+            ],
+            "test_info": [
+                {
+                    "realtime": 8,
+                    "step": "check the type of the back cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 11,
+                    "step": "check the type of the back cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 12,
+                    "step": "check the type of the back cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 8,
+                    "step": "open the back cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 11,
+                    "step": "open the back cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 15,
+                    "step": "open the back cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 18,
+                    "step": "open the back cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 28,
+                    "step": "open the back cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 34,
+                    "step": "replace the battery",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 37,
+                    "step": "replace the battery",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 41,
+                    "step": "replace the battery",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 44,
+                    "step": "replace the battery",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 109,
+                    "step": "replace the battery",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 105,
+                    "step": "install the back cover and waterproof ring",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 108,
+                    "step": "install the back cover and waterproof ring",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 112,
+                    "step": "install the back cover and waterproof ring",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 115,
+                    "step": "install the back cover and waterproof ring",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 122,
+                    "step": "install the back cover and waterproof ring",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1535,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/XAYewYkAr-M.mp4",
+            "tutorial": "AssembleBed",
+            "all_steps": [
+                "place the board on each side",
+                "place the bed board",
+                "place mattress on the bed"
+            ],
+            "start_time": [
+                40,
+                203,
+                213
+            ],
+            "end_time": [
+                114,
+                211,
+                224
+            ],
+            "test_info": [
+                {
+                    "realtime": 42,
+                    "step": "place the board on each side",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 45,
+                    "step": "place the board on each side",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 114,
+                    "step": "place the board on each side",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 198,
+                    "step": "place the bed board",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 201,
+                    "step": "place the bed board",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 205,
+                    "step": "place the bed board",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 208,
+                    "step": "place the bed board",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 211,
+                    "step": "place the bed board",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 208,
+                    "step": "place mattress on the bed",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 211,
+                    "step": "place mattress on the bed",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 215,
+                    "step": "place mattress on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 218,
+                    "step": "place mattress on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 224,
+                    "step": "place mattress on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1536,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/P6A_Hatooc8.mp4",
+            "tutorial": "UseRiceCookerToCookRice",
+            "all_steps": [
+                "take out some rice",
+                "soak and wash the rice",
+                "put the washed rice into the rice cooker",
+                "cook the rice by rice cooker"
+            ],
+            "start_time": [
+                10,
+                15,
+                61,
+                91
+            ],
+            "end_time": [
+                15,
+                21,
+                77,
+                122
+            ],
+            "test_info": [
+                {
+                    "realtime": 12,
+                    "step": "take out some rice",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 15,
+                    "step": "take out some rice",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 10,
+                    "step": "soak and wash the rice",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 13,
+                    "step": "soak and wash the rice",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 17,
+                    "step": "soak and wash the rice",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 20,
+                    "step": "soak and wash the rice",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 21,
+                    "step": "soak and wash the rice",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 56,
+                    "step": "put the washed rice into the rice cooker",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 59,
+                    "step": "put the washed rice into the rice cooker",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 63,
+                    "step": "put the washed rice into the rice cooker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 66,
+                    "step": "put the washed rice into the rice cooker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "put the washed rice into the rice cooker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 86,
+                    "step": "cook the rice by rice cooker",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 89,
+                    "step": "cook the rice by rice cooker",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 93,
+                    "step": "cook the rice by rice cooker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 96,
+                    "step": "cook the rice by rice cooker",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 122,
+                    "step": "cook the rice by rice cooker",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1537,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/ZhG1Woz7hZE.mp4",
+            "tutorial": "AssembleSofa",
+            "all_steps": [
+                "install legs of sofa",
+                "put every parts mentioned together",
+                "put on sofa cover"
+            ],
+            "start_time": [
+                0,
+                15,
+                161
+            ],
+            "end_time": [
+                10,
+                137,
+                194
+            ],
+            "test_info": [
+                {
+                    "realtime": 5,
+                    "step": "install legs of sofa",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 10,
+                    "step": "install legs of sofa",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 10,
+                    "step": "put every parts mentioned together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 13,
+                    "step": "put every parts mentioned together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 17,
+                    "step": "put every parts mentioned together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 20,
+                    "step": "put every parts mentioned together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 137,
+                    "step": "put every parts mentioned together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 156,
+                    "step": "put on sofa cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 159,
+                    "step": "put on sofa cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 163,
+                    "step": "put on sofa cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 166,
+                    "step": "put on sofa cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 194,
+                    "step": "put on sofa cover",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1538,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/Ggg-v-F_fRM.mp4",
+            "tutorial": "RewrapBattery",
+            "all_steps": [
+                "remove the old wrapper",
+                "wrap with the new wrapper",
+                "install the insulated shim",
+                "use the air pressure gun or hair drier to flatten the wrapper"
+            ],
+            "start_time": [
+                309,
+                390,
+                444,
+                484
+            ],
+            "end_time": [
+                320,
+                423,
+                449,
+                538
+            ],
+            "test_info": [
+                {
+                    "realtime": 311,
+                    "step": "remove the old wrapper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 314,
+                    "step": "remove the old wrapper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 320,
+                    "step": "remove the old wrapper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 385,
+                    "step": "wrap with the new wrapper",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 388,
+                    "step": "wrap with the new wrapper",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 392,
+                    "step": "wrap with the new wrapper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 395,
+                    "step": "wrap with the new wrapper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 423,
+                    "step": "wrap with the new wrapper",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 439,
+                    "step": "install the insulated shim",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 442,
+                    "step": "install the insulated shim",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 446,
+                    "step": "install the insulated shim",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 449,
+                    "step": "install the insulated shim",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 479,
+                    "step": "use the air pressure gun or hair drier to flatten the wrapper",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 482,
+                    "step": "use the air pressure gun or hair drier to flatten the wrapper",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 486,
+                    "step": "use the air pressure gun or hair drier to flatten the wrapper",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 489,
+                    "step": "use the air pressure gun or hair drier to flatten the wrapper",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 538,
+                    "step": "use the air pressure gun or hair drier to flatten the wrapper",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1539,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/0R-MCN4gHT4.mp4",
+            "tutorial": "MakeBed",
+            "all_steps": [
+                "put the sheet on the bed",
+                "insert the pillow into the pillow cover",
+                "put the pillow on the bed"
+            ],
+            "start_time": [
+                2,
+                182,
+                220
+            ],
+            "end_time": [
+                181,
+                219,
+                233
+            ],
+            "test_info": [
+                {
+                    "realtime": 7,
+                    "step": "put the sheet on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 181,
+                    "step": "put the sheet on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 177,
+                    "step": "insert the pillow into the pillow cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 180,
+                    "step": "insert the pillow into the pillow cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 184,
+                    "step": "insert the pillow into the pillow cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 187,
+                    "step": "insert the pillow into the pillow cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 219,
+                    "step": "insert the pillow into the pillow cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 215,
+                    "step": "put the pillow on the bed",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 218,
+                    "step": "put the pillow on the bed",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 222,
+                    "step": "put the pillow on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 225,
+                    "step": "put the pillow on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 233,
+                    "step": "put the pillow on the bed",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1540,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/Hf29pcX-B3M.mp4",
+            "tutorial": "ReplaceTyreValveStem",
+            "all_steps": [
+                "remove the air nozzle",
+                "install the new air nozzle",
+                "inflate the tyre after replacement"
+            ],
+            "start_time": [
+                83,
+                121,
+                145
+            ],
+            "end_time": [
+                107,
+                144,
+                159
+            ],
+            "test_info": [
+                {
+                    "realtime": 85,
+                    "step": "remove the air nozzle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 88,
+                    "step": "remove the air nozzle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 107,
+                    "step": "remove the air nozzle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 116,
+                    "step": "install the new air nozzle",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 119,
+                    "step": "install the new air nozzle",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 123,
+                    "step": "install the new air nozzle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 126,
+                    "step": "install the new air nozzle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 144,
+                    "step": "install the new air nozzle",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 140,
+                    "step": "inflate the tyre after replacement",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 143,
+                    "step": "inflate the tyre after replacement",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 147,
+                    "step": "inflate the tyre after replacement",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 150,
+                    "step": "inflate the tyre after replacement",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 159,
+                    "step": "inflate the tyre after replacement",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1541,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/QInuE1KwCZM.mp4",
+            "tutorial": "ReplaceFilterForAirPurifier",
+            "all_steps": [
+                "take out the shell",
+                "take out the filter",
+                "fit on the filter",
+                "fit on the shell"
+            ],
+            "start_time": [
+                4,
+                22,
+                59,
+                87
+            ],
+            "end_time": [
+                11,
+                51,
+                86,
+                99
+            ],
+            "test_info": [
+                {
+                    "realtime": 6,
+                    "step": "take out the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 9,
+                    "step": "take out the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 11,
+                    "step": "take out the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 17,
+                    "step": "take out the filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 20,
+                    "step": "take out the filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 24,
+                    "step": "take out the filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 27,
+                    "step": "take out the filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 51,
+                    "step": "take out the filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 54,
+                    "step": "fit on the filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 57,
+                    "step": "fit on the filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 61,
+                    "step": "fit on the filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 64,
+                    "step": "fit on the filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 86,
+                    "step": "fit on the filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 82,
+                    "step": "fit on the shell",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 85,
+                    "step": "fit on the shell",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 89,
+                    "step": "fit on the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 92,
+                    "step": "fit on the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 99,
+                    "step": "fit on the shell",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1542,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/9c60oL-JKd0.mp4",
+            "tutorial": "ReplaceRefrigeratorWaterFilter",
+            "all_steps": [
+                "take out the old filter",
+                "remove the cap of the new filter",
+                "install the new filter"
+            ],
+            "start_time": [
+                47,
+                66,
+                75
+            ],
+            "end_time": [
+                63,
+                74,
+                94
+            ],
+            "test_info": [
+                {
+                    "realtime": 49,
+                    "step": "take out the old filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 52,
+                    "step": "take out the old filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 63,
+                    "step": "take out the old filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 61,
+                    "step": "remove the cap of the new filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 64,
+                    "step": "remove the cap of the new filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 68,
+                    "step": "remove the cap of the new filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 71,
+                    "step": "remove the cap of the new filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 74,
+                    "step": "remove the cap of the new filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 70,
+                    "step": "install the new filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 73,
+                    "step": "install the new filter",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "install the new filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 80,
+                    "step": "install the new filter",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 94,
+                    "step": "install the new filter",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1543,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/RmiuR14GDsI.mp4",
+            "tutorial": "PutOnQuiltCover",
+            "all_steps": [
+                "put nicely and align the quilt and the cover",
+                "roll the quilt cover and the quilt together",
+                "take out the quilt cover from another side",
+                "put and arrange nicely"
+            ],
+            "start_time": [
+                11,
+                32,
+                79,
+                121
+            ],
+            "end_time": [
+                24,
+                78,
+                114,
+                211
+            ],
+            "test_info": [
+                {
+                    "realtime": 13,
+                    "step": "put nicely and align the quilt and the cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 16,
+                    "step": "put nicely and align the quilt and the cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 24,
+                    "step": "put nicely and align the quilt and the cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 27,
+                    "step": "roll the quilt cover and the quilt together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 30,
+                    "step": "roll the quilt cover and the quilt together",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 34,
+                    "step": "roll the quilt cover and the quilt together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 37,
+                    "step": "roll the quilt cover and the quilt together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 78,
+                    "step": "roll the quilt cover and the quilt together",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 74,
+                    "step": "take out the quilt cover from another side",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "take out the quilt cover from another side",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 81,
+                    "step": "take out the quilt cover from another side",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 84,
+                    "step": "take out the quilt cover from another side",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 114,
+                    "step": "take out the quilt cover from another side",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 116,
+                    "step": "put and arrange nicely",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 119,
+                    "step": "put and arrange nicely",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 123,
+                    "step": "put and arrange nicely",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 126,
+                    "step": "put and arrange nicely",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 211,
+                    "step": "put and arrange nicely",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1544,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/2EyeP_aSKY4.mp4",
+            "tutorial": "InstallCeilingFan",
+            "all_steps": [
+                "install fan tray",
+                "install fan frame",
+                "install fans and lights"
+            ],
+            "start_time": [
+                83,
+                114,
+                135
+            ],
+            "end_time": [
+                113,
+                130,
+                163
+            ],
+            "test_info": [
+                {
+                    "realtime": 85,
+                    "step": "install fan tray",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 88,
+                    "step": "install fan tray",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 113,
+                    "step": "install fan tray",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 109,
+                    "step": "install fan frame",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 112,
+                    "step": "install fan frame",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 116,
+                    "step": "install fan frame",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 119,
+                    "step": "install fan frame",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 130,
+                    "step": "install fan frame",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 130,
+                    "step": "install fans and lights",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 133,
+                    "step": "install fans and lights",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 137,
+                    "step": "install fans and lights",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 140,
+                    "step": "install fans and lights",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 163,
+                    "step": "install fans and lights",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1545,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/va1W1yeLVWI.mp4",
+            "tutorial": "InstallShowerHead",
+            "all_steps": [
+                "replace the old shower head",
+                "wrap the pipe band",
+                "install the new shower head"
+            ],
+            "start_time": [
+                38,
+                105,
+                127
+            ],
+            "end_time": [
+                44,
+                126,
+                193
+            ],
+            "test_info": [
+                {
+                    "realtime": 40,
+                    "step": "replace the old shower head",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 43,
+                    "step": "replace the old shower head",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 44,
+                    "step": "replace the old shower head",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 100,
+                    "step": "wrap the pipe band",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 103,
+                    "step": "wrap the pipe band",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 107,
+                    "step": "wrap the pipe band",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 110,
+                    "step": "wrap the pipe band",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 126,
+                    "step": "wrap the pipe band",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 122,
+                    "step": "install the new shower head",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 125,
+                    "step": "install the new shower head",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 129,
+                    "step": "install the new shower head",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 132,
+                    "step": "install the new shower head",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 193,
+                    "step": "install the new shower head",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1546,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/fYTcH6fSHFM.mp4",
+            "tutorial": "MakeSlimeWithGlue",
+            "all_steps": [
+                "add different kinds of ingredients",
+                "mix the raw materials",
+                "rub and drag the materials"
+            ],
+            "start_time": [
+                5,
+                18,
+                41
+            ],
+            "end_time": [
+                17,
+                37,
+                69
+            ],
+            "test_info": [
+                {
+                    "realtime": 7,
+                    "step": "add different kinds of ingredients",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 10,
+                    "step": "add different kinds of ingredients",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 17,
+                    "step": "add different kinds of ingredients",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 13,
+                    "step": "mix the raw materials",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 16,
+                    "step": "mix the raw materials",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 20,
+                    "step": "mix the raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 23,
+                    "step": "mix the raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 37,
+                    "step": "mix the raw materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 36,
+                    "step": "rub and drag the materials",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 39,
+                    "step": "rub and drag the materials",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 43,
+                    "step": "rub and drag the materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 46,
+                    "step": "rub and drag the materials",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 69,
+                    "step": "rub and drag the materials",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1547,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/Hf2AisK1wHY.mp4",
+            "tutorial": "ChangeBikeTires",
+            "all_steps": [
+                "unload the wheel",
+                "remove the tire",
+                "load the inner tube",
+                "load the tire",
+                "load the wheel",
+                "pump up the tire"
+            ],
+            "start_time": [
+                34,
+                66,
+                106,
+                118,
+                136,
+                168
+            ],
+            "end_time": [
+                64,
+                102,
+                112,
+                134,
+                166,
+                208
+            ],
+            "test_info": [
+                {
+                    "realtime": 36,
+                    "step": "unload the wheel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 39,
+                    "step": "unload the wheel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 64,
+                    "step": "unload the wheel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 61,
+                    "step": "remove the tire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 64,
+                    "step": "remove the tire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 68,
+                    "step": "remove the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 71,
+                    "step": "remove the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 102,
+                    "step": "remove the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 101,
+                    "step": "load the inner tube",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 104,
+                    "step": "load the inner tube",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 108,
+                    "step": "load the inner tube",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 111,
+                    "step": "load the inner tube",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 112,
+                    "step": "load the inner tube",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 113,
+                    "step": "load the tire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 116,
+                    "step": "load the tire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 120,
+                    "step": "load the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 123,
+                    "step": "load the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 134,
+                    "step": "load the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 131,
+                    "step": "load the wheel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 134,
+                    "step": "load the wheel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 138,
+                    "step": "load the wheel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 141,
+                    "step": "load the wheel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 166,
+                    "step": "load the wheel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 163,
+                    "step": "pump up the tire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 166,
+                    "step": "pump up the tire",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 170,
+                    "step": "pump up the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 173,
+                    "step": "pump up the tire",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 208,
+                    "step": "pump up the tire",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1548,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/V7SKv1tHWZ4.mp4",
+            "tutorial": "ReplaceBatteryOnTVControl",
+            "all_steps": [
+                "open cover",
+                "remove battery",
+                "put battery in",
+                "close cover"
+            ],
+            "start_time": [
+                87,
+                101,
+                135,
+                143
+            ],
+            "end_time": [
+                96,
+                107,
+                139,
+                149
+            ],
+            "test_info": [
+                {
+                    "realtime": 89,
+                    "step": "open cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 92,
+                    "step": "open cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 96,
+                    "step": "open cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 96,
+                    "step": "remove battery",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 99,
+                    "step": "remove battery",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 103,
+                    "step": "remove battery",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 106,
+                    "step": "remove battery",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 107,
+                    "step": "remove battery",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 130,
+                    "step": "put battery in",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 133,
+                    "step": "put battery in",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 137,
+                    "step": "put battery in",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 139,
+                    "step": "put battery in",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 138,
+                    "step": "close cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 141,
+                    "step": "close cover",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 145,
+                    "step": "close cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 148,
+                    "step": "close cover",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 149,
+                    "step": "close cover",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1549,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/iPhI5xRvJHM.mp4",
+            "tutorial": "WrapZongzi",
+            "all_steps": [
+                "add ingredients into cone",
+                "fold the leaves",
+                "tie the zongzi tightly"
+            ],
+            "start_time": [
+                100,
+                138,
+                144
+            ],
+            "end_time": [
+                137,
+                142,
+                155
+            ],
+            "test_info": [
+                {
+                    "realtime": 102,
+                    "step": "add ingredients into cone",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 105,
+                    "step": "add ingredients into cone",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 137,
+                    "step": "add ingredients into cone",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 133,
+                    "step": "fold the leaves",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 136,
+                    "step": "fold the leaves",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 140,
+                    "step": "fold the leaves",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 142,
+                    "step": "fold the leaves",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 139,
+                    "step": "tie the zongzi tightly",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 142,
+                    "step": "tie the zongzi tightly",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 146,
+                    "step": "tie the zongzi tightly",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 149,
+                    "step": "tie the zongzi tightly",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 155,
+                    "step": "tie the zongzi tightly",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1550,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/_wanp-a6MEk.mp4",
+            "tutorial": "OpenChampagneBottle",
+            "all_steps": [
+                "tear out the foil",
+                "turn the suspension link",
+                "open the bottle carefully"
+            ],
+            "start_time": [
+                18,
+                28,
+                47
+            ],
+            "end_time": [
+                27,
+                42,
+                56
+            ],
+            "test_info": [
+                {
+                    "realtime": 20,
+                    "step": "tear out the foil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 23,
+                    "step": "tear out the foil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 27,
+                    "step": "tear out the foil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 23,
+                    "step": "turn the suspension link",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 26,
+                    "step": "turn the suspension link",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 30,
+                    "step": "turn the suspension link",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 33,
+                    "step": "turn the suspension link",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 42,
+                    "step": "turn the suspension link",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 42,
+                    "step": "open the bottle carefully",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 45,
+                    "step": "open the bottle carefully",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 49,
+                    "step": "open the bottle carefully",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 52,
+                    "step": "open the bottle carefully",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 56,
+                    "step": "open the bottle carefully",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1551,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/2uKIUxlomWg.mp4",
+            "tutorial": "AssembleOfficeChair",
+            "all_steps": [
+                "install the wheels for the base",
+                "assemble the cushion and the backrest",
+                "connect the chair and the base"
+            ],
+            "start_time": [
+                15,
+                51,
+                194
+            ],
+            "end_time": [
+                38,
+                194,
+                201
+            ],
+            "test_info": [
+                {
+                    "realtime": 17,
+                    "step": "install the wheels for the base",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 20,
+                    "step": "install the wheels for the base",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 38,
+                    "step": "install the wheels for the base",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 46,
+                    "step": "assemble the cushion and the backrest",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 49,
+                    "step": "assemble the cushion and the backrest",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 53,
+                    "step": "assemble the cushion and the backrest",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 56,
+                    "step": "assemble the cushion and the backrest",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 194,
+                    "step": "assemble the cushion and the backrest",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 189,
+                    "step": "connect the chair and the base",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 192,
+                    "step": "connect the chair and the base",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 196,
+                    "step": "connect the chair and the base",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 199,
+                    "step": "connect the chair and the base",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 201,
+                    "step": "connect the chair and the base",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1552,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/2vzC30892IE.mp4",
+            "tutorial": "ReplaceMemoryChip",
+            "all_steps": [
+                "take out the shell",
+                "remove the old memory chip",
+                "install the new memory chip",
+                "fit on the shell"
+            ],
+            "start_time": [
+                5,
+                133,
+                141,
+                184
+            ],
+            "end_time": [
+                124,
+                140,
+                183,
+                228
+            ],
+            "test_info": [
+                {
+                    "realtime": 7,
+                    "step": "take out the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 10,
+                    "step": "take out the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 124,
+                    "step": "take out the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 128,
+                    "step": "remove the old memory chip",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 131,
+                    "step": "remove the old memory chip",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 135,
+                    "step": "remove the old memory chip",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 138,
+                    "step": "remove the old memory chip",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 140,
+                    "step": "remove the old memory chip",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 136,
+                    "step": "install the new memory chip",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 139,
+                    "step": "install the new memory chip",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 143,
+                    "step": "install the new memory chip",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 146,
+                    "step": "install the new memory chip",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 183,
+                    "step": "install the new memory chip",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 179,
+                    "step": "fit on the shell",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 182,
+                    "step": "fit on the shell",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 186,
+                    "step": "fit on the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 189,
+                    "step": "fit on the shell",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 228,
+                    "step": "fit on the shell",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1553,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/5OSRrZ15R1E.mp4",
+            "tutorial": "MakeCandle",
+            "all_steps": [
+                "melt the wax with water",
+                "put the candle wick into a vessel",
+                "pour the wax into the vessel",
+                "wait for the candle until concretion"
+            ],
+            "start_time": [
+                98,
+                119,
+                133,
+                176
+            ],
+            "end_time": [
+                118,
+                132,
+                175,
+                185
+            ],
+            "test_info": [
+                {
+                    "realtime": 100,
+                    "step": "melt the wax with water",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 103,
+                    "step": "melt the wax with water",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 118,
+                    "step": "melt the wax with water",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 114,
+                    "step": "put the candle wick into a vessel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 117,
+                    "step": "put the candle wick into a vessel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 121,
+                    "step": "put the candle wick into a vessel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 124,
+                    "step": "put the candle wick into a vessel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 132,
+                    "step": "put the candle wick into a vessel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 128,
+                    "step": "pour the wax into the vessel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 131,
+                    "step": "pour the wax into the vessel",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 135,
+                    "step": "pour the wax into the vessel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 138,
+                    "step": "pour the wax into the vessel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 175,
+                    "step": "pour the wax into the vessel",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 171,
+                    "step": "wait for the candle until concretion",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 174,
+                    "step": "wait for the candle until concretion",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 178,
+                    "step": "wait for the candle until concretion",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 181,
+                    "step": "wait for the candle until concretion",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 185,
+                    "step": "wait for the candle until concretion",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1554,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/OvsX3KHPxNU.mp4",
+            "tutorial": "ReplaceBladeOfASaw",
+            "all_steps": [
+                "turn off the balde screw",
+                "install the new blade",
+                "tighten the blade screw"
+            ],
+            "start_time": [
+                89,
+                126,
+                148
+            ],
+            "end_time": [
+                125,
+                147,
+                207
+            ],
+            "test_info": [
+                {
+                    "realtime": 91,
+                    "step": "turn off the balde screw",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 94,
+                    "step": "turn off the balde screw",
+                    "type": 1,
+                    "response": "No"
+                },
+                {
+                    "realtime": 125,
+                    "step": "turn off the balde screw",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 121,
+                    "step": "install the new blade",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 124,
+                    "step": "install the new blade",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 128,
+                    "step": "install the new blade",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 131,
+                    "step": "install the new blade",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 147,
+                    "step": "install the new blade",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 143,
+                    "step": "tighten the blade screw",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 146,
+                    "step": "tighten the blade screw",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 150,
+                    "step": "tighten the blade screw",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 153,
+                    "step": "tighten the blade screw",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 207,
+                    "step": "tighten the blade screw",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1555,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/KlLCIDY3I8g.mp4",
+            "tutorial": "Sow",
+            "all_steps": [
+                "prepare the soil carefully",
+                "sow on the soil",
+                "cover with some soil",
+                "apply a cover on the soil"
+            ],
+            "start_time": [
+                22,
+                53,
+                96,
+                188
+            ],
+            "end_time": [
+                48,
+                94,
+                118,
+                209
+            ],
+            "test_info": [
+                {
+                    "realtime": 24,
+                    "step": "prepare the soil carefully",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 27,
+                    "step": "prepare the soil carefully",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 48,
+                    "step": "prepare the soil carefully",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 48,
+                    "step": "sow on the soil",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 51,
+                    "step": "sow on the soil",
+                    "type": 0,
+                    "response": "No"
+                },
+                {
+                    "realtime": 55,
+                    "step": "sow on the soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 58,
+                    "step": "sow on the soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 94,
+                    "step": "sow on the soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 91,
+                    "step": "cover with some soil",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 94,
+                    "step": "cover with some soil",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 98,
+                    "step": "cover with some soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 101,
+                    "step": "cover with some soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 118,
+                    "step": "cover with some soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 183,
+                    "step": "apply a cover on the soil",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 186,
+                    "step": "apply a cover on the soil",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 190,
+                    "step": "apply a cover on the soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 193,
+                    "step": "apply a cover on the soil",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 209,
+                    "step": "apply a cover on the soil",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1556,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/LLwIkpiViak.mp4",
+            "tutorial": "UseNetiPot",
+            "all_steps": [
+                "add a small amount of salt to Neti Pot",
+                "shake and stir",
+                "fill a nostril with saline and do the same to the other nostril",
+                "wipe nose"
+            ],
+            "start_time": [
+                57,
+                63,
+                75,
+                167
+            ],
+            "end_time": [
+                61,
+                70,
+                154,
+                173
+            ],
+            "test_info": [
+                {
+                    "realtime": 59,
+                    "step": "add a small amount of salt to Neti Pot",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 61,
+                    "step": "add a small amount of salt to Neti Pot",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 58,
+                    "step": "shake and stir",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 61,
+                    "step": "shake and stir",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 65,
+                    "step": "shake and stir",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 68,
+                    "step": "shake and stir",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 70,
+                    "step": "shake and stir",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 70,
+                    "step": "fill a nostril with saline and do the same to the other nostril",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 73,
+                    "step": "fill a nostril with saline and do the same to the other nostril",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "fill a nostril with saline and do the same to the other nostril",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 80,
+                    "step": "fill a nostril with saline and do the same to the other nostril",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 154,
+                    "step": "fill a nostril with saline and do the same to the other nostril",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 162,
+                    "step": "wipe nose",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 165,
+                    "step": "wipe nose",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 169,
+                    "step": "wipe nose",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 172,
+                    "step": "wipe nose",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 173,
+                    "step": "wipe nose",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        },
+        {
+            "id": 1557,
+            "task": "SSR",
+            "video": "data/src_videos/COIN/N_qj_iSrF64.mp4",
+            "tutorial": "RemoveBlackheadsWithGlue",
+            "all_steps": [
+                "pour some glue to the face",
+                "wipe the glue to a layer",
+                "reveal the glue from the face"
+            ],
+            "start_time": [
+                51,
+                82,
+                108
+            ],
+            "end_time": [
+                81,
+                107,
+                135
+            ],
+            "test_info": [
+                {
+                    "realtime": 53,
+                    "step": "pour some glue to the face",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 56,
+                    "step": "pour some glue to the face",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 81,
+                    "step": "pour some glue to the face",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 77,
+                    "step": "wipe the glue to a layer",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 80,
+                    "step": "wipe the glue to a layer",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 84,
+                    "step": "wipe the glue to a layer",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 87,
+                    "step": "wipe the glue to a layer",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 107,
+                    "step": "wipe the glue to a layer",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 103,
+                    "step": "reveal the glue from the face",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 106,
+                    "step": "reveal the glue from the face",
+                    "type": 0,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 110,
+                    "step": "reveal the glue from the face",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 113,
+                    "step": "reveal the glue from the face",
+                    "type": 1,
+                    "response": "Yes"
+                },
+                {
+                    "realtime": 135,
+                    "step": "reveal the glue from the face",
+                    "type": 1,
+                    "response": "Yes"
+                }
+            ]
+        }
+    ]
+}

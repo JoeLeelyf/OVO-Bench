@@ -1,0 +1,878 @@
+{
+    "backward": [],
+    "realtime": [
+        {
+            "id": 1210,
+            "video": "data/src_videos/Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+            "task": "ACR",
+            "question": "What is he doing with that tool?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1211,
+            "video": "data/src_videos/Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1212,
+            "video": "data/src_videos/Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+            "task": "ACR",
+            "question": "What action is being done to the tire?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1213,
+            "video": "data/src_videos/Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the tool in his left hand?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1214,
+            "video": "data/src_videos/Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1215,
+            "video": "data/src_videos/Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1216,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "What is being done with the object in his hands?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1217,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "How does he interact with the object on the floor?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1218,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "What is he adjusting?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1219,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "ACR",
+            "question": "What is this person doing with the basket?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1220,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "ACR",
+            "question": "What is this man doing?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1221,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "ACR",
+            "question": "What action does this individual perform with the tool?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1222,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What action is being performed with the mushrooms?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1223,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What is being added to the pan?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1224,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What is done after retrieving the bottle cap from the floor?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1225,
+            "video": "data/src_videos/Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his hands above the table?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1226,
+            "video": "data/src_videos/Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1227,
+            "video": "data/src_videos/Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+            "task": "ACR",
+            "question": "What action is he doing as he moves to the side?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1228,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What is the person doing with the vegetables?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1229,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What does the person do after chopping the onion?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1230,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What action takes place with the pan on the stove?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1231,
+            "video": "data/src_videos/Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+            "task": "ACR",
+            "question": "What is this person doing with the bike?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1232,
+            "video": "data/src_videos/Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+            "task": "ACR",
+            "question": "What is this person doing?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1233,
+            "video": "data/src_videos/Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the carrot?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1234,
+            "video": "data/src_videos/Ego4D/video/67dce8e0-ea5f-44dd-a2fe-a8f8ed157625.mp4",
+            "task": "ACR",
+            "question": "What is the man holding while using his phone?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1235,
+            "video": "data/src_videos/Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+            "task": "ACR",
+            "question": "What is this person doing?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1236,
+            "video": "data/src_videos/Ego4D/video/9c20c227-5f30-45c3-8c7c-4d556c24eaed.mp4",
+            "task": "ACR",
+            "question": "What action is he performing with the blue checkered cloth?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1237,
+            "video": "data/src_videos/Ego4D/video/9c20c227-5f30-45c3-8c7c-4d556c24eaed.mp4",
+            "task": "ACR",
+            "question": "How does he do with the laundry basket.",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1238,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "What is the man doing with the motorcycle?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1239,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What action is being performed with the objects on her hands?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1240,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "ACR",
+            "question": "What action is being performed with this tool?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1241,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "ACR",
+            "question": "What action is he performing with the device in his hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1242,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "ACR",
+            "question": "What action does the device indicate when it lights up?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1243,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "ACR",
+            "question": "What is the person in the blue raincoat doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1244,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "ACR",
+            "question": "How is the water flowing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1245,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the player in the burgundy jersey doing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1246,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the player in the blue jersey doing with the ball near the goal?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1247,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the player with blue jersey doing with the ball?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1248,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "How is the player in red interacting with the player in blue near the goal?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1249,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the goalkeeper doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1250,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "What is being done with the black mesh?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1251,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "How is the wire being used?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1252,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the crate?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1253,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the animal?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1254,
+            "video": "data/src_videos/AutoEvalMetaData/309.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1255,
+            "video": "data/src_videos/AutoEvalMetaData/309.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1256,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is the boy with glasses concentrating on?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1257,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1258,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1259,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1260,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1261,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1262,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "What gesture is he making to the goalkeeper?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1263,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the ball?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1264,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "How does this player score a goal?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1265,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "How does this player score a goal?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1266,
+            "video": "data/src_videos/AutoEvalMetaData/129.mp4",
+            "task": "ACR",
+            "question": "What is the person in the white outfit doing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1267,
+            "video": "data/src_videos/AutoEvalMetaData/129.mp4",
+            "task": "ACR",
+            "question": "What is the person in the white outfit doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1268,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the object in his hand?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1269,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "ACR",
+            "question": "What are they doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1270,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "ACR",
+            "question": "In this moment, what is his posture while interacting with the person opposite him?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1271,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the mug?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1272,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1273,
+            "video": "data/src_videos/AutoEvalMetaData/115.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the jalape\u00f1os?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1274,
+            "video": "data/src_videos/AutoEvalMetaData/115.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1275,
+            "video": "data/src_videos/AutoEvalMetaData/110.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1276,
+            "video": "data/src_videos/AutoEvalMetaData/110.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1277,
+            "video": "data/src_videos/AutoEvalMetaData/110.mp4",
+            "task": "ACR",
+            "question": "How does he hold the glass while drinking?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1278,
+            "video": "data/src_videos/AutoEvalMetaData/150.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1279,
+            "video": "data/src_videos/AutoEvalMetaData/150.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1280,
+            "video": "data/src_videos/AutoEvalMetaData/150.mp4",
+            "task": "ACR",
+            "question": "How is he positioned while shot at from the left?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1281,
+            "video": "data/src_videos/AutoEvalMetaData/217.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the bottle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1282,
+            "video": "data/src_videos/AutoEvalMetaData/217.mp4",
+            "task": "ACR",
+            "question": "What did he do with the clothes?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1283,
+            "video": "data/src_videos/AutoEvalMetaData/217.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his shoe?",
+            "response": "I don't see an image of him handling a shoe for any of the options provided.",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1284,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1285,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1286,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1287,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1288,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "ACR",
+            "question": "What technique are these swimmers using?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1289,
+            "video": "data/src_videos/AutoEvalMetaData/38.mp4",
+            "task": "ACR",
+            "question": "What is she doing with the cushion?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1290,
+            "video": "data/src_videos/AutoEvalMetaData/38.mp4",
+            "task": "ACR",
+            "question": "What is she doing with the blanket?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1291,
+            "video": "data/src_videos/AutoEvalMetaData/38.mp4",
+            "task": "ACR",
+            "question": "What is her posture while cleaning the mirror?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1292,
+            "video": "data/src_videos/AutoEvalMetaData/43.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the bird?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1293,
+            "video": "data/src_videos/AutoEvalMetaData/43.mp4",
+            "task": "ACR",
+            "question": "What gesture is he making while interacting with the birds?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1294,
+            "video": "data/src_videos/AutoEvalMetaData/43.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1295,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "ACR",
+            "question": "What is the man in the red shirt doing?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1296,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "ACR",
+            "question": "How is the monkey in the orange shirt eating?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1297,
+            "video": "data/src_videos/AutoEvalMetaData/158.mp4",
+            "task": "ACR",
+            "question": "What just happened to the car in front?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1298,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his hands.",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1299,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1300,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ACR",
+            "question": "What is he doing behind the glass?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1301,
+            "video": "data/src_videos/AutoEvalMetaData/240.mp4",
+            "task": "ACR",
+            "question": "What action is she performing in the beginning?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1302,
+            "video": "data/src_videos/AutoEvalMetaData/240.mp4",
+            "task": "ACR",
+            "question": "How is she trying to evade the bull?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1303,
+            "video": "data/src_videos/AutoEvalMetaData/240.mp4",
+            "task": "ACR",
+            "question": "What gesture is she making when she stops on the field?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1304,
+            "video": "data/src_videos/AutoEvalMetaData/116.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1305,
+            "video": "data/src_videos/AutoEvalMetaData/116.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1306,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1307,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "ACR",
+            "question": "What is the posture of the person kneeling on the grass?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1308,
+            "video": "data/src_videos/AutoEvalMetaData/275.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1309,
+            "video": "data/src_videos/AutoEvalMetaData/275.mp4",
+            "task": "ACR",
+            "question": "What is she gesturing towards with her hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1310,
+            "video": "data/src_videos/AutoEvalMetaData/275.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1311,
+            "video": "data/src_videos/AutoEvalMetaData/250.mp4",
+            "task": "ACR",
+            "question": "What is she doing with the chicken in her hands?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1312,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "ACR",
+            "question": "What action is the player in blue attempting?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1313,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "ACR",
+            "question": "What is the player in white doing with the ball?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1314,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "ACR",
+            "question": "What is the player in white doing with the ball?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1315,
+            "video": "data/src_videos/AutoEvalMetaData/201.mp4",
+            "task": "ACR",
+            "question": "What is someone doing with their foot?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1316,
+            "video": "data/src_videos/AutoEvalMetaData/201.mp4",
+            "task": "ACR",
+            "question": "What is the person doing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1317,
+            "video": "data/src_videos/AutoEvalMetaData/201.mp4",
+            "task": "ACR",
+            "question": "What is this woman doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1318,
+            "video": "data/src_videos/AutoEvalMetaData/72.mp4",
+            "task": "ACR",
+            "question": "What is the activity occurring with the football?",
+            "response": "A",
+            "ground_truth": "A"
+        }
+    ],
+    "forward": []
+}

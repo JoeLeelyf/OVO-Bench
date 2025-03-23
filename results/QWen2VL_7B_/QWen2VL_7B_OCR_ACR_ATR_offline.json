@@ -1,0 +1,2998 @@
+{
+    "backward": [],
+    "realtime": [
+        {
+            "id": 993,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+            "task": "ATR",
+            "question": "What is the color of the dog?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 994,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the fire I'm collecting?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 995,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the fire I'm collecting?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 996,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What color is the gourd on the man's back?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 997,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What color is the gourd in the man's hand on the right of the frame?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 998,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the head of the boss?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 999,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+            "task": "ATR",
+            "question": "What is the color of the tip of the weapon the man is holding?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1000,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+            "task": "ATR",
+            "question": "What is the box made of?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1001,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=4.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monster I'm fighting?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1002,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+            "task": "ATR",
+            "question": "What is the color of the land?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1003,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monster's head?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1004,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+            "task": "ATR",
+            "question": "What is the color of the eyes?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1005,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+            "task": "ATR",
+            "question": "What is the box made of?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1006,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=7.mp4",
+            "task": "ATR",
+            "question": "What is the color of the ground?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1007,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monsters' clothes?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1008,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+            "task": "ATR",
+            "question": "What is the color of the fire?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1009,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "ATR",
+            "question": "What is the color of the monster's wings?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1010,
+            "video": "data/src_videos/YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+            "task": "ATR",
+            "question": "How is the weather?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1011,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the pot in the middle?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1012,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What is the surface texture of the pot on the left?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1013,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What decoration is on the pot on the right?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1014,
+            "video": "data/src_videos/Ego4D/video/c85d9006-00b3-450e-be12-cc3a1a0ca070.mp4",
+            "task": "ATR",
+            "question": "What is the material of the object being cleaned?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1015,
+            "video": "data/src_videos/Ego4D/video/c85d9006-00b3-450e-be12-cc3a1a0ca070.mp4",
+            "task": "ATR",
+            "question": "What is the color of the rag being used?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1016,
+            "video": "data/src_videos/Ego4D/video/f5613680-1dbc-4945-8a77-949098bc13dd.mp4",
+            "task": "ATR",
+            "question": "What color is the dress in your hand?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1017,
+            "video": "data/src_videos/Ego4D/video/f5613680-1dbc-4945-8a77-949098bc13dd.mp4",
+            "task": "ATR",
+            "question": "What is the bottle made of?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1018,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the fabric being folded?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1019,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What color is the object in your hand?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1020,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What is the texture of the floor in this area?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1021,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ATR",
+            "question": "What texture does the surface the person is walking on appear to have?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1022,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What is the material of the container being handled?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1023,
+            "video": "data/src_videos/Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the rectangular mat?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1024,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What patterns are present on the pots?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1025,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What type of clothing pattern is on the person's sweater?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1026,
+            "video": "data/src_videos/Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+            "task": "ATR",
+            "question": "What art supplies are being used for painting?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1027,
+            "video": "data/src_videos/Ego4D/video/7548cced-9bce-4606-b513-5b019813e1ab.mp4",
+            "task": "ATR",
+            "question": "What type of container holds the liquid?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1028,
+            "video": "data/src_videos/Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+            "task": "ATR",
+            "question": "Which color is his brush picking?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1029,
+            "video": "data/src_videos/AutoEvalMetaData/311.mp4",
+            "task": "ATR",
+            "question": "What shape can be observed in the object displayed?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1030,
+            "video": "data/src_videos/AutoEvalMetaData/60.mp4",
+            "task": "ATR",
+            "question": "What type of traffic light is visible in the scene?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1031,
+            "video": "data/src_videos/AutoEvalMetaData/29.mp4",
+            "task": "ATR",
+            "question": "What color pants is the person on the right wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1032,
+            "video": "data/src_videos/AutoEvalMetaData/29.mp4",
+            "task": "ATR",
+            "question": "What is the hair type of the boxer on the right?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1033,
+            "video": "data/src_videos/AutoEvalMetaData/132.mp4",
+            "task": "ATR",
+            "question": "What is the primary color of the vehicle seen in the background while the character is running?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1034,
+            "video": "data/src_videos/AutoEvalMetaData/132.mp4",
+            "task": "ATR",
+            "question": "What type of footwear is the character wearing?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1035,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "ATR",
+            "question": "What color is the soup in the bowl that appears in the scene?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1036,
+            "video": "data/src_videos/AutoEvalMetaData/204.mp4",
+            "task": "ATR",
+            "question": "What color is the scooter that the child is standing on?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1037,
+            "video": "data/src_videos/AutoEvalMetaData/17.mp4",
+            "task": "ATR",
+            "question": "What color and texture does the ball have?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1038,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "ATR",
+            "question": "What color is the horse in the front that has a rider wearing an orange cap?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1039,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "ATR",
+            "question": "What is the predominant color of the jockey's outfit on the horse in the blue jacket?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1040,
+            "video": "data/src_videos/AutoEvalMetaData/235.mp4",
+            "task": "ATR",
+            "question": "What color is the man's wetsuit in this moment?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1041,
+            "video": "data/src_videos/AutoEvalMetaData/235.mp4",
+            "task": "ATR",
+            "question": "What kind of texture does the water appear to have?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1042,
+            "video": "data/src_videos/AutoEvalMetaData/67.mp4",
+            "task": "ATR",
+            "question": "What shape are the pieces of potato in the pan?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1043,
+            "video": "data/src_videos/AutoEvalMetaData/227.mp4",
+            "task": "ATR",
+            "question": "What shape is the bread on the plate?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1044,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "ATR",
+            "question": "What color is the shirt that the person is wearing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1045,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "ATR",
+            "question": "What shape are the containers on the shelf?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1046,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "ATR",
+            "question": "What texture does the mixture appear to have?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1047,
+            "video": "data/src_videos/AutoEvalMetaData/53.mp4",
+            "task": "ATR",
+            "question": "What shape is the piece of bread on the plate?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1048,
+            "video": "data/src_videos/AutoEvalMetaData/153.mp4",
+            "task": "ATR",
+            "question": "What color is the illumination around the dashboard?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1049,
+            "video": "data/src_videos/AutoEvalMetaData/198.mp4",
+            "task": "ATR",
+            "question": "How would you describe the hairstyle of the person completing the obstacle course?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1050,
+            "video": "data/src_videos/AutoEvalMetaData/82.mp4",
+            "task": "ATR",
+            "question": "How does the animal's facial expression appear?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1051,
+            "video": "data/src_videos/AutoEvalMetaData/10.mp4",
+            "task": "ATR",
+            "question": "What is the character's expression as seen with the headset?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1052,
+            "video": "data/src_videos/AutoEvalMetaData/10.mp4",
+            "task": "ATR",
+            "question": "What is the color of the character's outfit on the platform?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1053,
+            "video": "data/src_videos/AutoEvalMetaData/10.mp4",
+            "task": "ATR",
+            "question": "What shape are the windows in the background?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1054,
+            "video": "data/src_videos/AutoEvalMetaData/81.mp4",
+            "task": "ATR",
+            "question": "What is the expression on his face?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1055,
+            "video": "data/src_videos/AutoEvalMetaData/120.mp4",
+            "task": "ATR",
+            "question": "How is her expression in the close-up?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1056,
+            "video": "data/src_videos/AutoEvalMetaData/84.mp4",
+            "task": "ATR",
+            "question": "What is the color of the clothing of the individual on the digital display?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1057,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "ATR",
+            "question": "What is the color of the jersey worn by the person sitting on the bench?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1058,
+            "video": "data/src_videos/AutoEvalMetaData/66.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the jerseys of the player in white running towards the goal?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1059,
+            "video": "data/src_videos/AutoEvalMetaData/66.mp4",
+            "task": "ATR",
+            "question": "What is the expression of the crowd in the background as the ball heads towards the goal?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1060,
+            "video": "data/src_videos/AutoEvalMetaData/32.mp4",
+            "task": "ATR",
+            "question": "What type of trees are surrounding the area with the sign?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1061,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "ATR",
+            "question": "What is the color pattern of the creature on the left?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1062,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "ATR",
+            "question": "Which animal has a unique tail shape compared to the others?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1063,
+            "video": "data/src_videos/AutoEvalMetaData/102.mp4",
+            "task": "ATR",
+            "question": "What is the architectural style of the buildings on the left?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1064,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "ATR",
+            "question": "How is the woman's hair styled?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1065,
+            "video": "data/src_videos/AutoEvalMetaData/290.mp4",
+            "task": "ATR",
+            "question": "What is the expression on their faces?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1066,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ATR",
+            "question": "What color is the material being used?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1067,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ATR",
+            "question": "What kind of material seems to be on the ground around the structure?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1068,
+            "video": "data/src_videos/AutoEvalMetaData/80.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the wall behind him?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1069,
+            "video": "data/src_videos/AutoEvalMetaData/19.mp4",
+            "task": "ATR",
+            "question": "What type of accessory is the person wearing around the neck?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1070,
+            "video": "data/src_videos/AutoEvalMetaData/19.mp4",
+            "task": "ATR",
+            "question": "What pattern is present on the shirt?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1071,
+            "video": "data/src_videos/AutoEvalMetaData/62.mp4",
+            "task": "ATR",
+            "question": "What color is the helmet he's wearing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1072,
+            "video": "data/src_videos/AutoEvalMetaData/62.mp4",
+            "task": "ATR",
+            "question": "What type of pattern is on the girl's shirt?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1073,
+            "video": "data/src_videos/AutoEvalMetaData/141.mp4",
+            "task": "ATR",
+            "question": "How is his facial expression as he exercises?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1074,
+            "video": "data/src_videos/AutoEvalMetaData/159.mp4",
+            "task": "ATR",
+            "question": "What color is the cape?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1075,
+            "video": "data/src_videos/AutoEvalMetaData/159.mp4",
+            "task": "ATR",
+            "question": "What is the terrain texture in the environment where they are standing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1076,
+            "video": "data/src_videos/AutoEvalMetaData/161.mp4",
+            "task": "ATR",
+            "question": "How is the character in the center styled?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1077,
+            "video": "data/src_videos/AutoEvalMetaData/248.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is the person wearing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1078,
+            "video": "data/src_videos/AutoEvalMetaData/24.mp4",
+            "task": "ATR",
+            "question": "What type of accessory is the person wearing on their head?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1079,
+            "video": "data/src_videos/AutoEvalMetaData/72.mp4",
+            "task": "ATR",
+            "question": "What emotion is evident on their face after the play?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1080,
+            "video": "data/src_videos/AutoEvalMetaData/72.mp4",
+            "task": "ATR",
+            "question": "What pattern is on the black and red uniform?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1081,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is the person wearing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1082,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "ATR",
+            "question": "What emotion does the person appear to be showing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1083,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "ATR",
+            "question": "What is the expression of the man in the white jersey with braided hair?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1084,
+            "video": "data/src_videos/AutoEvalMetaData/197.mp4",
+            "task": "ATR",
+            "question": "What is the material of the containers visible?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1085,
+            "video": "data/src_videos/AutoEvalMetaData/197.mp4",
+            "task": "ATR",
+            "question": "What is on the cardboard box?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1086,
+            "video": "data/src_videos/AutoEvalMetaData/197.mp4",
+            "task": "ATR",
+            "question": "What is the state of the drawers?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1087,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "ATR",
+            "question": "What pattern is visible on the harness of the dog lying on the floor?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1088,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "ATR",
+            "question": "What distinctive color and pattern is present on the small dog walking away?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1089,
+            "video": "data/src_videos/AutoEvalMetaData/40.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the potato's skin?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1090,
+            "video": "data/src_videos/AutoEvalMetaData/40.mp4",
+            "task": "ATR",
+            "question": "What is the tool made of?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1091,
+            "video": "data/src_videos/AutoEvalMetaData/130.mp4",
+            "task": "ATR",
+            "question": "What pattern is visible on the wall?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1092,
+            "video": "data/src_videos/AutoEvalMetaData/37.mp4",
+            "task": "ATR",
+            "question": "What is the texture of the sofa fabric?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1093,
+            "video": "data/src_videos/AutoEvalMetaData/35.mp4",
+            "task": "ATR",
+            "question": "What style is the tattoo on the person's neck?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1094,
+            "video": "data/src_videos/AutoEvalMetaData/54.mp4",
+            "task": "ATR",
+            "question": "What kind of expression does the small animal wrapped in the cloth have?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1095,
+            "video": "data/src_videos/AutoEvalMetaData/260.mp4",
+            "task": "ATR",
+            "question": "What expression does the person in the rearview mirror have?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1096,
+            "video": "data/src_videos/AutoEvalMetaData/13.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is he wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1097,
+            "video": "data/src_videos/AutoEvalMetaData/13.mp4",
+            "task": "ATR",
+            "question": "How does his facial expression appear?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1098,
+            "video": "data/src_videos/AutoEvalMetaData/119.mp4",
+            "task": "ATR",
+            "question": "What type of pan is being used, based on its appearance?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1099,
+            "video": "data/src_videos/AutoEvalMetaData/79.mp4",
+            "task": "ATR",
+            "question": "What color pattern is on the person's shorts?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1100,
+            "video": "data/src_videos/AutoEvalMetaData/255.mp4",
+            "task": "ATR",
+            "question": "What is the hairstyle of the person holding an ice cream?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1101,
+            "video": "data/src_videos/AutoEvalMetaData/226.mp4",
+            "task": "ATR",
+            "question": "What is the prominent color of the obstacle on the structure?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1102,
+            "video": "data/src_videos/AutoEvalMetaData/226.mp4",
+            "task": "ATR",
+            "question": "What type of clothing is the person wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1103,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ATR",
+            "question": "What is the pattern on the woman's clothing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1104,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ATR",
+            "question": "What is notable about the man's tie?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1105,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "ATR",
+            "question": "What color is the plant pot located beside the two people on the bench?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1106,
+            "video": "data/src_videos/AutoEvalMetaData/99.mp4",
+            "task": "ATR",
+            "question": "What is the color of the hat worn by the person in the green outfit?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1107,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ATR",
+            "question": "What color is the wall behind the painting?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1108,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ATR",
+            "question": "What is the item being carried by the person in the suit?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1210,
+            "video": "data/src_videos/Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+            "task": "ACR",
+            "question": "What is he doing with that tool?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1211,
+            "video": "data/src_videos/Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1212,
+            "video": "data/src_videos/Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+            "task": "ACR",
+            "question": "What action is being done to the tire?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1213,
+            "video": "data/src_videos/Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the tool in his left hand?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1214,
+            "video": "data/src_videos/Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1215,
+            "video": "data/src_videos/Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1216,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "What is being done with the object in his hands?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1217,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "How does he interact with the object on the floor?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1218,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "What is he adjusting?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1219,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "ACR",
+            "question": "What is this person doing with the basket?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1220,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "ACR",
+            "question": "What is this man doing?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1221,
+            "video": "data/src_videos/Ego4D/video/68e54307-c0d1-4ed3-9c67-45827293c21e.mp4",
+            "task": "ACR",
+            "question": "What action does this individual perform with the tool?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1222,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What action is being performed with the mushrooms?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1223,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What is being added to the pan?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1224,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What is done after retrieving the bottle cap from the floor?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1225,
+            "video": "data/src_videos/Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his hands above the table?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1226,
+            "video": "data/src_videos/Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1227,
+            "video": "data/src_videos/Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+            "task": "ACR",
+            "question": "What action is he doing as he moves to the side?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1228,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What is the person doing with the vegetables?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1229,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What does the person do after chopping the onion?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1230,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What action takes place with the pan on the stove?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1231,
+            "video": "data/src_videos/Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+            "task": "ACR",
+            "question": "What is this person doing with the bike?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1232,
+            "video": "data/src_videos/Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+            "task": "ACR",
+            "question": "What is this person doing?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1233,
+            "video": "data/src_videos/Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the carrot?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1234,
+            "video": "data/src_videos/Ego4D/video/67dce8e0-ea5f-44dd-a2fe-a8f8ed157625.mp4",
+            "task": "ACR",
+            "question": "What is the man holding while using his phone?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1235,
+            "video": "data/src_videos/Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+            "task": "ACR",
+            "question": "What is this person doing?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1236,
+            "video": "data/src_videos/Ego4D/video/9c20c227-5f30-45c3-8c7c-4d556c24eaed.mp4",
+            "task": "ACR",
+            "question": "What action is he performing with the blue checkered cloth?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1237,
+            "video": "data/src_videos/Ego4D/video/9c20c227-5f30-45c3-8c7c-4d556c24eaed.mp4",
+            "task": "ACR",
+            "question": "How does he do with the laundry basket.",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1238,
+            "video": "data/src_videos/Ego4D/video/80c835c8-d7ec-4c6d-b1af-58315c333cbf.mp4",
+            "task": "ACR",
+            "question": "What is the man doing with the motorcycle?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1239,
+            "video": "data/src_videos/Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+            "task": "ACR",
+            "question": "What action is being performed with the objects on her hands?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1240,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "ACR",
+            "question": "What action is being performed with this tool?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1241,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "ACR",
+            "question": "What action is he performing with the device in his hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1242,
+            "video": "data/src_videos/AutoEvalMetaData/171.mp4",
+            "task": "ACR",
+            "question": "What action does the device indicate when it lights up?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1243,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "ACR",
+            "question": "What is the person in the blue raincoat doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1244,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "ACR",
+            "question": "How is the water flowing?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1245,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the player in the burgundy jersey doing?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1246,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the player in the blue jersey doing with the ball near the goal?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1247,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the player with blue jersey doing with the ball?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1248,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "How is the player in red interacting with the player in blue near the goal?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1249,
+            "video": "data/src_videos/AutoEvalMetaData/117.mp4",
+            "task": "ACR",
+            "question": "What is the goalkeeper doing?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1250,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "What is being done with the black mesh?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1251,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "How is the wire being used?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1252,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the crate?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1253,
+            "video": "data/src_videos/AutoEvalMetaData/97.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the animal?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1254,
+            "video": "data/src_videos/AutoEvalMetaData/309.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1255,
+            "video": "data/src_videos/AutoEvalMetaData/309.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1256,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is the boy with glasses concentrating on?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1257,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1258,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1259,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1260,
+            "video": "data/src_videos/AutoEvalMetaData/12.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1261,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1262,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "What gesture is he making to the goalkeeper?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1263,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the ball?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1264,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "How does this player score a goal?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1265,
+            "video": "data/src_videos/AutoEvalMetaData/64.mp4",
+            "task": "ACR",
+            "question": "How does this player score a goal?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1266,
+            "video": "data/src_videos/AutoEvalMetaData/129.mp4",
+            "task": "ACR",
+            "question": "What is the person in the white outfit doing?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1267,
+            "video": "data/src_videos/AutoEvalMetaData/129.mp4",
+            "task": "ACR",
+            "question": "What is the person in the white outfit doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1268,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the object in his hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1269,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "ACR",
+            "question": "What are they doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1270,
+            "video": "data/src_videos/AutoEvalMetaData/89.mp4",
+            "task": "ACR",
+            "question": "In this moment, what is his posture while interacting with the person opposite him?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1271,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the mug?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1272,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1273,
+            "video": "data/src_videos/AutoEvalMetaData/115.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the jalape\u00f1os?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1274,
+            "video": "data/src_videos/AutoEvalMetaData/115.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1275,
+            "video": "data/src_videos/AutoEvalMetaData/110.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1276,
+            "video": "data/src_videos/AutoEvalMetaData/110.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1277,
+            "video": "data/src_videos/AutoEvalMetaData/110.mp4",
+            "task": "ACR",
+            "question": "How does he hold the glass while drinking?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1278,
+            "video": "data/src_videos/AutoEvalMetaData/150.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1279,
+            "video": "data/src_videos/AutoEvalMetaData/150.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1280,
+            "video": "data/src_videos/AutoEvalMetaData/150.mp4",
+            "task": "ACR",
+            "question": "How is he positioned while shot at from the left?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1281,
+            "video": "data/src_videos/AutoEvalMetaData/217.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the bottle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1282,
+            "video": "data/src_videos/AutoEvalMetaData/217.mp4",
+            "task": "ACR",
+            "question": "What did he do with the clothes?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1283,
+            "video": "data/src_videos/AutoEvalMetaData/217.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his shoe?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1284,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1285,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1286,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1287,
+            "video": "data/src_videos/AutoEvalMetaData/256.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1288,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "ACR",
+            "question": "What technique are these swimmers using?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1289,
+            "video": "data/src_videos/AutoEvalMetaData/38.mp4",
+            "task": "ACR",
+            "question": "What is she doing with the cushion?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1290,
+            "video": "data/src_videos/AutoEvalMetaData/38.mp4",
+            "task": "ACR",
+            "question": "What is she doing with the blanket?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1291,
+            "video": "data/src_videos/AutoEvalMetaData/38.mp4",
+            "task": "ACR",
+            "question": "What is her posture while cleaning the mirror?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1292,
+            "video": "data/src_videos/AutoEvalMetaData/43.mp4",
+            "task": "ACR",
+            "question": "What is he doing with the bird?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1293,
+            "video": "data/src_videos/AutoEvalMetaData/43.mp4",
+            "task": "ACR",
+            "question": "What gesture is he making while interacting with the birds?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1294,
+            "video": "data/src_videos/AutoEvalMetaData/43.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1295,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "ACR",
+            "question": "What is the man in the red shirt doing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1296,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "ACR",
+            "question": "How is the monkey in the orange shirt eating?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1297,
+            "video": "data/src_videos/AutoEvalMetaData/158.mp4",
+            "task": "ACR",
+            "question": "What just happened to the car in front?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1298,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ACR",
+            "question": "What is he doing with his hands.",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1299,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1300,
+            "video": "data/src_videos/AutoEvalMetaData/308.mp4",
+            "task": "ACR",
+            "question": "What is he doing behind the glass?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1301,
+            "video": "data/src_videos/AutoEvalMetaData/240.mp4",
+            "task": "ACR",
+            "question": "What action is she performing in the beginning?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1302,
+            "video": "data/src_videos/AutoEvalMetaData/240.mp4",
+            "task": "ACR",
+            "question": "How is she trying to evade the bull?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1303,
+            "video": "data/src_videos/AutoEvalMetaData/240.mp4",
+            "task": "ACR",
+            "question": "What gesture is she making when she stops on the field?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1304,
+            "video": "data/src_videos/AutoEvalMetaData/116.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1305,
+            "video": "data/src_videos/AutoEvalMetaData/116.mp4",
+            "task": "ACR",
+            "question": "What is she doing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1306,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1307,
+            "video": "data/src_videos/AutoEvalMetaData/187.mp4",
+            "task": "ACR",
+            "question": "What is the posture of the person kneeling on the grass?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1308,
+            "video": "data/src_videos/AutoEvalMetaData/275.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1309,
+            "video": "data/src_videos/AutoEvalMetaData/275.mp4",
+            "task": "ACR",
+            "question": "What is she gesturing towards with her hand?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1310,
+            "video": "data/src_videos/AutoEvalMetaData/275.mp4",
+            "task": "ACR",
+            "question": "What is he doing?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1311,
+            "video": "data/src_videos/AutoEvalMetaData/250.mp4",
+            "task": "ACR",
+            "question": "What is she doing with the chicken in her hands?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1312,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "ACR",
+            "question": "What action is the player in blue attempting?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1313,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "ACR",
+            "question": "What is the player in white doing with the ball?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1314,
+            "video": "data/src_videos/AutoEvalMetaData/107.mp4",
+            "task": "ACR",
+            "question": "What is the player in white doing with the ball?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1315,
+            "video": "data/src_videos/AutoEvalMetaData/201.mp4",
+            "task": "ACR",
+            "question": "What is someone doing with their foot?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1316,
+            "video": "data/src_videos/AutoEvalMetaData/201.mp4",
+            "task": "ACR",
+            "question": "What is the person doing?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1317,
+            "video": "data/src_videos/AutoEvalMetaData/201.mp4",
+            "task": "ACR",
+            "question": "What is this woman doing?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1318,
+            "video": "data/src_videos/AutoEvalMetaData/72.mp4",
+            "task": "ACR",
+            "question": "What is the activity occurring with the football?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1319,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "What are the names listed on each lane of the pool?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1320,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "What is the leading player's time at the 150m mark?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1321,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "What time did the winner achieve in the 200m freestyle men final?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1322,
+            "video": "data/src_videos/AutoEvalMetaData/106.mp4",
+            "task": "OCR",
+            "question": "Who was the first to arrive?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1323,
+            "video": "data/src_videos/AutoEvalMetaData/16.mp4",
+            "task": "OCR",
+            "question": "What is the label at the top of this brand?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1324,
+            "video": "data/src_videos/AutoEvalMetaData/16.mp4",
+            "task": "OCR",
+            "question": "What is the text on the label of the containers?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1325,
+            "video": "data/src_videos/AutoEvalMetaData/16.mp4",
+            "task": "OCR",
+            "question": "What is the text on the label of the containers?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1326,
+            "video": "data/src_videos/AutoEvalMetaData/305.mp4",
+            "task": "OCR",
+            "question": "What is the name visible on the men's jacket?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1327,
+            "video": "data/src_videos/AutoEvalMetaData/305.mp4",
+            "task": "OCR",
+            "question": "What is written on the jacket of the person sitting on the bed?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1328,
+            "video": "data/src_videos/AutoEvalMetaData/9.mp4",
+            "task": "OCR",
+            "question": "What is the text on the shirt?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1329,
+            "video": "data/src_videos/AutoEvalMetaData/9.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1330,
+            "video": "data/src_videos/AutoEvalMetaData/9.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1331,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What brand name is on the toothpaste?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1332,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What type of gas is indicated on the container to the right?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1333,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What text is visible on the bottle in the middle?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1334,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1335,
+            "video": "data/src_videos/AutoEvalMetaData/263.mp4",
+            "task": "OCR",
+            "question": "What is the text on the package?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1336,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "What is the name of the object with high acceleration and top speed?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1337,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "What name is displayed at the top of the list on the left?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1338,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "Which player is right in front?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1339,
+            "video": "data/src_videos/AutoEvalMetaData/122.mp4",
+            "task": "OCR",
+            "question": "Which player is right in front?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1340,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What name and number are visible on the back of this person's jacket?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1341,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What name and number are visible on the back of this person's jacket?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1342,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What name and number are visible on the back of this person's jacket?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1343,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What number is on the mailbox?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1344,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What name appears on the small license plate attached to the wall?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1345,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is the name written on the sign in front of the building?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1346,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is written on this bottle?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1347,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is written on this bottle?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1348,
+            "video": "data/src_videos/AutoEvalMetaData/49.mp4",
+            "task": "OCR",
+            "question": "What is the label on this?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1349,
+            "video": "data/src_videos/AutoEvalMetaData/216.mp4",
+            "task": "OCR",
+            "question": "What is displayed on the phone screen?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1350,
+            "video": "data/src_videos/AutoEvalMetaData/216.mp4",
+            "task": "OCR",
+            "question": "What is the number of the bus?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1351,
+            "video": "data/src_videos/AutoEvalMetaData/216.mp4",
+            "task": "OCR",
+            "question": "What word is printed on the front of the hoodie worn by the person?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1352,
+            "video": "data/src_videos/AutoEvalMetaData/282.mp4",
+            "task": "OCR",
+            "question": "What word is on the board now?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1353,
+            "video": "data/src_videos/AutoEvalMetaData/282.mp4",
+            "task": "OCR",
+            "question": "What text is displayed now?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1354,
+            "video": "data/src_videos/AutoEvalMetaData/48.mp4",
+            "task": "OCR",
+            "question": "What is written on the shirt they are wearing?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1355,
+            "video": "data/src_videos/AutoEvalMetaData/48.mp4",
+            "task": "OCR",
+            "question": "What is the name of the book?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1356,
+            "video": "data/src_videos/AutoEvalMetaData/48.mp4",
+            "task": "OCR",
+            "question": "What is written on the shirt they are wearing?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1357,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What is written on the clear bottle beside the water bottle?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1358,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What does the label on the bottle with the blue cap say?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1359,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What does the label on the bottle?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1360,
+            "video": "data/src_videos/AutoEvalMetaData/272.mp4",
+            "task": "OCR",
+            "question": "What does the label on the bottle?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1361,
+            "video": "data/src_videos/AutoEvalMetaData/45.mp4",
+            "task": "OCR",
+            "question": "What is written below the logo on the building?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1362,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What time is it shown on the screen?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1363,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What time is displayed on the screen now?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1364,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What text is displayed on the door now?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1365,
+            "video": "data/src_videos/AutoEvalMetaData/145.mp4",
+            "task": "OCR",
+            "question": "What text is displayed on the Computer screen now?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1366,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What brand is displayed on the front of the box?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1367,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What is the name printed on top-left of the large component box?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1368,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What connector is he holding?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1369,
+            "video": "data/src_videos/AutoEvalMetaData/172.mp4",
+            "task": "OCR",
+            "question": "What model is this GPU??",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1370,
+            "video": "data/src_videos/AutoEvalMetaData/113.mp4",
+            "task": "OCR",
+            "question": "What word is displayed now?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1371,
+            "video": "data/src_videos/AutoEvalMetaData/113.mp4",
+            "task": "OCR",
+            "question": "Who are the individuals referenced under 3D modeling?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1372,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "OCR",
+            "question": "What is the current value displayed on the energy meter?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1373,
+            "video": "data/src_videos/AutoEvalMetaData/274.mp4",
+            "task": "OCR",
+            "question": "How does the text on the screen describe the extreme weather?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1374,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What text appears on the white shirts worn by the players in the dugout?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1375,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What happened to the umpire in the series?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1376,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What text appears on the shirts worn by the players?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1377,
+            "video": "data/src_videos/AutoEvalMetaData/59.mp4",
+            "task": "OCR",
+            "question": "What text appears on the shirts worn by the players?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1378,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on the screen now?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1379,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What word is written above the plate?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1380,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on the screen now?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1381,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on the screen now?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1382,
+            "video": "data/src_videos/AutoEvalMetaData/231.mp4",
+            "task": "OCR",
+            "question": "What is the text on this packaging bag?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1383,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What is the price displayed on the 7-Eleven gas station sign?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1384,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What is the speed limit on the road?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1385,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What is the license plate of the car ahead?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1386,
+            "video": "data/src_videos/AutoEvalMetaData/101.mp4",
+            "task": "OCR",
+            "question": "What's on the billboard on the right?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1387,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "What is the current score displayed on the scoreboard?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1388,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "How much time is left for the offensive team in basketball?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1389,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "What is the current score displayed on the scoreboard?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1390,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "What is the current score displayed on the scoreboard?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1391,
+            "video": "data/src_videos/AutoEvalMetaData/65.mp4",
+            "task": "OCR",
+            "question": "Which player is making a free throw?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1392,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "OCR",
+            "question": "Who are the winners of the mixed team match listed on the scoreboard?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1393,
+            "video": "data/src_videos/AutoEvalMetaData/23.mp4",
+            "task": "OCR",
+            "question": "What is the final score displayed for the match in the result table?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1394,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OCR",
+            "question": "What is written on the cake?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1395,
+            "video": "data/src_videos/AutoEvalMetaData/100.mp4",
+            "task": "OCR",
+            "question": "What is written on the gift bag?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1396,
+            "video": "data/src_videos/AutoEvalMetaData/34.mp4",
+            "task": "OCR",
+            "question": "What does the sign read?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1397,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "OCR",
+            "question": "What is the height range of the eagle?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1398,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "OCR",
+            "question": "What animal's height range is listed as 60cm to 90cm?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1399,
+            "video": "data/src_videos/AutoEvalMetaData/31.mp4",
+            "task": "OCR",
+            "question": "What is the height range of the dog?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1400,
+            "video": "data/src_videos/AutoEvalMetaData/135.mp4",
+            "task": "OCR",
+            "question": "What logo is present before the text begins to fade?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1401,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "OCR",
+            "question": "What is the score displayed at the bottom of the scene?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1402,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "OCR",
+            "question": "What's the time left on the clock?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1403,
+            "video": "data/src_videos/AutoEvalMetaData/94.mp4",
+            "task": "OCR",
+            "question": "Which player is shooting?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1404,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "What is the final odds for the horse numbered 4?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1405,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "What is the winning amount mentioned?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1406,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "What are the words on this microphone?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1407,
+            "video": "data/src_videos/AutoEvalMetaData/192.mp4",
+            "task": "OCR",
+            "question": "Which number of horses is slightly behind now?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1408,
+            "video": "data/src_videos/AutoEvalMetaData/259.mp4",
+            "task": "OCR",
+            "question": "What are the letters on the sign?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1409,
+            "video": "data/src_videos/AutoEvalMetaData/259.mp4",
+            "task": "OCR",
+            "question": "What is written on the rear wing of this car?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1410,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "What are the names of the individuals mentioned?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1411,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1412,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1413,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1414,
+            "video": "data/src_videos/AutoEvalMetaData/219.mp4",
+            "task": "OCR",
+            "question": "Who is introducing the other three to Dancing?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1415,
+            "video": "data/src_videos/AutoEvalMetaData/118.mp4",
+            "task": "OCR",
+            "question": "What date is the event taking place?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1416,
+            "video": "data/src_videos/AutoEvalMetaData/118.mp4",
+            "task": "OCR",
+            "question": "What date is the event taking place?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1417,
+            "video": "data/src_videos/AutoEvalMetaData/118.mp4",
+            "task": "OCR",
+            "question": "What date is the event taking place?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1418,
+            "video": "data/src_videos/AutoEvalMetaData/194.mp4",
+            "task": "OCR",
+            "question": "What text is on the block that was just hit?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1419,
+            "video": "data/src_videos/AutoEvalMetaData/194.mp4",
+            "task": "OCR",
+            "question": "What is the score now?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1420,
+            "video": "data/src_videos/AutoEvalMetaData/15.mp4",
+            "task": "OCR",
+            "question": "What does the text above them say?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1421,
+            "video": "data/src_videos/AutoEvalMetaData/15.mp4",
+            "task": "OCR",
+            "question": "What seafood platter options are available based on the menu shown on the screen?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1422,
+            "video": "data/src_videos/AutoEvalMetaData/248.mp4",
+            "task": "OCR",
+            "question": "What brand is on the water bottle she is holding?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1423,
+            "video": "data/src_videos/AutoEvalMetaData/248.mp4",
+            "task": "OCR",
+            "question": "What brand is on the bottle she is holding?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1424,
+            "video": "data/src_videos/AutoEvalMetaData/279.mp4",
+            "task": "OCR",
+            "question": "What is the name on the small brown box?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1425,
+            "video": "data/src_videos/AutoEvalMetaData/279.mp4",
+            "task": "OCR",
+            "question": "What is written on the little yellow house?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1426,
+            "video": "data/src_videos/AutoEvalMetaData/279.mp4",
+            "task": "OCR",
+            "question": "What's the label on this lid?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1427,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What time is displayed at the top left corner?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1428,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is written on the red truck's license plate?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1429,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What date and time is visible on the screen?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1430,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is the license plate number of this car?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1431,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is the license plate number of this car?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1432,
+            "video": "data/src_videos/AutoEvalMetaData/286.mp4",
+            "task": "OCR",
+            "question": "What is the license plate number of this car?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1433,
+            "video": "data/src_videos/AutoEvalMetaData/241.mp4",
+            "task": "OCR",
+            "question": "What text is displayed on the lower left in the frame?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1434,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What words are crossed out in the text?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1435,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What brand is the juicer?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1436,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What is written on this note?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1437,
+            "video": "data/src_videos/AutoEvalMetaData/243.mp4",
+            "task": "OCR",
+            "question": "What are the words on the apron?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1438,
+            "video": "data/src_videos/AutoEvalMetaData/255.mp4",
+            "task": "OCR",
+            "question": "What is the text above the person in black saying?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1439,
+            "video": "data/src_videos/AutoEvalMetaData/255.mp4",
+            "task": "OCR",
+            "question": "What is the statement that strong man just made?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1440,
+            "video": "data/src_videos/AutoEvalMetaData/254.mp4",
+            "task": "OCR",
+            "question": "What name is on the cardboard house?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1441,
+            "video": "data/src_videos/AutoEvalMetaData/158.mp4",
+            "task": "OCR",
+            "question": "What number is displayed on the side window of the silver car?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1442,
+            "video": "data/src_videos/AutoEvalMetaData/158.mp4",
+            "task": "OCR",
+            "question": "Which brand name appears repeatedly on the side panels?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1443,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "OCR",
+            "question": "What does title on the screen say?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1444,
+            "video": "data/src_videos/AutoEvalMetaData/8.mp4",
+            "task": "OCR",
+            "question": "What text can be seen on the tablecloth?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1445,
+            "video": "data/src_videos/AutoEvalMetaData/233.mp4",
+            "task": "OCR",
+            "question": "What text appears at the bottom of the scene when she is talking to someone in the car?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1446,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What scores did J1,J2,J3,J4,J5,J6,and J7 give in Round 1?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1447,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What is the total score shown for Monica Gavaris?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1448,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "Who is the diver being scored in Round 1?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1449,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What is the total score shown for Monica Gavaris?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1450,
+            "video": "data/src_videos/AutoEvalMetaData/320.mp4",
+            "task": "OCR",
+            "question": "What is the total score shown for Monica Gavaris?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1451,
+            "video": "data/src_videos/AutoEvalMetaData/88.mp4",
+            "task": "OCR",
+            "question": "What's written on the side of the white plastic bag?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1452,
+            "video": "data/src_videos/AutoEvalMetaData/88.mp4",
+            "task": "OCR",
+            "question": "What does the subtitle say during the bed making?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1453,
+            "video": "data/src_videos/AutoEvalMetaData/88.mp4",
+            "task": "OCR",
+            "question": "What is the title of the book?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1454,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "How many entries in column C are numeric?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1455,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "What text is being written in the B column?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1456,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "What numbers are listed in the cells of column C?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1457,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "Which menu option is being selected?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 1458,
+            "video": "data/src_videos/AutoEvalMetaData/195.mp4",
+            "task": "OCR",
+            "question": "What font size is he choosing for the current table?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1459,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "What text is being shown on the screen?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1460,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "What is the name of the town shown on the map?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1461,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "How many players are still alive according to the HUD?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1462,
+            "video": "data/src_videos/AutoEvalMetaData/149.mp4",
+            "task": "OCR",
+            "question": "What weapon is displayed in the vicinity overlay?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 1463,
+            "video": "data/src_videos/AutoEvalMetaData/224.mp4",
+            "task": "OCR",
+            "question": "What is displayed on the house number plate?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 1464,
+            "video": "data/src_videos/AutoEvalMetaData/224.mp4",
+            "task": "OCR",
+            "question": "What text can be seen on the yellow sign in the background?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1465,
+            "video": "data/src_videos/AutoEvalMetaData/269.mp4",
+            "task": "OCR",
+            "question": "What is written on the white paper?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1466,
+            "video": "data/src_videos/AutoEvalMetaData/269.mp4",
+            "task": "OCR",
+            "question": "What is the angle between the side of the jar and the swirl of the liquid?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 1467,
+            "video": "data/src_videos/AutoEvalMetaData/234.mp4",
+            "task": "OCR",
+            "question": "What is the name visible on the front go-karts?",
+            "response": "D",
+            "ground_truth": "C"
+        }
+    ],
+    "forward": []
+}

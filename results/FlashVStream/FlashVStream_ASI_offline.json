@@ -1,0 +1,1190 @@
+{
+    "backward": [
+        {
+            "id": 483,
+            "video": "data/src_videos/COIN/Hf2AisK1wHY.mp4",
+            "task": "ASI",
+            "question": "What does the person do after load the wheel",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 484,
+            "video": "data/src_videos/COIN/TGB9fz9acp0.mp4",
+            "task": "ASI",
+            "question": "What does the person do after install the SSD onto the hard disk tray",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 485,
+            "video": "data/src_videos/COIN/xCJmXGMl54I.mp4",
+            "task": "ASI",
+            "question": "What does the person do before arrange the seperated wire",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 486,
+            "video": "data/src_videos/COIN/1-arcrelDCQ.mp4",
+            "task": "ASI",
+            "question": "What does the person do before prepare meat",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 487,
+            "video": "data/src_videos/COIN/vZitG-lUUiY.mp4",
+            "task": "ASI",
+            "question": "What does the person do before prepare seasonings and side dishes",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 488,
+            "video": "data/src_videos/COIN/C4P8VCekA3Y.mp4",
+            "task": "ASI",
+            "question": "What does the person do before use sandpaper/metal to polish rubber near leak",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 489,
+            "video": "data/src_videos/COIN/Wd3ihpZqOck.mp4",
+            "task": "ASI",
+            "question": "What does the person do after ink the marked area",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 490,
+            "video": "data/src_videos/COIN/3AlMZFGwegE.mp4",
+            "task": "ASI",
+            "question": "What does the person do after install the SSD onto the hard disk tray",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 491,
+            "video": "data/src_videos/COIN/8jRoZSWibM0.mp4",
+            "task": "ASI",
+            "question": "What does the person do after wipe screen again",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 492,
+            "video": "data/src_videos/COIN/xcpffGBVi8Y.mp4",
+            "task": "ASI",
+            "question": "What does the person do after mix and pickle",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 493,
+            "video": "data/src_videos/COIN/qV3Yd1hJKZU.mp4",
+            "task": "ASI",
+            "question": "What does the person do before use sandpaper/metal to polish rubber near leak",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 494,
+            "video": "data/src_videos/COIN/OyLTCe_FWrQ.mp4",
+            "task": "ASI",
+            "question": "What does the person do after load a new battery",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 495,
+            "video": "data/src_videos/COIN/Q-uCII9Rtz0.mp4",
+            "task": "ASI",
+            "question": "What does the person do before unscrew the screws used to fix the screen",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 496,
+            "video": "data/src_videos/COIN/_ymPcF51eHg.mp4",
+            "task": "ASI",
+            "question": "What does the person do before install the air nozzle",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 497,
+            "video": "data/src_videos/COIN/fHv947jR_6U.mp4",
+            "task": "ASI",
+            "question": "What does the person do before put nicely and align the quilt and the cover",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 498,
+            "video": "data/src_videos/cross_task/WtBh0I9Lmmk.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add spices",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 499,
+            "video": "data/src_videos/cross_task/J6ZYt9Jv84s.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add taco",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 500,
+            "video": "data/src_videos/cross_task/h68TQJz8PqY.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add sugar",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 501,
+            "video": "data/src_videos/cross_task/k5_89KhvpK4.mp4",
+            "task": "ASI",
+            "question": "What does the person do after put bread in pan",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 502,
+            "video": "data/src_videos/cross_task/bBDF0QpJmjU.mp4",
+            "task": "ASI",
+            "question": "What does the person do before pour jello powder",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 503,
+            "video": "data/src_videos/cross_task/qiHp18HzLsU.mp4",
+            "task": "ASI",
+            "question": "What does the person do after wipe off dipstick",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 504,
+            "video": "data/src_videos/cross_task/ysHXDXqi4mc.mp4",
+            "task": "ASI",
+            "question": "What does the person do after put wheel",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 505,
+            "video": "data/src_videos/cross_task/EUt-0DS2GGU.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add spices",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 506,
+            "video": "data/src_videos/cross_task/0mnuAqJCg5c.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add ham",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 507,
+            "video": "data/src_videos/cross_task/3zv8EjVGTPs.mp4",
+            "task": "ASI",
+            "question": "What does the person do after remove bread from pan",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 508,
+            "video": "data/src_videos/cross_task/70jQPy4UQ9M.mp4",
+            "task": "ASI",
+            "question": "What does the person do before flip steak",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 509,
+            "video": "data/src_videos/cross_task/bQBNnsExUlg.mp4",
+            "task": "ASI",
+            "question": "What does the person do after flip steak",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 510,
+            "video": "data/src_videos/cross_task/VS4zWF9hQpQ.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add meat",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 511,
+            "video": "data/src_videos/cross_task/LReec2a4XeQ.mp4",
+            "task": "ASI",
+            "question": "What does the person do after tight wheel",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 512,
+            "video": "data/src_videos/cross_task/88QX6nH21fw.mp4",
+            "task": "ASI",
+            "question": "What does the person do before cut lemon",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 513,
+            "video": "data/src_videos/cross_task/DLrZYkn8zBU.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add ham",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 514,
+            "video": "data/src_videos/cross_task/3kIs5YyLd_M.mp4",
+            "task": "ASI",
+            "question": "What does the person do after dip bread in mixture",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 515,
+            "video": "data/src_videos/cross_task/O6UjkyccfVM.mp4",
+            "task": "ASI",
+            "question": "What does the person do before put wheel",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 516,
+            "video": "data/src_videos/cross_task/U8WsB25zQR0.mp4",
+            "task": "ASI",
+            "question": "What does the person do after flip bread",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 517,
+            "video": "data/src_videos/cross_task/a8JKu4Pqe4E.mp4",
+            "task": "ASI",
+            "question": "What does the person do after flip bread",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 518,
+            "video": "data/src_videos/hirest/2nkCdciXDa8_55_423.mp4",
+            "task": "ASI",
+            "question": "What does the person do after attach pebble piece",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 519,
+            "video": "data/src_videos/hirest/e76KWpbPdfY_107_465.mp4",
+            "task": "ASI",
+            "question": "What does the person do after put wire under",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 520,
+            "video": "data/src_videos/hirest/yH3p_oMRyns_144_498.mp4",
+            "task": "ASI",
+            "question": "What does the person do after put floral tape",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 521,
+            "video": "data/src_videos/hirest/8KWG-HxHcbE_126_412.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add chopped cease",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 522,
+            "video": "data/src_videos/hirest/FcRrnEpE4x8_165_439.mp4",
+            "task": "ASI",
+            "question": "What does the person do before flash the garment",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 523,
+            "video": "data/src_videos/hirest/iKRdPAsOPPk_19_256.mp4",
+            "task": "ASI",
+            "question": "What does the person do before put ices in the jar",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 524,
+            "video": "data/src_videos/hirest/NULTB33w3Bw_56_282.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add corn starch into mixture",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 525,
+            "video": "data/src_videos/hirest/oDRoXgINJAU_108_288.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add carrot on pan",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 526,
+            "video": "data/src_videos/hirest/yWpSs787IRI_55_220.mp4",
+            "task": "ASI",
+            "question": "What does the person do before put three inch elastic on side",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 527,
+            "video": "data/src_videos/hirest/gWR8Nsf_Z_g_61_221.mp4",
+            "task": "ASI",
+            "question": "What does the person do before empty the container",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 528,
+            "video": "data/src_videos/hirest/lpyvvneQImU_81_236.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add garlic",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 529,
+            "video": "data/src_videos/hirest/2YZHJOLuA8o_63_216.mp4",
+            "task": "ASI",
+            "question": "What does the person do before cover empty places on leaf",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 530,
+            "video": "data/src_videos/hirest/5JpT5RcuFUk_115_251.mp4",
+            "task": "ASI",
+            "question": "What does the person do before put light underneath",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 531,
+            "video": "data/src_videos/hirest/38H8OKlNA9g_55_178.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add more wood chips if required",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 532,
+            "video": "data/src_videos/hirest/LFufa6Nfc6Y_68_189.mp4",
+            "task": "ASI",
+            "question": "What does the person do before fourteen desert are there",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 533,
+            "video": "data/src_videos/hirest/wfiAtfED4K8_41_159.mp4",
+            "task": "ASI",
+            "question": "What does the person do before put logs crisscross on top",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 534,
+            "video": "data/src_videos/hirest/HjEf_JHzqe8_40_157.mp4",
+            "task": "ASI",
+            "question": "What does the person do after remove air out of system",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 535,
+            "video": "data/src_videos/hirest/vxDNQjk75dU_56_168.mp4",
+            "task": "ASI",
+            "question": "What does the person do after place on baking sheet",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 536,
+            "video": "data/src_videos/hirest/6C0mL9n9Nko_11_116.mp4",
+            "task": "ASI",
+            "question": "What does the person do before another clay",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 537,
+            "video": "data/src_videos/hirest/9pybtCnEqEQ_28_125.mp4",
+            "task": "ASI",
+            "question": "What does the person do after put together flowers and grass",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 538,
+            "video": "data/src_videos/youcook2/sGzBQrg1adY.mp4",
+            "task": "ASI",
+            "question": "What does the person do after cover up and cook for 6 to 8 minutes",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 539,
+            "video": "data/src_videos/youcook2/XAHNVoKV1Bc.mp4",
+            "task": "ASI",
+            "question": "What does the person do before make 8 meat balls out of the mixture prepared",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 540,
+            "video": "data/src_videos/youcook2/HBUz55JRRm8.mp4",
+            "task": "ASI",
+            "question": "What does the person do before mash the boiled potatos with butter salt and pepper",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 541,
+            "video": "data/src_videos/youcook2/NRovp9c9e-4.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add chicken salt coriander leaves and garam masala powder and mix well",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 542,
+            "video": "data/src_videos/youcook2/We2CzpjPD3k.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add some water to the vegetables and add stock cube and black pepper",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 543,
+            "video": "data/src_videos/youcook2/DpuofwnCI8A.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add the mashed chick peas and the whole chick peas to the pan and stir",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 544,
+            "video": "data/src_videos/youcook2/oYLrSflCI2g.mp4",
+            "task": "ASI",
+            "question": "What does the person do before pour water into the bowl while mixing",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 545,
+            "video": "data/src_videos/youcook2/_xIIpW8iMps.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add tomato puree and cook until it starts to lose oil",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 546,
+            "video": "data/src_videos/youcook2/2heP32bqOV0.mp4",
+            "task": "ASI",
+            "question": "What does the person do before cut the onion into slices",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 547,
+            "video": "data/src_videos/youcook2/sSO2wO-yaHw.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add ground black pepper to the wok",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 548,
+            "video": "data/src_videos/youcook2/R-EnNr_oH8A.mp4",
+            "task": "ASI",
+            "question": "What does the person do before cut the beef into thin long slices",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 549,
+            "video": "data/src_videos/youcook2/LQDP3xm8aRk.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add a little black pepper",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 550,
+            "video": "data/src_videos/youcook2/bxgdUWKOwtQ.mp4",
+            "task": "ASI",
+            "question": "What does the person do after cut into two halves and roll one half into a cone",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 551,
+            "video": "data/src_videos/youcook2/btikV_DUoCM.mp4",
+            "task": "ASI",
+            "question": "What does the person do after transfer the meat to a bowl top with a layer of mashed potatoes and grate some cheese",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 552,
+            "video": "data/src_videos/youcook2/a5FoLWnEiAI.mp4",
+            "task": "ASI",
+            "question": "What does the person do after pour the sauce in the pan and add the lentil and red kidney beans to the pot and mix them well",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 553,
+            "video": "data/src_videos/youcook2/iq7aiv9MPvA.mp4",
+            "task": "ASI",
+            "question": "What does the person do after cover it with another piece of tortilla",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 554,
+            "video": "data/src_videos/youcook2/so-RuJQY1d0.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add paneer cashews walnuts tomatoes and little yogurt and mix it evenly",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 555,
+            "video": "data/src_videos/youcook2/ysRLGUndzgg.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add noodles and vegetable broth and stir",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 556,
+            "video": "data/src_videos/youcook2/nz_LHDf0uqE.mp4",
+            "task": "ASI",
+            "question": "What does the person do before cut the potato into wedges",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 557,
+            "video": "data/src_videos/youcook2/vp_dOhmfGcs.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add the noodles and stir",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 558,
+            "video": "data/src_videos/youcook2/luDzsPatsGw.mp4",
+            "task": "ASI",
+            "question": "What does the person do before mix sea salt pepper and spices",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 559,
+            "video": "data/src_videos/youcook2/nuwCjQVlBrg.mp4",
+            "task": "ASI",
+            "question": "What does the person do after coat the meat in the flour eggs and bread crumbs",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 560,
+            "video": "data/src_videos/youcook2/PYjrGqPHGhY.mp4",
+            "task": "ASI",
+            "question": "What does the person do before mix together an egg butter and butter milk",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 561,
+            "video": "data/src_videos/youcook2/bY4_F8J8HOM.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add in the flour and mix and form the dough",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 562,
+            "video": "data/src_videos/youcook2/E9O9-6TQUw0.mp4",
+            "task": "ASI",
+            "question": "What does the person do before cover the pork in plastic wrap and pound",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 563,
+            "video": "data/src_videos/youcook2/TMpt-41UTOk.mp4",
+            "task": "ASI",
+            "question": "What does the person do after boil the wrapped pierogies in boiling salted water",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 564,
+            "video": "data/src_videos/youcook2/-dh_uGahzYo.mp4",
+            "task": "ASI",
+            "question": "What does the person do before heat some ghee in a pan",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 565,
+            "video": "data/src_videos/youcook2/NXnQys_ejeg.mp4",
+            "task": "ASI",
+            "question": "What does the person do before place the strained rice on a plate",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 566,
+            "video": "data/src_videos/youcook2/_mL1gihKDw0.mp4",
+            "task": "ASI",
+            "question": "What does the person do before prepare some water in a large bowl and add some rock salt",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 567,
+            "video": "data/src_videos/youcook2/VPFmudvabUg.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add some salt and ground pepper and process",
+            "response": null,
+            "ground_truth": "A"
+        },
+        {
+            "id": 568,
+            "video": "data/src_videos/youcook2/T_fPNAK5Ecg.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add milk to the onions and stir",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 569,
+            "video": "data/src_videos/youcook2/3meb_5kcPFg.mp4",
+            "task": "ASI",
+            "question": "What does the person do before roughly chop garlic and peppers and add them to the bowl",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 570,
+            "video": "data/src_videos/youcook2/noS_n5k3oxM.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add garlic ginger brown sugar and chopped onion and mix it well",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 571,
+            "video": "data/src_videos/youcook2/paiJGvLILKE.mp4",
+            "task": "ASI",
+            "question": "What does the person do before spread some mayo between two buns",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 572,
+            "video": "data/src_videos/youcook2/pTjoGIvSfE8.mp4",
+            "task": "ASI",
+            "question": "What does the person do before saute minced garlic until translucent",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 573,
+            "video": "data/src_videos/youcook2/xPiv3hP5888.mp4",
+            "task": "ASI",
+            "question": "What does the person do after pour the meat into an oven safe container",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 574,
+            "video": "data/src_videos/youcook2/3V4MxH2GuIU.mp4",
+            "task": "ASI",
+            "question": "What does the person do before cut some chicken breast into pieces",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 575,
+            "video": "data/src_videos/youcook2/DBgap0YANhs.mp4",
+            "task": "ASI",
+            "question": "What does the person do after mix fried onions with the rice",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 576,
+            "video": "data/src_videos/youcook2/OF-Zh5FrxGc.mp4",
+            "task": "ASI",
+            "question": "What does the person do before drain the pasta",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 577,
+            "video": "data/src_videos/youcook2/2iWUUcW08ac.mp4",
+            "task": "ASI",
+            "question": "What does the person do after when the edge turns brown flip the pancakes",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 578,
+            "video": "data/src_videos/youcook2/UmJk0WSl9Uc.mp4",
+            "task": "ASI",
+            "question": "What does the person do after mix in sour cream",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 579,
+            "video": "data/src_videos/youcook2/bAC0cZIQVOk.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add ground beef an egg ketchup and milk to a bowl",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 580,
+            "video": "data/src_videos/youcook2/PQ97HXmsFR0.mp4",
+            "task": "ASI",
+            "question": "What does the person do after now add the rolls into the hot oil and cook for 6- 8minutes until they are light golden brown",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 581,
+            "video": "data/src_videos/youcook2/vVZsj1t9R70.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add corn starch",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 582,
+            "video": "data/src_videos/youcook2/cQ8mt5ACO0A.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add bean sprouts to the pan and stir",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 583,
+            "video": "data/src_videos/youcook2/-Ju39A-G0Dk.mp4",
+            "task": "ASI",
+            "question": "What does the person do before add a little bit salt and black pepper to the pot",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 584,
+            "video": "data/src_videos/youcook2/ysUibvVCpP8.mp4",
+            "task": "ASI",
+            "question": "What does the person do before take the shrimp and cut it into two halves",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 585,
+            "video": "data/src_videos/youcook2/jnewhlK2USg.mp4",
+            "task": "ASI",
+            "question": "What does the person do after add the tuna mix on top and season with some sesame seeds",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 586,
+            "video": "data/src_videos/youcook2/ljyO7IaGWLY.mp4",
+            "task": "ASI",
+            "question": "What does the person do before divide the dough into smaller balls",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 587,
+            "video": "data/src_videos/youcook2/T_o_T3LEYLY.mp4",
+            "task": "ASI",
+            "question": "What does the person do before place the fillings on one end of the rice paper and roll",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 588,
+            "video": "data/src_videos/star/OVFR0.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the book before opening the door?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 589,
+            "video": "data/src_videos/star/43FG9.mp4",
+            "task": "ASI",
+            "question": "Which object did the person close before they put down the clothes?",
+            "response": "B",
+            "ground_truth": "B"
+        },
+        {
+            "id": 590,
+            "video": "data/src_videos/star/RAQNI.mp4",
+            "task": "ASI",
+            "question": "What happened before the person put down the clothes?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 591,
+            "video": "data/src_videos/star/STAFD.mp4",
+            "task": "ASI",
+            "question": "Which object did the person eat before they threw the clothes?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 592,
+            "video": "data/src_videos/star/5OIQ7.mp4",
+            "task": "ASI",
+            "question": "What happened before the person ate the medicine?",
+            "response": "D",
+            "ground_truth": "B"
+        },
+        {
+            "id": 593,
+            "video": "data/src_videos/star/DGMDT.mp4",
+            "task": "ASI",
+            "question": "Which object did the person put down before they held the phone/camera?",
+            "response": "B",
+            "ground_truth": "C"
+        },
+        {
+            "id": 594,
+            "video": "data/src_videos/star/P4DL9.mp4",
+            "task": "ASI",
+            "question": "What happened before the person took the pot?",
+            "response": "B",
+            "ground_truth": "A"
+        },
+        {
+            "id": 595,
+            "video": "data/src_videos/star/JLGLU.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the towel before closing the door?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 596,
+            "video": "data/src_videos/star/52MV9.mp4",
+            "task": "ASI",
+            "question": "What happened before the person ate the sandwich?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 597,
+            "video": "data/src_videos/star/NVGDG.mp4",
+            "task": "ASI",
+            "question": "Which object did the person sit on before they took the blanket?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 598,
+            "video": "data/src_videos/star/NLWBW.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the bag before drinking from the cup/glass/bottle?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 599,
+            "video": "data/src_videos/star/F5TL0.mp4",
+            "task": "ASI",
+            "question": "Which object did the person close before they took the cup/glass/bottle?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 600,
+            "video": "data/src_videos/star/6PL9Z.mp4",
+            "task": "ASI",
+            "question": "What happened before the person took the blanket?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 601,
+            "video": "data/src_videos/star/5V5EL.mp4",
+            "task": "ASI",
+            "question": "What happened before the person took the bag?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 602,
+            "video": "data/src_videos/star/VVTJJ.mp4",
+            "task": "ASI",
+            "question": "Which object did the person put down before they sat at the table?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 603,
+            "video": "data/src_videos/star/VUOQF.mp4",
+            "task": "ASI",
+            "question": "Which object did the person open before they held the food?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 604,
+            "video": "data/src_videos/star/MNC10.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the broom before taking the box?",
+            "response": "B",
+            "ground_truth": "D"
+        },
+        {
+            "id": 605,
+            "video": "data/src_videos/star/X8XQE.mp4",
+            "task": "ASI",
+            "question": "Which object did the person close before they held the phone/camera?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 606,
+            "video": "data/src_videos/star/LSVHK.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the towel before opening the door?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 607,
+            "video": "data/src_videos/star/9X208.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the towel before opening the door?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 608,
+            "video": "data/src_videos/star/H41MY.mp4",
+            "task": "ASI",
+            "question": "Which object did the person take before they drank from the cup/glass/bottle?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 609,
+            "video": "data/src_videos/star/KXCSL.mp4",
+            "task": "ASI",
+            "question": "What happened before the person closed the refrigerator?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 610,
+            "video": "data/src_videos/star/R971Z.mp4",
+            "task": "ASI",
+            "question": "What happened before the person held the mirror?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 611,
+            "video": "data/src_videos/star/WRW74.mp4",
+            "task": "ASI",
+            "question": "What happened before the person held the dish?",
+            "response": "C",
+            "ground_truth": "B"
+        },
+        {
+            "id": 612,
+            "video": "data/src_videos/star/P2UBC.mp4",
+            "task": "ASI",
+            "question": "Which object did the person sit on before they came to the door?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 613,
+            "video": "data/src_videos/star/0JB3D.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the refrigerator before drinking from the cup/glass/bottle?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 614,
+            "video": "data/src_videos/star/BWG9B.mp4",
+            "task": "ASI",
+            "question": "What happened before the person sat on the sofa/couch?",
+            "response": "C",
+            "ground_truth": "C"
+        },
+        {
+            "id": 615,
+            "video": "data/src_videos/star/TAZGF.mp4",
+            "task": "ASI",
+            "question": "Which object did the person put down before they sat on the sofa/couch?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 616,
+            "video": "data/src_videos/star/KLP7V.mp4",
+            "task": "ASI",
+            "question": "Which object did the person put down before they drank from the cup/glass/bottle?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 617,
+            "video": "data/src_videos/star/3B81O.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the window before washing the dish?",
+            "response": "D",
+            "ground_truth": "A"
+        },
+        {
+            "id": 618,
+            "video": "data/src_videos/star/F3O37.mp4",
+            "task": "ASI",
+            "question": "Which object did the person put down before they held the pillow?",
+            "response": "C",
+            "ground_truth": "D"
+        },
+        {
+            "id": 619,
+            "video": "data/src_videos/star/DHFA6.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the box before sitting on the sofa/couch?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 620,
+            "video": "data/src_videos/star/6ZWSU.mp4",
+            "task": "ASI",
+            "question": "What happened before the person took the phone/camera?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 621,
+            "video": "data/src_videos/star/4P13T.mp4",
+            "task": "ASI",
+            "question": "Which object did the person take before they put down the book?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 622,
+            "video": "data/src_videos/star/ZCH1J.mp4",
+            "task": "ASI",
+            "question": "What happened before the person held the food?",
+            "response": "A",
+            "ground_truth": "B"
+        },
+        {
+            "id": 623,
+            "video": "data/src_videos/star/EDXBD.mp4",
+            "task": "ASI",
+            "question": "Which object did the person sit at before they opened the door?",
+            "response": "A",
+            "ground_truth": "C"
+        },
+        {
+            "id": 624,
+            "video": "data/src_videos/star/X4DOF.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the pillow before watching outside the window?",
+            "response": "A",
+            "ground_truth": "D"
+        },
+        {
+            "id": 625,
+            "video": "data/src_videos/star/PDRVY.mp4",
+            "task": "ASI",
+            "question": "What happened before the person closed the closet/cabinet?",
+            "response": "D",
+            "ground_truth": "D"
+        },
+        {
+            "id": 626,
+            "video": "data/src_videos/star/AWGMW.mp4",
+            "task": "ASI",
+            "question": "What happened before the person took the cup/glass/bottle?",
+            "response": "D",
+            "ground_truth": "C"
+        },
+        {
+            "id": 627,
+            "video": "data/src_videos/star/ICL1M.mp4",
+            "task": "ASI",
+            "question": "Which object did the person close before they drank from the cup/glass/bottle?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 628,
+            "video": "data/src_videos/star/DRGKV.mp4",
+            "task": "ASI",
+            "question": "Which object did the person throw before they held the phone/camera?",
+            "response": "C",
+            "ground_truth": "A"
+        },
+        {
+            "id": 629,
+            "video": "data/src_videos/star/WJ1E7.mp4",
+            "task": "ASI",
+            "question": "What did the person do to the shoe before sitting at the table?",
+            "response": "A",
+            "ground_truth": "A"
+        },
+        {
+            "id": 630,
+            "video": "data/src_videos/star/PV745.mp4",
+            "task": "ASI",
+            "question": "What happened before the person put on the clothes?",
+            "response": "A",
+            "ground_truth": "D"
+        }
+    ],
+    "realtime": [],
+    "forward": []
+}
