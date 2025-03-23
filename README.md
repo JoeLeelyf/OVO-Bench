@@ -13,12 +13,10 @@
   <a href="https://huggingface.co/datasets/JoeLeelyf/OVO-Bench" style="margin-right: 10px;"> 
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-ffd21e">
   </a>
-  <a href="https://huggingface.co/papers/2501.05510"> 
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-ffd21e">
-  </a>
 </p>
 
-*We'll soon release our camera-ready edition and provided evaluation results of recently-released streaming models.
+> **Important Note:** Current codebase is modified compared to our initial arXiv paper. We strongly recommend that any use of OVO-Bench should be based on current edition.
+
 ## Introduction
 ### 🌟 Three distinct problem-solving modes
 -  **Backward Tracing**: trace back to past events to answer the question.
@@ -50,7 +48,7 @@ video duration (in seconds) in OVOBench. " width="50%">
 
 ##  Dataset Examples
 <p align="center">
-  <img src="images/benchmark_examples_vertical_00.png" alt="Distribution of questions and video in OVO-Bench." width="50%">
+  <img src="images/camera_ready_examples.png" alt="Distribution of questions and video in OVO-Bench." width="90%">
 </p>
 
 ## Evaluation Pipeline
@@ -71,29 +69,29 @@ Download `videos` and `annotations` from our [huggingface-repo](https://huggingf
 ### Inference and Score
 We divide our evaluation pipeline into two parts: `inference` and `score`. For our released models, run our provided scripts under `./scripts` directory. For example, for InternVL2, run:
 ```bash
-bash scripts/inference_Gemini.sh
+bash scripts/inference/Gemini.sh
 ```
 All inference results will be saved under `./results/[MODEL_NAME]`. Then run our scoring scripts:
 ```bash
-bash scripts/score_Gemini.sh
+bash scripts/score/Gemini.sh
 ```
 Scores will show in cli:
 ```txt
 Offline Model: Gemini
 Evaluate Backward Tracing...
+Task: ASI, Acc: 76.35
 Task: HLD, Acc: 52.69
-Task: ASI, Acc: 75.68
 Task: EPM, Acc: 58.59
-Backward Avg.: 62.32
+Backward Avg.: 62.54
 
 Evaluate Real-time Visual Perception...
-Task: STU, Acc: 54.49
-Task: OJR, Acc: 67.39
-Task: ATR, Acc: 80.17
-Task: FPD, Acc: 68.32
+Task: ATR, Acc: 79.31
 Task: ACR, Acc: 66.97
-Task: OCR, Acc: 87.25
-Realtime Avg.: 70.77
+Task: OCR, Acc: 85.91
+Task: STU, Acc: 58.43
+Task: OJR, Acc: 61.96
+Task: FPD, Acc: 63.37
+Realtime Avg.: 69.32
 
 Evaluate Forward Active Responding...
 Task: REC, Acc: 35.53
@@ -101,7 +99,7 @@ Task: SSR, Acc: 74.24
 Task: CRR, Acc: 61.67
 Forward Avg.: 57.15
 
-Total Avg.: 65.25
+Total Avg.: 63.00
 ```
 To evaluate your own models, inherit `OVOBenchOffline/Online` class in `./utils/OVOBench.py` and implement your own inference pipeline. Refer to our provided models under `./models` for further details.
 
@@ -110,7 +108,7 @@ OVO-Bench is released under `CC BY-NC-SA 4.0` license. By downloading our datase
 
 ## 🫥 Experimental Results
 <p align="center">
-  <img src="images/experiments_results.png" alt="Distribution of questions and video in OVO-Bench." width="100%">
+  <img src="images/leaderboard.png" alt="Distribution of questions and video in OVO-Bench." width="100%">
 </p>
 
 
