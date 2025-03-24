@@ -64,7 +64,13 @@ tqdm
 Or run `pip insall -r requirements` to install all required modules.
 
 ### Data Preparation
-Download `videos` and `annotations` from our [huggingface-repo](https://huggingface.co/datasets/JoeLeelyf/OVO-Bench), unzip all files and place them under `./data` directory. 
+- Download src videos and chunk videos locally: 
+  1. Download `src_videos.tar.parta[a~e]`(~44GB) from [huggingface-repo](https://huggingface.co/datasets/JoeLeelyf/OVO-Bench)
+  2. Place it under `./data`  and then concat and untar all files
+  3. Run `bash scripts/chunk_video.sh` to get all chunked video clips.
+- (Recommend) Downloaded our pre-chunked video clips:
+  1. Download `chunked_videos.tar.parta[a~o]`(~144GB) from [huggingface-repo](https://huggingface.co/datasets/JoeLeelyf/OVO-Bench)
+  2. Place it under `./data` and then concat and untar all files.
 
 ### Inference and Score
 We divide our evaluation pipeline into two parts: `inference` and `score`. For our released models, run our provided scripts under `./scripts` directory. For example, for InternVL2, run:
