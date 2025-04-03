@@ -117,6 +117,9 @@ OVO-Bench is released under `CC BY-NC-SA 4.0` license. By downloading our datase
   <img src="images/leaderboard.png" alt="Distribution of questions and video in OVO-Bench." width="100%">
 </p>
 
+<p align="center">
+  <img src="images/model.png" alt="Performance comparison between online Video-LLMs and offline Video-LLMs." width="50%">
+</p>
 
 ## 📍 Citing OVO-Bench
 ```bibtex
