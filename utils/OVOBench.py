@@ -67,7 +67,6 @@ class OVOBenchOffline():
                 chunk_video_path = os.path.join(self.args.chunked_dir, f"{id}.mp4")
                 assert os.path.exists(chunk_video_path)
 
-                response = self.inference(chunk_video_path, prompt)
                 try:
                     response = self.inference(chunk_video_path, prompt)
                 except Exception as e:
